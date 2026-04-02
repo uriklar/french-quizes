@@ -1,0 +1,76 @@
+{
+  "slug": "french-pronouns",
+  "title": "French Pronoun Drill",
+  "description": "COD, COI, and disjunctive pronouns",
+  "questionCount": 33,
+  "sections": [
+    {
+      "title": "Part 1: Choose the Right Pronoun",
+      "instructions": "Select the correct pronoun to complete each sentence.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "J'ai acheté un cadeau pour ___.", "context": "(my friend Marc)", "options": ["il", "lui", "le", "eux"], "correct": 1, "explanation": "After a preposition (pour), use a disjunctive pronoun. Marc is singular masculine → lui." },
+        { "sentence": "Marie est très gentille. Je ___ appelle souvent.", "context": "(I call her)", "options": ["elle", "lui", "la", "leur"], "correct": 2, "explanation": "Appeler takes a direct object (appeler quelqu'un). Marie is feminine singular → la. COD goes before the verb." },
+        { "sentence": "Mes parents sont sévères. Je ___ obéis toujours.", "context": "(I obey them)", "options": ["les", "eux", "leur", "ils"], "correct": 2, "explanation": "Obéir à quelqu'un → indirect object. Plural → leur. (Not les — that would be COD.)" },
+        { "sentence": "C'est l'anniversaire de Sophie. On va chez ___ ce soir.", "context": "", "options": ["elle", "lui", "la", "soi"], "correct": 0, "explanation": "After chez (preposition), use a disjunctive pronoun. Sophie is feminine → elle. (Not lui — that's masculine disjunctive or COI.)" },
+        { "sentence": "Tu connais Paul et Luc? Oui, je ___ connais bien.", "context": "", "options": ["leur", "eux", "les", "ils"], "correct": 2, "explanation": "Connaître quelqu'un → direct object. Plural → les." },
+        { "sentence": "Marion dit que ses parents ne ___ laissent pas sortir.", "context": "(her)", "options": ["elle", "lui", "la", "leur"], "correct": 2, "explanation": "Laisser quelqu'un faire → direct object. Marion is feminine singular → la." },
+        { "sentence": "J'ai parlé à mes collègues. Je ___ ai expliqué le problème.", "context": "", "options": ["les", "eux", "leur", "ils"], "correct": 2, "explanation": "Expliquer quelque chose À quelqu'un → indirect object. Plural → leur." },
+        { "sentence": "Omer est mon meilleur ami. Ce cadeau est pour ___.", "context": "", "options": ["il", "le", "lui", "eux"], "correct": 2, "explanation": "After pour (preposition), use disjunctive. Omer is singular masculine → lui." }
+      ]
+    },
+    {
+      "title": "Part 2: Spot and Fix the Error",
+      "instructions": "Each sentence has a pronoun error. Find it and type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        { "sentence": "Je voudrais acheter un cadeau pour eux.", "context": "(talking about one male friend)", "correct": "Je voudrais acheter un cadeau pour lui.", "hint": "One person, not a group.", "errorType": "eux → lui (singular, not plural)" },
+        { "sentence": "Mes parents ne leur laissent pas de liberté.", "context": "(talking about one girl — Marion)", "correct": "Mes parents ne la laissent pas de liberté.", "hint": "Laisser takes a direct object, not indirect.", "errorType": "leur → la (COD not COI, and singular feminine)" },
+        { "sentence": "Je pense que il peut nous aider.", "context": "", "correct": "Je pense qu'il peut nous aider.", "hint": "What happens to 'que' before a vowel?", "errorType": "que il → qu'il (elision)" },
+        { "sentence": "On va aller chez ils ce week-end.", "context": "(at their place)", "correct": "On va aller chez eux ce week-end.", "hint": "After a preposition, never use a subject pronoun.", "errorType": "ils → eux (disjunctive after preposition)" },
+        { "sentence": "Sophie est sympa. Je parle souvent à elle.", "context": "", "correct": "Sophie est sympa. Je lui parle souvent.", "hint": "Parler à quelqu'un uses COI, not preposition + disjunctive.", "errorType": "à elle → lui (use COI pronoun, placed before verb)" },
+        { "sentence": "Les enfants? Je les donne des cadeaux chaque année.", "context": "", "correct": "Les enfants? Je leur donne des cadeaux chaque année.", "hint": "Donner quelque chose À quelqu'un.", "errorType": "les → leur (COI not COD — donner à)" }
+      ]
+    },
+    {
+      "title": "Part 3: Replace the Noun with a Pronoun",
+      "instructions": "Rewrite the sentence, replacing the underlined part with the correct pronoun.",
+      "type": "replacement",
+      "questions": [
+        { "sentence": "Je vais téléphoner à Marie demain.", "underlined": "à Marie", "correct": "Je vais lui téléphoner demain.", "hint": "Téléphoner à quelqu'un → COI" },
+        { "sentence": "Nous avons invité Paul et Julie à la fête.", "underlined": "Paul et Julie", "correct": "Nous les avons invités à la fête.", "hint": "Inviter quelqu'un → COD, plural" },
+        { "sentence": "Elle a donné les billets à son frère.", "underlined": "à son frère", "correct": "Elle lui a donné les billets.", "hint": "Donner à quelqu'un → COI, singular" },
+        { "sentence": "Je suis allé au cinéma avec mes amis.", "underlined": "avec mes amis", "correct": "Je suis allé au cinéma avec eux.", "hint": "After avec → disjunctive" },
+        { "sentence": "Tu regardes la télévision tous les soirs?", "underlined": "la télévision", "correct": "Tu la regardes tous les soirs?", "hint": "Regarder quelque chose → COD, feminine" },
+        { "sentence": "Il faut parler aux enfants de ce problème.", "underlined": "aux enfants", "correct": "Il faut leur parler de ce problème.", "hint": "Parler à quelqu'un → COI, plural" }
+      ]
+    },
+    {
+      "title": "Part 4: Which Category?",
+      "instructions": "For each pronoun in bold, identify whether it's a Subject, COD, COI, or Disjunctive pronoun.",
+      "type": "categorize",
+      "questions": [
+        { "sentence": "Je le vois tous les jours.", "bold": "le", "correct": "COD", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Elle leur a écrit une lettre.", "bold": "leur", "correct": "COI", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "C'est pour eux.", "bold": "eux", "correct": "Disjunctive", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Ils arrivent demain.", "bold": "Ils", "correct": "Subject", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Tu lui parles souvent?", "bold": "lui", "correct": "COI", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Moi, je préfère rester ici.", "bold": "Moi", "correct": "Disjunctive", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Nous les avons rencontrés à la gare.", "bold": "les", "correct": "COD", "options": ["Subject", "COD", "COI", "Disjunctive"] },
+        { "sentence": "Ce cadeau, c'est pour lui.", "bold": "lui", "correct": "Disjunctive", "options": ["Subject", "COD", "COI", "Disjunctive"] }
+      ]
+    },
+    {
+      "title": "Part 5: Translate to French",
+      "instructions": "Translate the English sentence into French, paying special attention to pronoun choice and placement.",
+      "type": "translate",
+      "questions": [
+        { "english": "I gave her the book.", "correct": "Je lui ai donné le livre.", "hint": "Donner à quelqu'un → COI (lui for both him/her)", "alternates": ["Je lui ai donné le livre"] },
+        { "english": "We're going to do this without them.", "correct": "On va faire ça sans eux.", "hint": "After sans → disjunctive", "alternates": ["Nous allons faire ça sans eux", "On va faire ça sans eux", "Nous allons faire cela sans eux"] },
+        { "english": "I see him every day.", "correct": "Je le vois tous les jours.", "hint": "Voir quelqu'un → COD", "alternates": ["Je le vois chaque jour", "Je le vois tous les jours"] },
+        { "english": "She told them the truth.", "correct": "Elle leur a dit la vérité.", "hint": "Dire à quelqu'un → COI plural", "alternates": ["Elle leur a dit la vérité"] },
+        { "english": "This gift is for her.", "correct": "Ce cadeau est pour elle.", "hint": "After pour → disjunctive. 'Her' disjunctive = elle (not lui!)", "alternates": ["Ce cadeau, c'est pour elle", "Ce cadeau est pour elle"] }
+      ]
+    }
+  ]
+}
