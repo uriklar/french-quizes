@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { getQuizBySlug } from '../quizzes';
 import { checkMatch } from '../utils';
@@ -18,13 +18,34 @@ const QUESTION_COMPONENTS = {
   translate: Translate,
 };
 
+function loadSavedState(slug) {
+  try {
+    const raw = localStorage.getItem(`quiz-${slug}`);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  return null;
+}
+
+function saveState(slug, state) {
+  try {
+    localStorage.setItem(`quiz-${slug}`, JSON.stringify(state));
+  } catch {}
+}
+
+function clearState(slug) {
+  try {
+    localStorage.removeItem(`quiz-${slug}`);
+  } catch {}
+}
+
 export default function Quiz() {
   const { slug } = useParams();
   const quiz = getQuizBySlug(slug);
-  const [showCrashCourse, setShowCrashCourse] = useState(true);
-  const [currentSection, setCurrentSection] = useState(0);
-  const [answers, setAnswers] = useState({});
-  const [showResults, setShowResults] = useState(false);
+  const saved = loadSavedState(slug);
+  const [showCrashCourse, setShowCrashCourse] = useState(saved ? false : true);
+  const [currentSection, setCurrentSection] = useState(saved?.currentSection ?? 0);
+  const [answers, setAnswers] = useState(saved?.answers ?? {});
+  const [showResults, setShowResults] = useState(saved?.showResults ?? false);
 
   if (!quiz) {
     return (
@@ -39,9 +60,21 @@ export default function Quiz() {
   const section = sections[currentSection];
   const sectionKey = (si, qi) => `${si}-${qi}`;
 
+  useEffect(() => {
+    saveState(slug, { answers, currentSection, showResults });
+  }, [slug, answers, currentSection, showResults]);
+
   const handleAnswer = (qi, answer) => {
     setAnswers(prev => ({ ...prev, [sectionKey(currentSection, qi)]: answer }));
   };
+
+  const handleReset = useCallback(() => {
+    clearState(slug);
+    setAnswers({});
+    setCurrentSection(0);
+    setShowResults(false);
+    setShowCrashCourse(!!quiz?.crashCourse);
+  }, [slug, quiz]);
 
   const sectionAnswered = section.questions.every(
     (_, qi) => answers[sectionKey(currentSection, qi)] !== undefined,
@@ -88,7 +121,7 @@ export default function Quiz() {
         <Results
           score={totalCorrect()}
           total={totalQuestions}
-          onRetry={() => { setAnswers({}); setCurrentSection(0); setShowResults(false); }}
+          onRetry={handleReset}
         />
         <div style={{ textAlign: 'center', marginTop: 12 }}>
           <Link to="/" style={{ color: '#4a6cf7', fontSize: 14 }}>Back to all quizzes</Link>
@@ -101,8 +134,17 @@ export default function Quiz() {
 
   return (
     <div className="card">
-      <div style={{ marginBottom: 16 }}>
+      <div style={{ marginBottom: 16, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Link to="/" style={{ color: '#4a6cf7', fontSize: 13, textDecoration: 'none' }}>&larr; All quizzes</Link>
+        {Object.keys(answers).length > 0 && (
+          <button
+            className="btn"
+            onClick={handleReset}
+            style={{ fontSize: 12, padding: '4px 12px' }}
+          >
+            Reset progress
+          </button>
+        )}
       </div>
       <h1>{quiz.title}</h1>
       <p className="subtitle">{quiz.description} — {totalQuestions} questions across {sections.length} exercise types</p>
