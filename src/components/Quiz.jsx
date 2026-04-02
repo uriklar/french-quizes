@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { getQuizBySlug } from '../quizzes';
 import { checkMatch } from '../utils';
 import Results from './Results';
+import CrashCourse from './CrashCourse';
 import MultipleChoice from './questions/MultipleChoice';
 import Correction from './questions/Correction';
 import Replacement from './questions/Replacement';
@@ -20,6 +21,7 @@ const QUESTION_COMPONENTS = {
 export default function Quiz() {
   const { slug } = useParams();
   const quiz = getQuizBySlug(slug);
+  const [showCrashCourse, setShowCrashCourse] = useState(true);
   const [currentSection, setCurrentSection] = useState(0);
   const [answers, setAnswers] = useState({});
   const [showResults, setShowResults] = useState(false);
@@ -68,6 +70,17 @@ export default function Quiz() {
   const allDone = sections.every((sec, si) =>
     sec.questions.every((_, qi) => answers[sectionKey(si, qi)] !== undefined),
   );
+
+  if (showCrashCourse && quiz.crashCourse) {
+    return (
+      <div className="card">
+        <div style={{ marginBottom: 16 }}>
+          <Link to="/" style={{ color: '#4a6cf7', fontSize: 13, textDecoration: 'none' }}>&larr; All quizzes</Link>
+        </div>
+        <CrashCourse crashCourse={quiz.crashCourse} onStart={() => setShowCrashCourse(false)} />
+      </div>
+    );
+  }
 
   if (showResults) {
     return (

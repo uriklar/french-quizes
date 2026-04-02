@@ -3,6 +3,62 @@
   "title": "French Pronoun Drill",
   "description": "COD, COI, and disjunctive pronouns",
   "questionCount": 33,
+  "crashCourse": {
+    "title": "French Pronoun Drill",
+    "subtitle": "3 questions. Asked in order. You always land on the right pronoun.",
+    "sections": [
+      {
+        "title": "Step 1 \u2014 Is there a preposition before the person?",
+        "content": "pour, avec, chez, sans, entre, derri\u00e8re, \u00e0 c\u00f4t\u00e9 de...",
+        "tip": "Yes \u2192 Disjunctive \u2014 moi, toi, lui/elle, nous, vous, eux/elles",
+        "examples": [
+          { "french": "Ce cadeau est pour lui.", "english": "This gift is for him." },
+          { "french": "On va chez eux.", "english": "We're going to their place." }
+        ],
+        "nextStep": "No preposition? Go to step 2."
+      },
+      {
+        "title": "Step 2 \u2014 Can you say \u00abverb + \u00e0 quelqu'un\u00bb?",
+        "content": "Test: say the verb + \u00e0. Does it sound right? parler \u00e0, donner \u00e0, dire \u00e0...",
+        "tip": "Yes, verb takes \u00e0 \u2192 COI \u2014 me, te, lui, nous, vous, leur",
+        "examples": [
+          { "french": "Je lui parle.", "english": "I speak to him.", "note": "parler \u00e0 qqn" },
+          { "french": "Je leur donne un cadeau.", "english": "I give them a gift.", "note": "donner \u00e0 qqn" }
+        ],
+        "nextStep": "No \u00e0? Go to step 3."
+      },
+      {
+        "title": "Step 3 \u2014 Everything else",
+        "content": "The verb connects directly to the person with no preposition.",
+        "tip": "COD \u2014 This is the default. me, te, le/la, nous, vous, les",
+        "examples": [
+          { "french": "Je la vois.", "english": "I see her.", "note": "voir qqn" },
+          { "french": "Ses parents ne la laissent pas sortir.", "english": "Her parents don't let her go out.", "note": "laisser qqn" }
+        ]
+      },
+      {
+        "title": "The only thing you need to memorize",
+        "content": "COI verbs are the short list. If it's not here, it's almost certainly COD.",
+        "table": {
+          "headers": ["COI verbs (\u00e0 qqn)", "COD verbs (qqn directly)"],
+          "rows": [
+            ["parler \u00e0", "voir"],
+            ["t\u00e9l\u00e9phoner \u00e0", "regarder"],
+            ["\u00e9crire \u00e0", "\u00e9couter"],
+            ["dire \u00e0", "appeler"],
+            ["donner \u00e0", "conna\u00eetre"],
+            ["demander \u00e0", "aimer"],
+            ["r\u00e9pondre \u00e0", "aider"],
+            ["expliquer \u00e0", "inviter"],
+            ["ob\u00e9ir \u00e0", "laisser"],
+            ["permettre \u00e0", "chercher"],
+            ["montrer \u00e0", "attendre"],
+            ["envoyer \u00e0", "rencontrer"]
+          ]
+        }
+      }
+    ]
+  },
   "sections": [
     {
       "title": "Part 1: Choose the Right Pronoun",
