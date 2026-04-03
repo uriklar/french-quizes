@@ -2,7 +2,7 @@
   "slug": "tcf-writing-toolkit",
   "title": "TCF Writing Toolkit",
   "description": "Openings, closings, connectors, opinions, grammar & common traps for TCF writing tasks",
-  "questionCount": 60,
+  "questionCount": 76,
   "crashCourse": {
     "title": "TCF Writing Toolkit",
     "subtitle": "Master the phrases, connectors, and structures you need for all 3 TCF writing tasks.",
@@ -176,6 +176,43 @@
         { "english": "According to the author, strict education is important.", "correct": "Selon l'auteur, l'éducation stricte est importante.", "hint": "Use Selon for 'according to'.", "alternates": ["D'après l'auteur, l'éducation stricte est importante.", "Selon l'auteur, une éducation stricte est importante."] },
         { "english": "Moreover, the venue has good public transport access.", "correct": "De plus, le lieu est bien desservi par les transports en commun.", "hint": "De plus = moreover. Bien desservi(e) = well-served by transport.", "alternates": ["En outre, le lieu est bien desservi par les transports en commun.", "De plus, le lieu est facile d'accès grâce aux transports en commun.", "Par ailleurs, le lieu est bien desservi par les transports en commun."] },
         { "english": "That is why I recommend this place.", "correct": "C'est pourquoi je recommande cet endroit.", "hint": "C'est pourquoi = that is why (consequence connector).", "alternates": ["C'est pourquoi je recommande ce lieu.", "Par conséquent, je recommande cet endroit.", "Par conséquent, je recommande ce lieu."] }
+      ]
+    },
+    {
+      "title": "Part 11: Vocabulaire — Éducation & Famille",
+      "instructions": "Choose the correct French term for each education/family concept.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "A child who is happy and thriving is: un enfant ___", "context": "(education vocabulary)", "options": ["heureux", "épanoui", "grand", "intelligent"], "correct": 1, "explanation": "Épanoui means fulfilled/thriving — it's more nuanced than just heureux (happy). Un enfant épanoui = a thriving child." },
+        { "sentence": "Parents who set boundaries: Les parents qui ___ des limites.", "context": "", "options": ["mettent", "posent", "donnent", "font"], "correct": 1, "explanation": "Poser des limites = to set boundaries. This is the fixed expression." },
+        { "sentence": "The opposite of strict parenting: la ___", "context": "", "options": ["permissivité", "sévérité", "dureté", "rigidité"], "correct": 0, "explanation": "La permissivité is the opposite of la sévérité (strictness)." },
+        { "sentence": "To make a child more responsible: ___ un enfant", "context": "", "options": ["responsabiliser", "responsabler", "rendre responsabilité", "donner responsable"], "correct": 0, "explanation": "Responsabiliser = to make someone more responsible / give them responsibility." },
+        { "sentence": "Parents who protect too much: les parents qui ___ leurs enfants.", "context": "", "options": ["protègent", "surprotègent", "préprotègent", "hyperprotègent"], "correct": 1, "explanation": "Surprotéger = to overprotect. Sur- is the French prefix for 'over-'." },
+        { "sentence": "A lack of guidance or reference points: le manque de ___", "context": "", "options": ["repères", "points", "guides", "directions"], "correct": 0, "explanation": "Le manque de repères = lack of reference points/guidance — a key education vocabulary term." }
+      ]
+    },
+    {
+      "title": "Part 12: Vocabulaire — Vie quotidienne & Travail",
+      "instructions": "Choose the correct French term or expression for each daily life and work situation.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "A venue well-served by public transport is: un lieu bien ___", "context": "(describing accessibility)", "options": ["servi", "desservi", "accessible", "transporté"], "correct": 1, "explanation": "Bien desservi(e) = well-served by transport. Desservir is the specific verb for transport connections." },
+        { "sentence": "The value-for-money ratio: le rapport ___", "context": "(evaluating a venue)", "options": ["coût-valeur", "prix-qualité", "qualité-prix", "argent-service"], "correct": 2, "explanation": "Le rapport qualité-prix = the value for money / quality-price ratio." },
+        { "sentence": "A more formal word for 'parking': le ___", "context": "(formal writing)", "options": ["parking", "stationnement", "garage", "parc auto"], "correct": 1, "explanation": "Le stationnement is the formal French term for parking. Parking is borrowed from English." },
+        { "sentence": "The capacity of a venue: la ___ d'accueil", "context": "(describing a room)", "options": ["possibilité", "disponibilité", "capacité", "quantité"], "correct": 2, "explanation": "La capacité d'accueil = the venue's capacity / how many people it can accommodate." },
+        { "sentence": "To get together with friends: se ___ entre amis", "context": "(informal)", "options": ["trouver", "retrouver", "rencontrer", "chercher"], "correct": 1, "explanation": "Se retrouver = to meet up / get together (with people you already know). Se rencontrer = to meet for the first time." },
+        { "sentence": "A group gift: un cadeau ___", "context": "", "options": ["de groupe", "en commun", "collectif", "en commun / collectif"], "correct": 3, "explanation": "Both un cadeau en commun and un cadeau collectif are correct and interchangeable." }
+      ]
+    },
+    {
+      "title": "Part 13: Vocabulaire — Translate the Expression",
+      "instructions": "Translate each expression using the correct thematic vocabulary.",
+      "type": "translate",
+      "questions": [
+        { "english": "Parents must give children freedom while setting rules.", "correct": "Les parents doivent accorder de la liberté aux enfants tout en fixant des règles.", "hint": "Accorder de la liberté = to give freedom. Fixer des règles = to set rules.", "alternates": ["Les parents doivent accorder de la liberté tout en posant des limites.", "Les parents doivent donner de la liberté aux enfants tout en fixant des règles."] },
+        { "english": "The venue can accommodate up to 50 people.", "correct": "La salle peut accueillir jusqu'à 50 personnes.", "hint": "Accueillir jusqu'à X personnes = to accommodate up to X people.", "alternates": ["Le lieu peut accueillir jusqu'à 50 personnes.", "La salle peut accueillir jusqu'à cinquante personnes."] },
+        { "english": "Children need to learn to live in society.", "correct": "Les enfants doivent apprendre à vivre en société.", "hint": "Vivre en société = to live in society.", "alternates": ["Les enfants ont besoin d'apprendre à vivre en société.", "Il faut que les enfants apprennent à vivre en société."] },
+        { "english": "The place has good facilities and free parking.", "correct": "Le lieu dispose de bons équipements et d'un stationnement gratuit.", "hint": "Disposer de = to have/feature. Équipements = facilities. Stationnement = parking (formal).", "alternates": ["Le lieu dispose de bons équipements et d'un parking gratuit.", "L'endroit dispose de bons équipements et d'un stationnement gratuit."] }
       ]
     }
   ]

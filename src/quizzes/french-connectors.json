@@ -1,0 +1,147 @@
+{
+  "slug": "french-connectors",
+  "title": "French Connectors Deep Drill",
+  "description": "Addition, opposition, cause, consequence, purpose, condition & conclusion — all the connectors you need",
+  "questionCount": 55,
+  "crashCourse": {
+    "title": "French Connectors Deep Drill",
+    "subtitle": "7 connector families. Know which to use, what mood they trigger, and whether the cause is positive or negative.",
+    "sections": [
+      {
+        "title": "Addition — Stacking arguments",
+        "content": "De plus / En outre / Par ailleurs / Également / Non seulement… mais aussi…",
+        "tip": "Use 2-3 different addition connectors per essay to avoid repetition.",
+        "examples": [
+          { "french": "De plus, le lieu dispose d'un parking.", "english": "Moreover, the venue has a parking lot." },
+          { "french": "Non seulement c'est accessible, mais c'est aussi abordable.", "english": "Not only is it accessible, but it's also affordable." }
+        ]
+      },
+      {
+        "title": "Opposition — Contrasting & conceding",
+        "content": "En revanche / Cependant / Toutefois / Néanmoins / Pourtant. Concession: Bien que (+subj.) / Même si (+indic.) / Malgré (+noun).",
+        "tip": "Bien que ALWAYS takes subjunctive. Même si ALWAYS takes indicative. Don't mix them up!",
+        "examples": [
+          { "french": "Bien qu'il soit jeune, il est responsable.", "english": "Although he is young, he is responsible." },
+          { "french": "Même si c'est difficile, je continue.", "english": "Even if it's difficult, I continue." }
+        ]
+      },
+      {
+        "title": "Cause — Positive vs. Negative vs. Neutral",
+        "content": "Grâce à (+positive cause) / À cause de (+negative cause) / En raison de (+neutral/formal). Clauses: Parce que, Puisque (obvious reason), Étant donné que, Vu que.",
+        "tip": "Grâce à = thanks to (good). À cause de = because of (bad). Never swap them!",
+        "examples": [
+          { "french": "Grâce à ses parents, elle a réussi.", "english": "Thanks to her parents, she succeeded." },
+          { "french": "À cause du bruit, je ne dors pas.", "english": "Because of the noise, I can't sleep." }
+        ]
+      },
+      {
+        "title": "Consequence, Purpose, Condition & Conclusion",
+        "content": "Consequence: Donc, C'est pourquoi, Par conséquent, De ce fait. Purpose: Pour que / Afin que (+subj.). Condition: Si (+présent→futur / imparfait→conditionnel). Conclusion: En définitive, Tout compte fait, En somme.",
+        "tip": "Pour que and Afin que always take subjunctive. Si never takes conditionnel directly after it.",
+        "examples": [
+          { "french": "Pour que les enfants soient heureux, il faut du dialogue.", "english": "For the children to be happy, dialogue is needed." },
+          { "french": "Si j'avais le temps, je viendrais.", "english": "If I had the time, I would come." }
+        ]
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Classify the Connector",
+      "instructions": "Identify each connector's function: Addition, Opposition, Cause, Consequence, Purpose, Condition, or Conclusion.",
+      "type": "categorize",
+      "questions": [
+        { "sentence": "Par ailleurs, …", "bold": "Par ailleurs", "correct": "Addition", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Malgré …", "bold": "Malgré", "correct": "Opposition", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Puisque …", "bold": "Puisque", "correct": "Cause", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Ainsi, …", "bold": "Ainsi", "correct": "Consequence", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Afin de …", "bold": "Afin de", "correct": "Purpose", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "En définitive, …", "bold": "En définitive", "correct": "Conclusion", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "D'ailleurs, …", "bold": "D'ailleurs", "correct": "Addition", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Contrairement à …", "bold": "Contrairement à", "correct": "Opposition", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Vu que …", "bold": "Vu que", "correct": "Cause", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Il en résulte que …", "bold": "Il en résulte que", "correct": "Consequence", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "À condition que …", "bold": "À condition que", "correct": "Condition", "options": ["Addition", "Opposition", "Cause", "Consequence", "Condition", "Conclusion"] },
+        { "sentence": "Tout compte fait, …", "bold": "Tout compte fait", "correct": "Conclusion", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "En somme, …", "bold": "En somme", "correct": "Conclusion", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "Du fait que …", "bold": "Du fait que", "correct": "Cause", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] },
+        { "sentence": "De manière à …", "bold": "De manière à", "correct": "Purpose", "options": ["Addition", "Opposition", "Cause", "Consequence", "Purpose", "Conclusion"] }
+      ]
+    },
+    {
+      "title": "Part 2: Positive, Negative, or Neutral Cause?",
+      "instructions": "Choose the correct cause connector based on whether the cause is positive, negative, or neutral/formal.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "___ son travail acharné, elle a obtenu une promotion.", "context": "(positive cause)", "options": ["À cause de", "Grâce à", "En raison de", "Malgré"], "correct": 1, "explanation": "Grâce à expresses a positive cause — her hard work led to something good." },
+        { "sentence": "___ la grève, les transports sont perturbés.", "context": "(negative cause)", "options": ["Grâce à", "À cause de", "De plus", "Pour que"], "correct": 1, "explanation": "À cause de expresses a negative cause — the strike caused a bad outcome." },
+        { "sentence": "___ conditions météorologiques, le vol est retardé.", "context": "(neutral/formal)", "options": ["Grâce aux", "À cause des", "En raison des", "Malgré les"], "correct": 2, "explanation": "En raison de is the neutral/formal cause connector, commonly used in announcements." },
+        { "sentence": "___ soutien de sa famille, il a surmonté ses difficultés.", "context": "(positive cause)", "options": ["À cause du", "Grâce au", "En raison du", "Malgré le"], "correct": 1, "explanation": "Grâce au (grâce à + le) — his family's support is a positive cause." },
+        { "sentence": "Le projet a échoué ___ manque de financement.", "context": "(negative cause)", "options": ["grâce au", "à cause du", "en dépit du", "pour le"], "correct": 1, "explanation": "À cause du (à cause de + le) — lack of funding is a negative cause." },
+        { "sentence": "___ il fait beau, on pourrait manger dehors.", "context": "(obvious reason)", "options": ["Parce qu'", "Puisqu'", "Bien qu'", "Même si"], "correct": 1, "explanation": "Puisque implies the reason is obvious/shared knowledge — we can both see the weather." }
+      ]
+    },
+    {
+      "title": "Part 3: Fill in the Connector",
+      "instructions": "Choose the connector that best completes each sentence.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Le restaurant est excellent. ___, les prix sont raisonnables.", "context": "(adding a second advantage)", "options": ["Cependant", "De plus", "C'est pourquoi", "Malgré"], "correct": 1, "explanation": "De plus adds another positive point to the first one." },
+        { "sentence": "Le lieu est petit. ___, il est très confortable.", "context": "(contrasting)", "options": ["De plus", "En revanche", "Donc", "Puisque"], "correct": 1, "explanation": "En revanche introduces a contrast — small BUT comfortable." },
+        { "sentence": "Il n'a pas étudié. ___ il a échoué à l'examen.", "context": "(consequence)", "options": ["Néanmoins", "Par conséquent", "Bien que", "Grâce à"], "correct": 1, "explanation": "Par conséquent introduces a logical consequence." },
+        { "sentence": "___ ses efforts, il n'a pas réussi.", "context": "(concession with noun)", "options": ["Grâce à", "À cause de", "Malgré", "Pour"], "correct": 2, "explanation": "Malgré + noun = despite. He tried but still failed." },
+        { "sentence": "Je vais partir tôt ___ éviter les embouteillages.", "context": "(purpose)", "options": ["pour", "parce que", "donc", "en revanche"], "correct": 0, "explanation": "Pour + infinitif expresses purpose: in order to avoid traffic." },
+        { "sentence": "___ vous êtes d'accord, nous commencerons lundi.", "context": "(condition)", "options": ["Bien que", "Puisque", "Si", "Pour que"], "correct": 2, "explanation": "Si + présent → futur: If you agree, we will start Monday." },
+        { "sentence": "Le service est rapide. ___, le personnel est très aimable.", "context": "(adding a separate point)", "options": ["Par ailleurs", "Donc", "Pourtant", "À cause de"], "correct": 0, "explanation": "Par ailleurs adds a separate but related point — a different advantage." },
+        { "sentence": "___ le temps, je viendrais à ta fête.", "context": "(hypothetical condition)", "options": ["Si j'ai", "Si j'avais", "Si j'aurai", "Si j'aurais"], "correct": 1, "explanation": "Si + imparfait → conditionnel. Si j'avais le temps, je viendrais. Never si + conditionnel!" },
+        { "sentence": "L'accès est facile ___ métro qui se trouve à deux minutes.", "context": "(positive cause)", "options": ["à cause du", "malgré le", "grâce au", "sans le"], "correct": 2, "explanation": "Grâce au (grâce à + le) — the metro is a positive factor making access easy." },
+        { "sentence": "___ il pleuve, nous irons au parc.", "context": "(unless)", "options": ["Pour qu'", "Bien qu'", "À moins qu'", "Afin qu'"], "correct": 2, "explanation": "À moins que + subjonctif = unless. Note: pleuve is subjunctive of pleuvoir." }
+      ]
+    },
+    {
+      "title": "Part 4: Which Mood After the Connector?",
+      "instructions": "Does this connector require subjunctive (subjonctif), indicative (indicatif), or a noun?",
+      "type": "categorize",
+      "questions": [
+        { "sentence": "Bien que …", "bold": "Bien que", "correct": "Subjonctif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Même si …", "bold": "Même si", "correct": "Indicatif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Malgré …", "bold": "Malgré", "correct": "Nom", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Pour que …", "bold": "Pour que", "correct": "Subjonctif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Étant donné que …", "bold": "Étant donné que", "correct": "Indicatif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "À cause de …", "bold": "À cause de", "correct": "Nom", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Afin que …", "bold": "Afin que", "correct": "Subjonctif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Alors que …", "bold": "Alors que", "correct": "Indicatif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "Grâce à …", "bold": "Grâce à", "correct": "Nom", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "À moins que …", "bold": "À moins que", "correct": "Subjonctif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "À condition que …", "bold": "À condition que", "correct": "Subjonctif", "options": ["Subjonctif", "Indicatif", "Nom"] },
+        { "sentence": "En raison de …", "bold": "En raison de", "correct": "Nom", "options": ["Subjonctif", "Indicatif", "Nom"] }
+      ]
+    },
+    {
+      "title": "Part 5: Fix the Connector Error",
+      "instructions": "Each sentence has a connector used incorrectly. Type the corrected sentence.",
+      "type": "correction",
+      "questions": [
+        { "sentence": "Grâce à la pollution, les habitants sont malades.", "context": "(pollution is negative)", "correct": "À cause de la pollution, les habitants sont malades.", "hint": "Grâce à is for positive causes. Pollution causing sickness is negative.", "errorType": "Grâce à → À cause de (negative cause)" },
+        { "sentence": "Bien qu'il est intelligent, il a échoué.", "context": "(mood error)", "correct": "Bien qu'il soit intelligent, il a échoué.", "hint": "Bien que always requires the subjunctive, not indicative.", "errorType": "est → soit (bien que + subjonctif)" },
+        { "sentence": "Si j'aurais plus de temps, je voyagerais.", "context": "(condition error)", "correct": "Si j'avais plus de temps, je voyagerais.", "hint": "Never use conditionnel after si. Use si + imparfait → conditionnel.", "errorType": "aurais → avais (si + imparfait, jamais conditionnel)" },
+        { "sentence": "Même si les enfants soient fatigués, ils veulent jouer.", "context": "(mood error)", "correct": "Même si les enfants sont fatigués, ils veulent jouer.", "hint": "Même si takes indicative, not subjunctive. (Bien que takes subjunctive.)", "errorType": "soient → sont (même si + indicatif)" },
+        { "sentence": "À cause de l'aide de mes amis, j'ai réussi mon examen.", "context": "(positive cause)", "correct": "Grâce à l'aide de mes amis, j'ai réussi mon examen.", "hint": "Friends helping you pass is positive — use grâce à, not à cause de.", "errorType": "À cause de → Grâce à (positive cause)" },
+        { "sentence": "Malgré qu'il fait froid, nous sortirons.", "context": "(incorrect structure)", "correct": "Bien qu'il fasse froid, nous sortirons.", "hint": "Malgré takes a noun, not a clause. Use bien que + subjunctive for clauses.", "errorType": "Malgré que → Bien que + subjonctif (malgré que is non-standard)" }
+      ]
+    },
+    {
+      "title": "Part 6: Translate Using Connectors",
+      "instructions": "Translate each sentence, choosing the appropriate French connector.",
+      "type": "translate",
+      "questions": [
+        { "english": "Thanks to public transport, the venue is easy to access.", "correct": "Grâce aux transports en commun, le lieu est facile d'accès.", "hint": "Positive cause → grâce à. Transports en commun = public transport.", "alternates": ["Grâce aux transports en commun, le lieu est facile d'accès.", "Grâce aux transports en commun, l'endroit est facile d'accès."] },
+        { "english": "Although the price is high, the quality is excellent.", "correct": "Bien que le prix soit élevé, la qualité est excellente.", "hint": "Although = bien que + subjunctive. Soit = subjunctive of est.", "alternates": ["Bien que le prix soit élevé, la qualité est excellente.", "Même si le prix est élevé, la qualité est excellente."] },
+        { "english": "Therefore, I recommend this restaurant.", "correct": "Par conséquent, je recommande ce restaurant.", "hint": "Therefore = par conséquent / c'est pourquoi.", "alternates": ["C'est pourquoi je recommande ce restaurant.", "Par conséquent, je recommande ce restaurant.", "Donc, je recommande ce restaurant."] },
+        { "english": "Not only is it spacious, but it is also well-equipped.", "correct": "Non seulement c'est spacieux, mais c'est aussi bien équipé.", "hint": "Not only... but also = Non seulement... mais aussi...", "alternates": ["Non seulement c'est spacieux, mais c'est aussi bien équipé.", "Non seulement le lieu est spacieux, mais il est aussi bien équipé."] },
+        { "english": "In order for everyone to participate, I changed the date.", "correct": "Pour que tout le monde puisse participer, j'ai changé la date.", "hint": "In order for = pour que + subjunctive. Puisse = subjunctive of peut.", "alternates": ["Afin que tout le monde puisse participer, j'ai changé la date.", "Pour que tout le monde puisse participer, j'ai changé la date."] },
+        { "english": "If I had the money, I would buy a bigger house.", "correct": "Si j'avais l'argent, j'achèterais une plus grande maison.", "hint": "Si + imparfait → conditionnel. Never si + conditionnel!", "alternates": ["Si j'avais l'argent, j'achèterais une plus grande maison.", "Si j'avais de l'argent, j'achèterais une maison plus grande."] }
+      ]
+    }
+  ]
+}

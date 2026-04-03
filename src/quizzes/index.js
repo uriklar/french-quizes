@@ -2,11 +2,15 @@
 import frenchPronouns from './french-pronouns.json';
 import frenchGenderAgreement from './french-gender-agreement.json';
 import tcfWritingToolkit from './tcf-writing-toolkit.json';
+import frenchConnectors from './french-connectors.json';
+import frenchArticles from './french-articles.json';
 
 const quizzes = [
   frenchPronouns,
   frenchGenderAgreement,
   tcfWritingToolkit,
+  frenchConnectors,
+  frenchArticles,
 ];
 
 export function getAllQuizzes() {

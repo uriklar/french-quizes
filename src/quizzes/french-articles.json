@@ -1,0 +1,237 @@
+{
+  "slug": "french-articles",
+  "title": "Les Articles Français — Complete Drill",
+  "description": "Indéfinis, définis, contractés, partitifs, and when the article disappears",
+  "questionCount": 80,
+  "crashCourse": {
+    "title": "Les Articles Français",
+    "subtitle": "6 questions to ask yourself every time. Master the decision tree and you'll never pick the wrong article again.",
+    "sections": [
+      {
+        "title": "Articles indéfinis — un / une / des",
+        "content": "Use when introducing something non-specific, one of many, or mentioned for the first time. English: \"a\", \"an\", \"some\".",
+        "tip": "If you can say \"a\" or \"some\" in English and it still makes sense → un / une / des",
+        "examples": [
+          { "french": "J'ai un ami à Paris.", "english": "I have a friend in Paris.", "note": "First mention, non-specific" },
+          { "french": "Elle cherche une salle pour la fête.", "english": "She's looking for a room for the party.", "note": "Any suitable room" },
+          { "french": "Il y a des restaurants près d'ici.", "english": "There are some restaurants nearby.", "note": "Plural, non-specific" }
+        ],
+        "table": {
+          "headers": ["Masculin singulier", "Féminin singulier", "Pluriel"],
+          "rows": [
+            ["un", "une", "des"]
+          ]
+        }
+      },
+      {
+        "title": "Articles définis — le / la / l' / les",
+        "content": "Use for something specific, already known, unique, or general/abstract. ⚠️ THE #1 TRAP: In French, general truths and abstract concepts REQUIRE le/la/les. English uses no article!",
+        "tip": "\"La liberté est importante\" (Freedom is important) — French adds la, English drops it entirely.",
+        "examples": [
+          { "french": "Le cadeau que j'ai choisi est parfait.", "english": "The gift I chose is perfect.", "note": "Specific (relative clause)" },
+          { "french": "La liberté est importante.", "english": "Freedom is important.", "note": "⚠️ General/abstract → la" },
+          { "french": "J'aime le basketball.", "english": "I like basketball.", "note": "⚠️ General → le" },
+          { "french": "J'ai mal à la tête.", "english": "My head hurts.", "note": "Body parts → definite article" }
+        ],
+        "table": {
+          "headers": ["Masc. sing.", "Fém. sing.", "Before vowel/h muet", "Pluriel"],
+          "rows": [
+            ["le", "la", "l'", "les"]
+          ]
+        }
+      },
+      {
+        "title": "Articles contractés — à/de + article défini",
+        "content": "When à or de meets le or les, they FUSE. à + le → au, à + les → aux, de + le → du, de + les → des. With la and l', no contraction happens.",
+        "tip": "⚠️ à le and de le DO NOT EXIST in French. Always contract!",
+        "examples": [
+          { "french": "Je vais au cinéma. (à + le)", "english": "I'm going to the movies." },
+          { "french": "Je parle aux enfants. (à + les)", "english": "I'm talking to the children." },
+          { "french": "C'est la fête du quartier. (de + le)", "english": "It's the neighbourhood's party." },
+          { "french": "L'éducation des enfants. (de + les)", "english": "Children's education." }
+        ],
+        "table": {
+          "headers": ["", "à + …", "de + …"],
+          "rows": [
+            ["+ le", "au", "du"],
+            ["+ la", "à la", "de la"],
+            ["+ l'", "à l'", "de l'"],
+            ["+ les", "aux", "des"]
+          ]
+        }
+      },
+      {
+        "title": "Articles partitifs — du / de la / de l'",
+        "content": "Use for an unspecified quantity of something uncountable: du café, de la salade, de l'eau. English: \"some\" or nothing.",
+        "tip": "Test: Can you replace it with \"some ___\"? → Partitif. Does it mean \"of the / from the / about the\"? → Contracté.",
+        "examples": [
+          { "french": "Je bois du café.", "english": "I drink (some) coffee.", "note": "Partitif — unspecified quantity" },
+          { "french": "Je parle du café.", "english": "I'm talking about the café.", "note": "Contracté — de + le (specific place)" },
+          { "french": "Elle mange de la tarte.", "english": "She eats some pie.", "note": "Partitif — a portion" },
+          { "french": "C'est près de la gare.", "english": "It's near the station.", "note": "Contracté — de + la (specific place)" }
+        ]
+      },
+      {
+        "title": "Quand l'article disparaît → de / d' seul",
+        "content": "Three situations force the article to shrink to just de/d': (1) After negation: pas de, jamais de, plus de. (2) After quantity words: beaucoup de, peu de, trop de, assez de. (3) Adjective before plural noun: des → de.",
+        "tip": "⚠️ Exception after être: Ce n'est pas UN problème (article stays). Exception with quantity: bien des, la plupart des (des stays).",
+        "examples": [
+          { "french": "J'ai des amis. → Je n'ai pas d'amis.", "english": "Negation: des → d'" },
+          { "french": "Il y a beaucoup de monde.", "english": "Quantity: beaucoup de (not beaucoup du)" },
+          { "french": "J'ai des amis. → J'ai de bons amis.", "english": "Adj before plural noun: des → de" },
+          { "french": "Ce n'est pas un problème.", "english": "⚠️ Exception: after être, article stays!" }
+        ]
+      },
+      {
+        "title": "Le grand tableau de décision",
+        "content": "Ask yourself these 6 questions in order: (1) Is there a preposition à or de? → Check contractions. (2) Is it after negation, quantity word, or adj+plural? → de/d' alone. (3) Is the noun specific, unique, or general/abstract? → le/la/l'/les. (4) Am I introducing something for the first time? → un/une/des. (5) Is it uncountable with unspecified quantity? → du/de la/de l'. (6) What's the gender? → That determines everything else.",
+        "tip": "When in doubt: specific/general → défini, first mention → indéfini, \"some\" quantity → partitif, after à/de → check contraction."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Articles indéfinis — un, une ou des?",
+      "instructions": "Select the correct indefinite article to complete each sentence.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "J'ai ___ ami à Paris.", "context": "(one friend, first mention)", "options": ["un", "le", "du", "des"], "correct": 0, "explanation": "First mention, non-specific, singular masculine → un." },
+        { "sentence": "Elle cherche ___ salle pour la fête.", "context": "(any suitable room)", "options": ["la", "une", "de la", "des"], "correct": 1, "explanation": "Non-specific, singular feminine → une. She's looking for any room, not a specific one." },
+        { "sentence": "Il y a ___ restaurants près d'ici.", "context": "(some, non-specific)", "options": ["les", "des", "de", "du"], "correct": 1, "explanation": "Plural, non-specific → des. We're not talking about specific restaurants." },
+        { "sentence": "C'est ___ bon équilibre entre travail et loisirs.", "context": "(introducing the concept)", "options": ["un", "le", "du", "l'"], "correct": 0, "explanation": "Introducing the idea for the first time, masculine → un." },
+        { "sentence": "J'ai ___ idée à vous proposer.", "context": "(a new idea)", "options": ["la", "une", "de la", "l'"], "correct": 1, "explanation": "New, non-specific, feminine → une. The listener doesn't know this idea yet." },
+        { "sentence": "On a trouvé ___ local adapté pour l'événement.", "context": "(a venue, new to the listener)", "options": ["le", "un", "du", "au"], "correct": 1, "explanation": "First mention to the listener, masculine → un." },
+        { "sentence": "Il a ___ difficultés à l'école.", "context": "(some unspecified difficulties)", "options": ["les", "des", "de", "ses"], "correct": 1, "explanation": "Plural, non-specific difficulties → des." },
+        { "sentence": "J'ai acheté ___ cadeau pour son anniversaire.", "context": "(any gift, first mention)", "options": ["un", "le", "du", "ce"], "correct": 0, "explanation": "First mention, non-specific, masculine → un." }
+      ]
+    },
+    {
+      "title": "Part 2: Articles définis — le, la, l' ou les?",
+      "instructions": "Select the correct definite article. Pay special attention to general truths and abstract concepts!",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "___ cadeau que j'ai choisi est parfait.", "context": "(a specific gift)", "options": ["Un", "Le", "Du", "Ce"], "correct": 1, "explanation": "Specific gift (the one I chose) → Le. The relative clause 'que j'ai choisi' makes it specific." },
+        { "sentence": "___ liberté est importante.", "context": "(general truth)", "options": ["Une", "La", "De la", "Cette"], "correct": 1, "explanation": "General/abstract concept → La. In French, general truths REQUIRE the definite article. English says 'Freedom is important' with no article." },
+        { "sentence": "___ enfants ont besoin de règles.", "context": "(children in general)", "options": ["Des", "Les", "De", "Certains"], "correct": 1, "explanation": "General truth about ALL children → Les. English says 'Children need rules' with no article, but French requires les." },
+        { "sentence": "J'aime ___ basketball.", "context": "(in general)", "options": ["le", "un", "du", "au"], "correct": 0, "explanation": "General preference → le. Aimer + noun in general always takes the definite article." },
+        { "sentence": "___ soleil brille aujourd'hui.", "context": "(unique thing)", "options": ["Un", "Le", "Du", "Ce"], "correct": 1, "explanation": "Unique entity (there's only one sun) → Le." },
+        { "sentence": "J'ai mal à ___ tête.", "context": "(body part)", "options": ["ma", "la", "une", "sa"], "correct": 1, "explanation": "Body parts in French use the definite article, not possessives. J'ai mal à la tête, not *à ma tête." },
+        { "sentence": "___ éducation est un droit fondamental.", "context": "(general truth, vowel)", "options": ["L'", "Une", "De l'", "Cette"], "correct": 0, "explanation": "General/abstract concept starting with a vowel → L'. Education as a general concept requires the definite article." },
+        { "sentence": "___ salle peut accueillir 100 personnes.", "context": "(the specific room we're discussing)", "options": ["La", "Une", "De la", "Cette"], "correct": 0, "explanation": "Specific room already in context → La." },
+        { "sentence": "Elle ferme ___ yeux.", "context": "(body part)", "options": ["ses", "les", "des", "mes"], "correct": 1, "explanation": "Body parts → definite article. Elle ferme les yeux, not *ses yeux." },
+        { "sentence": "___ respect est essentiel dans une relation.", "context": "(general truth)", "options": ["Un", "Le", "Du", "Ce"], "correct": 1, "explanation": "General/abstract concept → Le. English says 'Respect is essential' with no article." }
+      ]
+    },
+    {
+      "title": "Part 3: Articles contractés avec à",
+      "instructions": "Select the correct contracted form with à. Remember: à + le → au, à + les → aux. No contraction with la or l'.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Je vais ___ cinéma ce soir.", "context": "(à + le cinéma)", "options": ["au", "à le", "à la", "dans le"], "correct": 0, "explanation": "à + le = au. Never write 'à le' — it doesn't exist in French." },
+        { "sentence": "Elle habite ___ campagne.", "context": "(à + la campagne)", "options": ["au", "à la", "à l'", "dans la"], "correct": 1, "explanation": "à + la = à la (no contraction). La campagne is feminine." },
+        { "sentence": "Nous sommes ___ aéroport.", "context": "(à + l'aéroport)", "options": ["au", "à la", "à l'", "dans l'"], "correct": 2, "explanation": "à + l' = à l' (no contraction, vowel). Aéroport starts with a vowel." },
+        { "sentence": "Je parle ___ enfants.", "context": "(à + les enfants)", "options": ["à les", "aux", "des", "à des"], "correct": 1, "explanation": "à + les = aux. Never write 'à les' — it doesn't exist." },
+        { "sentence": "C'est une glace ___ chocolat.", "context": "(flavoured with — à + le)", "options": ["au", "de", "du", "à le"], "correct": 0, "explanation": "Flavour descriptions use à: une glace au chocolat (à + le). Common pattern for food descriptions." },
+        { "sentence": "J'écris ___ directeur.", "context": "(écrire à + le directeur)", "options": ["au", "à le", "du", "pour le"], "correct": 0, "explanation": "Écrire à quelqu'un: à + le directeur = au directeur." },
+        { "sentence": "On se retrouve ___ gare?", "context": "(à + la gare)", "options": ["au", "à la", "à l'", "dans la"], "correct": 1, "explanation": "à + la = à la (no contraction). La gare is feminine." },
+        { "sentence": "C'est une tarte ___ crème.", "context": "(flavoured with — à + la)", "options": ["au", "à la", "de", "à le"], "correct": 1, "explanation": "à + la = à la. La crème is feminine, so no contraction." }
+      ]
+    },
+    {
+      "title": "Part 4: Articles contractés avec de",
+      "instructions": "Select the correct contracted form with de. Remember: de + le → du, de + les → des. No contraction with la or l'.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "C'est la fête ___ quartier.", "context": "(de + le quartier)", "options": ["du", "de le", "de la", "d'un"], "correct": 0, "explanation": "de + le = du. The neighbourhood's party." },
+        { "sentence": "Il vient ___ Canada.", "context": "(de + le Canada)", "options": ["de", "du", "de le", "d'"], "correct": 1, "explanation": "de + le = du. Le Canada is masculine → venir du Canada." },
+        { "sentence": "On parle ___ problème.", "context": "(de + le problème)", "options": ["du", "de le", "de la", "d'un"], "correct": 0, "explanation": "de + le = du. Parler de + le problème = parler du problème." },
+        { "sentence": "C'est près ___ gare.", "context": "(de + la gare)", "options": ["du", "de la", "de", "des"], "correct": 1, "explanation": "de + la = de la (no contraction). La gare is feminine." },
+        { "sentence": "L'éducation ___ enfants est importante.", "context": "(de + les enfants)", "options": ["de les", "des", "de", "d'"], "correct": 1, "explanation": "de + les = des. Never write 'de les' — it doesn't exist." },
+        { "sentence": "Elle sort ___ réunion.", "context": "(de + la réunion)", "options": ["du", "de la", "de", "des"], "correct": 1, "explanation": "de + la = de la (no contraction). La réunion is feminine." },
+        { "sentence": "Le café est au coin ___ avenue.", "context": "(de + l'avenue)", "options": ["du", "de la", "de l'", "de"], "correct": 2, "explanation": "de + l' = de l' (no contraction, vowel). Avenue starts with a vowel." },
+        { "sentence": "Nous habitons loin ___ commerces.", "context": "(de + les commerces)", "options": ["de les", "des", "de", "du"], "correct": 1, "explanation": "de + les = des. Loin des commerces = far from the shops." }
+      ]
+    },
+    {
+      "title": "Part 5: Articles partitifs",
+      "instructions": "Select the correct partitive article for an unspecified quantity of something.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Je bois ___ café tous les matins.", "context": "(some coffee)", "options": ["le", "du", "un", "de"], "correct": 1, "explanation": "Unspecified quantity of something uncountable → du (partitive). Je bois du café = I drink (some) coffee." },
+        { "sentence": "Il mange ___ salade.", "context": "(some salad)", "options": ["la", "de la", "une", "de"], "correct": 1, "explanation": "Unspecified portion, feminine → de la (partitive)." },
+        { "sentence": "Elle boit ___ eau.", "context": "(some water)", "options": ["du", "de la", "de l'", "l'"], "correct": 2, "explanation": "Unspecified quantity, starts with a vowel → de l' (partitive)." },
+        { "sentence": "Il faut ___ courage pour faire ça.", "context": "(some courage — abstract quantity)", "options": ["le", "du", "un", "de"], "correct": 1, "explanation": "Abstract uncountable, unspecified amount → du (partitive). You need some courage." },
+        { "sentence": "J'ai ___ chance aujourd'hui!", "context": "(some luck)", "options": ["la", "de la", "une", "de"], "correct": 1, "explanation": "Abstract quantity, feminine → de la (partitive). Avoir de la chance = to be lucky." },
+        { "sentence": "Il fait ___ bruit.", "context": "(some noise)", "options": ["le", "du", "un", "de"], "correct": 1, "explanation": "Uncountable, unspecified → du (partitive). Faire du bruit = to make noise." },
+        { "sentence": "Elle fait ___ musique le soir.", "context": "(plays/makes music)", "options": ["la", "de la", "une", "de"], "correct": 1, "explanation": "Activity with uncountable noun → de la (partitive). Faire de la musique = to play music." },
+        { "sentence": "Tu veux ___ pain?", "context": "(some bread)", "options": ["le", "du", "un", "de"], "correct": 1, "explanation": "Unspecified quantity → du (partitive). Do you want some bread?" }
+      ]
+    },
+    {
+      "title": "Part 6: De seul — négation, quantité, adjectif",
+      "instructions": "Select the correct article. Watch out for negation, quantity expressions, and adjectives before plural nouns!",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Je n'ai pas ___ chien.", "context": "(negation)", "options": ["un", "de", "le", "du"], "correct": 1, "explanation": "After negation (ne…pas), un/une/des/du/de la → de. Je n'ai pas de chien." },
+        { "sentence": "Il ne boit jamais ___ vin.", "context": "(negation)", "options": ["du", "de", "le", "un"], "correct": 1, "explanation": "After negation (ne…jamais), the partitive du → de." },
+        { "sentence": "Il y a beaucoup ___ monde ici.", "context": "(quantity expression)", "options": ["du", "de", "des", "le"], "correct": 1, "explanation": "After beaucoup, use de alone. Beaucoup de monde, not *beaucoup du monde." },
+        { "sentence": "J'ai ___ bons amis à Montréal.", "context": "(adjective before plural noun)", "options": ["des", "de", "les", "du"], "correct": 1, "explanation": "When an adjective comes BEFORE a plural noun, des → de. De bons amis, not *des bons amis." },
+        { "sentence": "Il n'y a plus ___ places disponibles.", "context": "(negation with plus)", "options": ["des", "de", "les", "du"], "correct": 1, "explanation": "After ne…plus, the article disappears → de. Plus de places." },
+        { "sentence": "Ce ne sont pas ___ excuses.", "context": "(negation after être)", "options": ["de", "des", "les", "d'"], "correct": 1, "explanation": "⚠️ EXCEPTION: After être, the article stays even in negation. Ce ne sont pas des excuses." },
+        { "sentence": "Combien ___ personnes viennent à la fête?", "context": "(quantity question)", "options": ["des", "de", "les", "du"], "correct": 1, "explanation": "After combien, use de alone. Combien de personnes, not *combien des personnes." },
+        { "sentence": "Il y a trop ___ bruit dans cette salle.", "context": "(quantity expression)", "options": ["du", "de", "des", "le"], "correct": 1, "explanation": "After trop, use de alone. Trop de bruit, not *trop du bruit." },
+        { "sentence": "J'ai besoin ___ temps pour réfléchir.", "context": "(expression with de, non-specific)", "options": ["du", "de", "le", "un"], "correct": 1, "explanation": "Avoir besoin de + non-specific noun → de alone. If it were specific: J'ai besoin du livre (the specific book)." },
+        { "sentence": "Ce sont ___ bonnes idées.", "context": "(adjective before plural noun)", "options": ["des", "de", "les", "du"], "correct": 1, "explanation": "Adjective (bonnes) before plural noun (idées) → des becomes de. De bonnes idées." }
+      ]
+    },
+    {
+      "title": "Part 7: Partitif, contracté ou défini?",
+      "instructions": "For the article in bold, identify whether it's a Partitif (some quantity), Contracté (de/à + article), or Défini (the, general truth).",
+      "type": "categorize",
+      "questions": [
+        { "sentence": "Je bois du café.", "bold": "du", "correct": "Partitif", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Je parle du film.", "bold": "du", "correct": "Contracté", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "J'aime le café.", "bold": "le", "correct": "Défini", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Elle mange de la tarte.", "bold": "de la", "correct": "Partitif", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "C'est près de la gare.", "bold": "de la", "correct": "Contracté", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Il fait du bruit.", "bold": "du", "correct": "Partitif", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "C'est la fête du quartier.", "bold": "du", "correct": "Contracté", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Elle adore la pizza.", "bold": "la", "correct": "Défini", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Il fait de la guitare.", "bold": "de la", "correct": "Partitif", "options": ["Partitif", "Contracté", "Défini"] },
+        { "sentence": "Le directeur de la salle est absent.", "bold": "de la", "correct": "Contracté", "options": ["Partitif", "Contracté", "Défini"] }
+      ]
+    },
+    {
+      "title": "Part 8: Corrige l'erreur d'article",
+      "instructions": "Each sentence has an article error. Find it and type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        { "sentence": "Je vais à le cinéma ce soir.", "correct": "Je vais au cinéma ce soir.", "hint": "à + le must contract.", "errorType": "à le → au (contraction obligatoire)" },
+        { "sentence": "Je n'ai pas des amis ici.", "correct": "Je n'ai pas d'amis ici.", "hint": "After negation, des becomes de/d'.", "errorType": "des → d' (negation rule)" },
+        { "sentence": "Il y a beaucoup des problèmes.", "correct": "Il y a beaucoup de problèmes.", "hint": "After quantity expressions, use de alone.", "errorType": "des → de (after beaucoup)" },
+        { "sentence": "Liberté est importante pour tous.", "correct": "La liberté est importante pour tous.", "hint": "Abstract concepts need a definite article in French.", "errorType": "missing La (general abstract noun)" },
+        { "sentence": "Je parle à les enfants.", "correct": "Je parle aux enfants.", "hint": "à + les must contract.", "errorType": "à les → aux (contraction obligatoire)" },
+        { "sentence": "J'ai des bons amis à Paris.", "correct": "J'ai de bons amis à Paris.", "hint": "Adjective before plural noun: des → de.", "errorType": "des → de (adjective before plural noun)" },
+        { "sentence": "C'est facile d'accès grâce à le métro.", "correct": "C'est facile d'accès grâce au métro.", "hint": "à + le → au, even inside expressions.", "errorType": "à le → au (contraction in expression)" },
+        { "sentence": "Je n'ai pas de la patience aujourd'hui.", "correct": "Je n'ai pas de patience aujourd'hui.", "hint": "After negation, de la becomes de.", "errorType": "de la → de (negation rule)" },
+        { "sentence": "Il vient de le Canada.", "correct": "Il vient du Canada.", "hint": "de + le must contract.", "errorType": "de le → du (contraction obligatoire)" },
+        { "sentence": "Ce ne sont pas de excuses.", "correct": "Ce ne sont pas des excuses.", "hint": "After être, the article stays even in negation.", "errorType": "de → des (exception: être keeps the article)" }
+      ]
+    },
+    {
+      "title": "Part 9: Traduis avec le bon article",
+      "instructions": "Translate the English sentence into French, paying special attention to article choice.",
+      "type": "translate",
+      "questions": [
+        { "english": "I drink coffee every morning.", "correct": "Je bois du café tous les matins.", "hint": "\"coffee\" = uncountable, unspecified quantity → partitive du", "alternates": ["Je bois du café chaque matin", "Je bois du café tous les matins"] },
+        { "english": "Freedom is important.", "correct": "La liberté est importante.", "hint": "General abstract concept → definite article (la) in French, no article in English", "alternates": ["La liberté est importante"] },
+        { "english": "I'm going to the movies.", "correct": "Je vais au cinéma.", "hint": "aller à + le cinéma → au cinéma (contraction)", "alternates": ["Je vais au cinéma"] },
+        { "english": "I don't have any friends here.", "correct": "Je n'ai pas d'amis ici.", "hint": "Negation → de/d' alone (not des)", "alternates": ["Je n'ai pas d'amis ici"] },
+        { "english": "There are a lot of people.", "correct": "Il y a beaucoup de monde.", "hint": "Quantity expression (beaucoup) → de alone, not du", "alternates": ["Il y a beaucoup de monde", "Il y a beaucoup de gens"] },
+        { "english": "I have good friends.", "correct": "J'ai de bons amis.", "hint": "Adjective (bons) before plural noun → de, not des", "alternates": ["J'ai de bons amis"] },
+        { "english": "She comes from the station.", "correct": "Elle vient de la gare.", "hint": "venir de + la gare → de la (no contraction with feminine)", "alternates": ["Elle vient de la gare"] },
+        { "english": "Children need rules.", "correct": "Les enfants ont besoin de règles.", "hint": "General truth → les enfants. Avoir besoin de + non-specific → de alone", "alternates": ["Les enfants ont besoin de règles"] }
+      ]
+    }
+  ]
+}
