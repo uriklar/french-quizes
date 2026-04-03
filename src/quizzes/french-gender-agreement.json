@@ -1,0 +1,682 @@
+{
+  "slug": "french-gender-agreement",
+  "title": "French Gender Agreement Mastery",
+  "description": "Master articles, adjectives, past participles, and every gender agreement rule",
+  "questionCount": 82,
+  "crashCourse": {
+    "title": "Gender Agreement — The Complete System",
+    "subtitle": "Every noun in French is masculine or feminine. This affects articles, adjectives, past participles, possessives, and demonstratives. Master the patterns below and you'll get it right every time.",
+    "sections": [
+      {
+        "title": "Step 1 — Learn the masculine endings",
+        "content": "Most nouns ending in these suffixes are masculine. Memorize the pattern, not each word.",
+        "tip": "-age, -ment, -eau, -isme, -eur (agent), -ier, -in, -on, -et, -ème → usually MASCULINE",
+        "examples": [
+          { "french": "le garage, le courage, le village", "english": "-age → masculine", "note": "Exceptions: la page, la plage, la cage, l'image" },
+          { "french": "le moment, le gouvernement", "english": "-ment → masculine" },
+          { "french": "le bureau, le gâteau, le chapeau", "english": "-eau → masculine", "note": "Exceptions: l'eau (f), la peau (f)" },
+          { "french": "le problème, le système, le thème", "english": "-ème → masculine" },
+          { "french": "le musée, le lycée", "english": "-ée can be masculine!", "note": "Most -ée words are feminine, but these are traps" }
+        ]
+      },
+      {
+        "title": "Step 2 — Learn the feminine endings",
+        "content": "These endings almost always signal a feminine noun.",
+        "tip": "-tion/-sion, -ité/-té, -ure, -ence/-ance, -ie, -esse, -ette, -ée, -ise → usually FEMININE",
+        "examples": [
+          { "french": "la situation, la décision, la nation", "english": "-tion/-sion → feminine" },
+          { "french": "la liberté, l'université, la qualité", "english": "-ité/-té → feminine" },
+          { "french": "la nature, la voiture, l'aventure", "english": "-ure → feminine" },
+          { "french": "la patience, l'importance, la violence", "english": "-ence/-ance → feminine", "note": "Exception: le silence (masculine!)" },
+          { "french": "la boulangerie, la vie, la pluie", "english": "-ie → feminine" },
+          { "french": "la journée, l'année, l'idée", "english": "-ée → feminine (most of the time)" }
+        ]
+      },
+      {
+        "title": "Step 3 — The tricky exceptions to memorize",
+        "content": "Some nouns break the pattern. These are the most common traps.",
+        "tip": "When in doubt, learn these exceptions by heart — they appear constantly in French.",
+        "table": {
+          "headers": ["Looks feminine, but MASCULINE", "Looks masculine, but FEMININE"],
+          "rows": [
+            ["le musée (museum)", "la page (page)"],
+            ["le lycée (high school)", "la plage (beach)"],
+            ["le problème (problem)", "l'image (image)"],
+            ["le système (system)", "la cage (cage)"],
+            ["le programme (program)", "l'eau (water)"],
+            ["le silence (silence)", "la peau (skin)"],
+            ["le groupe (group)", "la foi (faith)"],
+            ["le monde (world)", "la main (hand)"],
+            ["le livre (book)", "la fin (end)"],
+            ["le texte (text)", "la forêt (forest)"]
+          ]
+        }
+      },
+      {
+        "title": "Step 4 — Adjective agreement rules",
+        "content": "French adjectives must agree in gender AND number with the noun they describe.",
+        "tip": "Default: add -e for feminine, -s for plural, -es for feminine plural. But many adjectives have special patterns.",
+        "examples": [
+          { "french": "grand → grande → grands → grandes", "english": "Regular: just add -e / -s / -es" },
+          { "french": "beau → belle (bel before vowel)", "english": "Irregular: completely different feminine form" },
+          { "french": "nouveau → nouvelle (nouvel before vowel)", "english": "Same pattern as beau/belle" },
+          { "french": "vieux → vieille (vieil before vowel)", "english": "Same pattern as beau/belle" },
+          { "french": "heureux → heureuse", "english": "-eux → -euse" },
+          { "french": "sportif → sportive", "english": "-if → -ive" },
+          { "french": "doux → douce, faux → fausse, fou → folle", "english": "Completely irregular — memorize these" }
+        ]
+      },
+      {
+        "title": "Step 5 — Past participle agreement",
+        "content": "This is the hardest part. Three rules determine when a past participle agrees.",
+        "tip": "Rule 1: With ÊTRE → agrees with subject. Rule 2: With AVOIR + preceding COD → agrees with COD. Rule 3: Reflexive → agrees with reflexive pronoun IF it's the COD.",
+        "examples": [
+          { "french": "Elle est allée au cinéma.", "english": "ÊTRE → agrees with elle (feminine) → allée", "note": "Rule 1" },
+          { "french": "Les fleurs que j'ai achetées.", "english": "AVOIR + que (= les fleurs, f.pl.) before verb → achetées", "note": "Rule 2" },
+          { "french": "J'ai acheté les fleurs.", "english": "AVOIR but COD after verb → NO agreement → acheté", "note": "Rule 2 (COD after = no change)" },
+          { "french": "Elle s'est lavée.", "english": "Reflexive, se = COD → agrees → lavée", "note": "Rule 3" },
+          { "french": "Elle s'est lavé les mains.", "english": "Reflexive, but COD = les mains (after) → NO agreement → lavé", "note": "Rule 3 (COD is les mains, not se)" }
+        ]
+      },
+      {
+        "title": "Step 6 — Possessives & demonstratives",
+        "content": "Possessives agree with the OWNED noun, not the owner. Demonstratives agree with the noun they point to.",
+        "tip": "mon/ton/son before feminine nouns starting with a vowel: mon amie (NOT ma amie). This avoids two vowel sounds clashing.",
+        "examples": [
+          { "french": "son école (her school)", "english": "école is feminine, but starts with vowel → son (not sa)" },
+          { "french": "sa voiture (his car)", "english": "voiture is feminine → sa, regardless of whether the owner is male" },
+          { "french": "ce livre, cet homme, cette femme, ces enfants", "english": "ce (m), cet (m before vowel/h), cette (f), ces (plural)" }
+        ]
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Le ou La? — Noun Gender",
+      "instructions": "Choose the correct article for each noun. Watch out for exceptions!",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "___ musée est fermé le lundi.",
+          "options": ["Le", "La"],
+          "correct": 0,
+          "explanation": "Le musée — masculine despite the -ée ending. Words ending in -ée are usually feminine (la journée, l'idée), but musée is a famous exception."
+        },
+        {
+          "sentence": "___ plage est magnifique en été.",
+          "options": ["Le", "La"],
+          "correct": 1,
+          "explanation": "La plage — feminine, even though -age is usually masculine (le garage, le courage). Plage, page, image, and cage are exceptions."
+        },
+        {
+          "sentence": "Il y a ___ problème avec la commande.",
+          "options": ["un", "une"],
+          "correct": 0,
+          "explanation": "Un problème — masculine. All nouns ending in -ème are masculine: le thème, le système, le problème."
+        },
+        {
+          "sentence": "___ silence dans la salle est impressionnant.",
+          "options": ["Le", "La"],
+          "correct": 0,
+          "explanation": "Le silence — masculine! Even though -ence is usually feminine (la patience, la violence), silence is a well-known exception."
+        },
+        {
+          "sentence": "J'ai trouvé ___ image intéressante sur Internet.",
+          "options": ["un", "une"],
+          "correct": 1,
+          "explanation": "Une image — feminine. This is an exception to the -age = masculine pattern. L'image is always feminine."
+        },
+        {
+          "sentence": "___ lycée est près de la gare.",
+          "options": ["Le", "La"],
+          "correct": 0,
+          "explanation": "Le lycée — masculine, another exception like le musée. Don't be tricked by the -ée ending."
+        },
+        {
+          "sentence": "___ liberté est un droit fondamental.",
+          "options": ["Le", "La"],
+          "correct": 1,
+          "explanation": "La liberté — feminine. Nouns ending in -té/-ité are almost always feminine: la qualité, l'université, la beauté."
+        },
+        {
+          "sentence": "J'ai lu ___ page très intéressante.",
+          "options": ["un", "une"],
+          "correct": 1,
+          "explanation": "Une page — feminine. Like plage and image, this is an exception to the -age = masculine rule."
+        },
+        {
+          "sentence": "___ groupe a décidé de partir.",
+          "options": ["Le", "La"],
+          "correct": 0,
+          "explanation": "Le groupe — masculine, even though it ends in -e. Many common nouns ending in -e are masculine: le monde, le texte, le livre, le groupe."
+        },
+        {
+          "sentence": "___ eau de cette rivière est très claire.",
+          "options": ["Le", "La", "L'"],
+          "correct": 2,
+          "explanation": "L'eau — feminine! Despite ending in -eau (usually masculine: le bureau, le gâteau), eau and peau are feminine exceptions. We use l' because it starts with a vowel."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Articles in Context",
+      "instructions": "Choose the correct article to complete each sentence. Pay attention to the gender of the noun.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "J'ai acheté ___ nouvelle voiture.",
+          "options": ["un", "une", "le", "la"],
+          "correct": 1,
+          "explanation": "Une nouvelle voiture — voiture is feminine. The adjective nouvelle also confirms the feminine gender."
+        },
+        {
+          "sentence": "Il mange ___ fromage tous les matins.",
+          "options": ["du", "de la", "de l'", "des"],
+          "correct": 0,
+          "explanation": "Du fromage — fromage is masculine. The partitive article for masculine nouns is du (de + le)."
+        },
+        {
+          "sentence": "Elle boit ___ eau minérale.",
+          "options": ["du", "de la", "de l'", "des"],
+          "correct": 2,
+          "explanation": "De l'eau — eau is feminine but starts with a vowel, so we use de l' (not de la). This contraction happens with both masculine and feminine nouns starting with a vowel."
+        },
+        {
+          "sentence": "___ endroit est parfait pour la fête.",
+          "options": ["Le", "La", "L'", "Les"],
+          "correct": 2,
+          "explanation": "L'endroit — endroit is masculine but starts with a vowel, so le becomes l'. You can tell it's masculine from: un endroit, cet endroit, un bon endroit."
+        },
+        {
+          "sentence": "C'est ___ belle occasion de se retrouver.",
+          "options": ["un", "une", "le", "la"],
+          "correct": 1,
+          "explanation": "Une belle occasion — occasion is feminine (-sion ending = feminine). The adjective belle also confirms it."
+        },
+        {
+          "sentence": "Je cherche ___ appartement près du centre.",
+          "options": ["un", "une", "le", "la"],
+          "correct": 0,
+          "explanation": "Un appartement — appartement is masculine (-ment ending = masculine). Despite starting with a vowel, the indefinite article stays un (not une)."
+        },
+        {
+          "sentence": "Il a ___ courage de parler en public.",
+          "options": ["le", "la", "l'", "un"],
+          "correct": 0,
+          "explanation": "Le courage — courage is masculine (-age ending = masculine). We use le (not l') because courage starts with a consonant."
+        },
+        {
+          "sentence": "Nous avons passé ___ bonne journée.",
+          "options": ["un", "une", "le", "la"],
+          "correct": 1,
+          "explanation": "Une bonne journée — journée is feminine (-ée ending = feminine). Compare with le jour (masculine) — this is a common masculine/feminine pair."
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Adjective Agreement",
+      "instructions": "Choose the correctly agreed form of the adjective.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "La maison est très ___.",
+          "options": ["grand", "grande", "grands", "grandes"],
+          "correct": 1,
+          "explanation": "Grande — maison is feminine singular. Regular rule: add -e to make an adjective feminine."
+        },
+        {
+          "sentence": "Les fleurs sont ___.",
+          "context": "(beautiful)",
+          "options": ["beau", "beaux", "belle", "belles"],
+          "correct": 3,
+          "explanation": "Belles — fleurs is feminine plural. Beau → belle (feminine) → belles (feminine plural)."
+        },
+        {
+          "sentence": "La situation est très ___.",
+          "context": "(dangerous)",
+          "options": ["dangereux", "dangereuse", "dangereuses", "dangereus"],
+          "correct": 1,
+          "explanation": "Dangereuse — situation is feminine singular. Pattern: -eux → -euse for feminine."
+        },
+        {
+          "sentence": "Marie est très ___.",
+          "context": "(athletic/sporty)",
+          "options": ["sportif", "sportive", "sportifs", "sportives"],
+          "correct": 1,
+          "explanation": "Sportive — Marie is feminine singular. Pattern: -if → -ive for feminine."
+        },
+        {
+          "sentence": "Les résultats sont ___.",
+          "context": "(good)",
+          "options": ["bon", "bonne", "bons", "bonnes"],
+          "correct": 2,
+          "explanation": "Bons — résultats is masculine plural. Bon → bons (just add -s for masculine plural)."
+        },
+        {
+          "sentence": "Sa voiture est ___.",
+          "context": "(new)",
+          "options": ["neuf", "neuve", "nouveau", "nouvelle"],
+          "correct": 1,
+          "explanation": "Neuve — voiture is feminine singular. Neuf → neuve (for brand-new objects). Note: nouveau/nouvelle means 'new to you', neuf/neuve means 'brand new'."
+        },
+        {
+          "sentence": "Cette histoire est complètement ___.",
+          "context": "(false)",
+          "options": ["faux", "fausse", "fausses", "faus"],
+          "correct": 1,
+          "explanation": "Fausse — histoire is feminine singular. Faux → fausse is an irregular feminine form."
+        },
+        {
+          "sentence": "Les étudiantes sont très ___.",
+          "context": "(hard-working)",
+          "options": ["travailleur", "travailleuse", "travailleurs", "travailleuses"],
+          "correct": 3,
+          "explanation": "Travailleuses — étudiantes is feminine plural. Pattern: -eur → -euse for feminine, then add -s for plural."
+        },
+        {
+          "sentence": "La porte est ___.",
+          "context": "(open)",
+          "options": ["ouvert", "ouverte", "ouverts", "ouvertes"],
+          "correct": 1,
+          "explanation": "Ouverte — porte is feminine singular. Regular rule: add -e to ouvert."
+        },
+        {
+          "sentence": "Les enfants sont ___ de leur cadeau.",
+          "context": "(happy — mixed group)",
+          "options": ["content", "contente", "contents", "contentes"],
+          "correct": 2,
+          "explanation": "Contents — enfants is masculine plural (or mixed group → masculine plural). When a group has both boys and girls, use masculine plural."
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Irregular Adjectives",
+      "instructions": "These adjectives have special forms. Choose the correct one for the context.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "C'est un ___ homme.",
+          "context": "(beautiful/handsome)",
+          "options": ["beau", "bel", "belle", "beaux"],
+          "correct": 1,
+          "explanation": "Bel — before a masculine noun starting with a vowel or mute h, beau becomes bel. Compare: un beau garçon, but un bel homme."
+        },
+        {
+          "sentence": "Cette ville est très ___.",
+          "context": "(old)",
+          "options": ["vieux", "vieil", "vieille", "vieilles"],
+          "correct": 2,
+          "explanation": "Vieille — ville is feminine singular. Vieux → vieille. (Vieil is only used before masculine nouns starting with a vowel: un vieil ami.)"
+        },
+        {
+          "sentence": "Il a acheté une ___ maison.",
+          "context": "(new)",
+          "options": ["nouveau", "nouvel", "nouvelle", "nouveaux"],
+          "correct": 2,
+          "explanation": "Nouvelle — maison is feminine. Nouveau → nouvelle. (Nouvel is only before masculine nouns starting with a vowel: un nouvel appartement.)"
+        },
+        {
+          "sentence": "La mer est ___ aujourd'hui.",
+          "context": "(calm/gentle)",
+          "options": ["doux", "douce", "douces", "doucement"],
+          "correct": 1,
+          "explanation": "Douce — mer is feminine singular. Doux → douce is irregular. (Doucement is an adverb, not an adjective.)"
+        },
+        {
+          "sentence": "C'est une idée ___.",
+          "context": "(crazy)",
+          "options": ["fou", "fol", "folle", "folles"],
+          "correct": 2,
+          "explanation": "Folle — idée is feminine singular. Fou → folle. (Fol is used before masculine nouns starting with a vowel: un fol espoir.)"
+        },
+        {
+          "sentence": "Il porte un ___ imperméable.",
+          "context": "(old)",
+          "options": ["vieux", "vieil", "vieille", "vieilles"],
+          "correct": 1,
+          "explanation": "Vieil — imperméable is masculine and starts with a vowel sound. Before masculine vowel-initial nouns: vieux → vieil."
+        },
+        {
+          "sentence": "Cette femme est très ___.",
+          "context": "(kind/nice)",
+          "options": ["gentil", "gentille", "gentils", "gentilles"],
+          "correct": 1,
+          "explanation": "Gentille — femme is feminine singular. Gentil → gentille (double the l and add -e)."
+        },
+        {
+          "sentence": "Ils ont un ___ appartement.",
+          "context": "(new)",
+          "options": ["nouveau", "nouvel", "nouvelle", "nouveaux"],
+          "correct": 1,
+          "explanation": "Nouvel — appartement is masculine and starts with a vowel. Before masculine vowel-initial nouns: nouveau → nouvel."
+        }
+      ]
+    },
+    {
+      "title": "Part 5: Past Participle Agreement",
+      "instructions": "Choose the correctly agreed past participle. Remember the three rules: être = agree with subject, avoir = agree with preceding COD, reflexive = agree if reflexive pronoun is COD.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "Marie est ___ au cinéma hier soir.",
+          "options": ["allé", "allée", "allés", "allées"],
+          "correct": 1,
+          "explanation": "Allée — with être, the past participle agrees with the subject. Marie is feminine singular → allée."
+        },
+        {
+          "sentence": "Les filles sont ___ hier.",
+          "context": "(left/departed)",
+          "options": ["parti", "partie", "partis", "parties"],
+          "correct": 3,
+          "explanation": "Parties — with être, agree with subject. Les filles is feminine plural → parties."
+        },
+        {
+          "sentence": "La lettre que j'ai ___ est très longue.",
+          "context": "(written)",
+          "options": ["écrit", "écrite", "écrits", "écrites"],
+          "correct": 1,
+          "explanation": "Écrite — with avoir, when the COD (que = la lettre, feminine singular) comes BEFORE the verb, the participle agrees with it."
+        },
+        {
+          "sentence": "Elle s'est ___ les mains avant de manger.",
+          "context": "(washed)",
+          "options": ["lavé", "lavée", "lavés", "lavées"],
+          "correct": 0,
+          "explanation": "Lavé — no agreement! In 'se laver les mains', the COD is 'les mains' (which comes after the verb), not 'se'. The reflexive pronoun 'se' is the COI here. So: no agreement."
+        },
+        {
+          "sentence": "Les fleurs que tu as ___ sont magnifiques.",
+          "context": "(bought)",
+          "options": ["acheté", "achetée", "achetés", "achetées"],
+          "correct": 3,
+          "explanation": "Achetées — with avoir, the COD (que = les fleurs, feminine plural) precedes the verb → agree. Feminine plural = -ées."
+        },
+        {
+          "sentence": "Elles se sont ___ dans le miroir.",
+          "context": "(looked at each other)",
+          "options": ["regardé", "regardée", "regardés", "regardées"],
+          "correct": 3,
+          "explanation": "Regardées — reflexive verb where 'se' is the COD (regarder quelqu'un). Se refers to elles (feminine plural) → agree."
+        },
+        {
+          "sentence": "Ils sont ___ à Paris la semaine dernière.",
+          "context": "(went)",
+          "options": ["allé", "allée", "allés", "allées"],
+          "correct": 2,
+          "explanation": "Allés — with être, agree with subject. Ils is masculine plural → allés."
+        },
+        {
+          "sentence": "Les gâteaux que j'ai ___ étaient délicieux.",
+          "context": "(made)",
+          "options": ["fait", "faite", "faits", "faites"],
+          "correct": 2,
+          "explanation": "Faits — with avoir, the COD (que = les gâteaux, masculine plural) precedes the verb → agree."
+        },
+        {
+          "sentence": "Elle est ___ médecin l'année dernière.",
+          "context": "(became)",
+          "options": ["devenu", "devenue", "devenus", "devenues"],
+          "correct": 1,
+          "explanation": "Devenue — devenir uses être, so agree with subject. Elle is feminine singular → devenue."
+        },
+        {
+          "sentence": "La chanson qu'il a ___ était magnifique.",
+          "context": "(sung)",
+          "options": ["chanté", "chantée", "chantés", "chantées"],
+          "correct": 1,
+          "explanation": "Chantée — with avoir, the COD (que = la chanson, feminine singular) precedes the verb → agree."
+        }
+      ]
+    },
+    {
+      "title": "Part 6: Possessives & Demonstratives",
+      "instructions": "Choose the correct possessive or demonstrative form. Remember: possessives agree with the owned noun, not the owner!",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "___ amie est très gentille.",
+          "context": "(my friend, female)",
+          "options": ["Ma", "Mon", "Mes", "Sa"],
+          "correct": 1,
+          "explanation": "Mon amie — even though amie is feminine, we use mon because the word starts with a vowel. This avoids the awkward sound 'ma amie'. The rule: use mon/ton/son before ALL vowel-initial nouns, regardless of gender."
+        },
+        {
+          "sentence": "___ école est très bonne.",
+          "context": "(his/her school)",
+          "options": ["Sa", "Son", "Ses", "Ce"],
+          "correct": 1,
+          "explanation": "Son école — école is feminine but starts with a vowel → son (not sa). Same rule as mon amie."
+        },
+        {
+          "sentence": "___ idée est excellente!",
+          "options": ["Ce", "Cet", "Cette", "Ces"],
+          "correct": 2,
+          "explanation": "Cette idée — idée is feminine → cette. (Cet is only for masculine nouns starting with a vowel.)"
+        },
+        {
+          "sentence": "___ homme est très grand.",
+          "options": ["Ce", "Cet", "Cette", "Ces"],
+          "correct": 1,
+          "explanation": "Cet homme — homme is masculine and starts with a vowel sound (the h is mute) → cet. This is the masculine equivalent of the vowel rule."
+        },
+        {
+          "sentence": "J'aime ___ nouvelle voiture.",
+          "context": "(my)",
+          "options": ["mon", "ma", "mes", "sa"],
+          "correct": 1,
+          "explanation": "Ma nouvelle voiture — voiture is feminine and the next word (nouvelle) starts with a consonant, so we use ma. (If it were 'mon ancienne voiture', we'd use mon because ancienne starts with a vowel.)"
+        },
+        {
+          "sentence": "___ enfants jouent dans le parc.",
+          "options": ["Ce", "Cet", "Cette", "Ces"],
+          "correct": 3,
+          "explanation": "Ces enfants — enfants is plural → ces. The demonstrative ces is used for all plural nouns regardless of gender."
+        },
+        {
+          "sentence": "Elle a perdu ___ montre.",
+          "context": "(her watch)",
+          "options": ["son", "sa", "ses", "leur"],
+          "correct": 1,
+          "explanation": "Sa montre — montre is feminine and starts with a consonant → sa. Remember: the possessive agrees with montre (feminine), not with elle."
+        },
+        {
+          "sentence": "___ appartement est très spacieux.",
+          "context": "(this)",
+          "options": ["Ce", "Cet", "Cette", "Ces"],
+          "correct": 1,
+          "explanation": "Cet appartement — appartement is masculine and starts with a vowel → cet."
+        }
+      ]
+    },
+    {
+      "title": "Part 7: Spot the Gender Error",
+      "instructions": "Each sentence has a gender agreement error. Find it and type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "La musée est fermé le lundi.",
+          "correct": "Le musée est fermé le lundi.",
+          "hint": "Is musée masculine or feminine?",
+          "errorType": "La → Le (musée is masculine)"
+        },
+        {
+          "sentence": "J'ai trouvé une bon endroit pour la fête.",
+          "correct": "J'ai trouvé un bon endroit pour la fête.",
+          "hint": "Check the article and adjective for endroit.",
+          "errorType": "une bon → un bon (endroit is masculine)"
+        },
+        {
+          "sentence": "La petite oiseau chante dans le jardin.",
+          "correct": "Le petit oiseau chante dans le jardin.",
+          "hint": "What gender is oiseau?",
+          "errorType": "La petite → Le petit (oiseau is masculine)"
+        },
+        {
+          "sentence": "C'est une problème très sérieux.",
+          "correct": "C'est un problème très sérieux.",
+          "hint": "Words ending in -ème are usually which gender?",
+          "errorType": "une → un (problème is masculine)"
+        },
+        {
+          "sentence": "Ma voiture est nouveau.",
+          "correct": "Ma voiture est nouvelle.",
+          "hint": "The adjective must agree with voiture.",
+          "errorType": "nouveau → nouvelle (voiture is feminine)"
+        },
+        {
+          "sentence": "Elle est allé au supermarché.",
+          "correct": "Elle est allée au supermarché.",
+          "hint": "With être, the past participle agrees with the subject.",
+          "errorType": "allé → allée (subject elle is feminine)"
+        },
+        {
+          "sentence": "Son anniversaire est la semaine prochain.",
+          "correct": "Son anniversaire est la semaine prochaine.",
+          "hint": "The adjective must agree with semaine.",
+          "errorType": "prochain → prochaine (semaine is feminine)"
+        },
+        {
+          "sentence": "Cette hôtel est très cher.",
+          "correct": "Cet hôtel est très cher.",
+          "hint": "Hôtel is masculine. Which demonstrative do we use before a masculine noun starting with a vowel sound?",
+          "errorType": "Cette → Cet (hôtel is masculine, starts with vowel sound)"
+        },
+        {
+          "sentence": "J'ai mangé une bon repas ce soir.",
+          "correct": "J'ai mangé un bon repas ce soir.",
+          "hint": "What gender is repas?",
+          "errorType": "une bon → un bon (repas is masculine)"
+        },
+        {
+          "sentence": "Les enfants sont contentes de leur cadeau.",
+          "context": "(mixed group of boys and girls)",
+          "correct": "Les enfants sont contents de leur cadeau.",
+          "hint": "For a mixed group, which gender do we use?",
+          "errorType": "contentes → contents (mixed group = masculine plural)"
+        }
+      ]
+    },
+    {
+      "title": "Part 8: Masculin ou Féminin?",
+      "instructions": "Classify each noun as masculine or feminine.",
+      "type": "categorize",
+      "questions": [
+        {
+          "sentence": "Le problème est résolu.",
+          "bold": "problème",
+          "correct": "Masculin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "La liberté est importante.",
+          "bold": "liberté",
+          "correct": "Féminin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "On visite le musée demain.",
+          "bold": "musée",
+          "correct": "Masculin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "L'image est floue.",
+          "bold": "image",
+          "correct": "Féminin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "Le silence est d'or.",
+          "bold": "silence",
+          "correct": "Masculin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "La plage est bondée.",
+          "bold": "plage",
+          "correct": "Féminin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "Le programme est intéressant.",
+          "bold": "programme",
+          "correct": "Masculin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "L'occasion ne se présente qu'une fois.",
+          "bold": "occasion",
+          "correct": "Féminin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "L'eau est froide.",
+          "bold": "eau",
+          "correct": "Féminin",
+          "options": ["Masculin", "Féminin"]
+        },
+        {
+          "sentence": "Le groupe part à huit heures.",
+          "bold": "groupe",
+          "correct": "Masculin",
+          "options": ["Masculin", "Féminin"]
+        }
+      ]
+    },
+    {
+      "title": "Part 9: Translate with Correct Agreement",
+      "instructions": "Translate each sentence into French. Pay careful attention to gender agreement on articles, adjectives, and past participles.",
+      "type": "translate",
+      "questions": [
+        {
+          "english": "The house is big and beautiful.",
+          "correct": "La maison est grande et belle.",
+          "hint": "Maison is feminine. Both adjectives must agree.",
+          "alternates": ["La maison est grande et belle"]
+        },
+        {
+          "english": "She went to the museum.",
+          "correct": "Elle est allée au musée.",
+          "hint": "Aller uses être → past participle agrees with subject (elle).",
+          "alternates": ["Elle est allée au musée"]
+        },
+        {
+          "english": "My friend (female) is very intelligent.",
+          "correct": "Mon amie est très intelligente.",
+          "hint": "Amie starts with a vowel → use mon (not ma). Intelligente agrees with amie.",
+          "alternates": ["Mon amie est très intelligente"]
+        },
+        {
+          "english": "The old city is beautiful.",
+          "correct": "La vieille ville est belle.",
+          "hint": "Ville is feminine. Old → vieille (feminine of vieux). Beautiful → belle.",
+          "alternates": ["La vieille ville est belle"]
+        },
+        {
+          "english": "The flowers that I bought are red.",
+          "correct": "Les fleurs que j'ai achetées sont rouges.",
+          "hint": "Avoir + preceding COD (que = les fleurs, f.pl.) → achetées. Rouge → rouges (plural).",
+          "alternates": ["Les fleurs que j'ai achetées sont rouges"]
+        },
+        {
+          "english": "His new car is fast.",
+          "correct": "Sa nouvelle voiture est rapide.",
+          "hint": "Voiture is feminine → sa (not son). Nouveau → nouvelle before feminine noun.",
+          "alternates": ["Sa voiture nouvelle est rapide", "Sa nouvelle voiture est rapide"]
+        },
+        {
+          "english": "This idea is interesting.",
+          "correct": "Cette idée est intéressante.",
+          "hint": "Idée is feminine → cette (not ce/cet). Intéressant → intéressante.",
+          "alternates": ["Cette idée est intéressante"]
+        },
+        {
+          "english": "The children are happy and excited.",
+          "correct": "Les enfants sont contents et excités.",
+          "hint": "Enfants (mixed/default) is masculine plural. Both adjectives take masculine plural form.",
+          "alternates": ["Les enfants sont contents et excités", "Les enfants sont heureux et excités"]
+        }
+      ]
+    }
+  ]
+}

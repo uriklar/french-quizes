@@ -1,0 +1,182 @@
+{
+  "slug": "tcf-writing-toolkit",
+  "title": "TCF Writing Toolkit",
+  "description": "Openings, closings, connectors, opinions, grammar & common traps for TCF writing tasks",
+  "questionCount": 60,
+  "crashCourse": {
+    "title": "TCF Writing Toolkit",
+    "subtitle": "Master the phrases, connectors, and structures you need for all 3 TCF writing tasks.",
+    "sections": [
+      {
+        "title": "The 3 TCF Writing Tasks",
+        "content": "Task 1: Informal message (to friends/colleagues). Task 2: Formal letter (describe, justify, request). Task 3: Essay comparing two documents + your opinion.",
+        "tip": "Each task requires different register, openings, and closings."
+      },
+      {
+        "title": "Connectors are your skeleton",
+        "content": "Addition: De plus, En outre, Par ailleurs. Opposition: En revanche, Cependant, Bien que (+subj). Cause: Grâce à (+positive), À cause de (+negative). Consequence: C'est pourquoi, Par conséquent.",
+        "tip": "Use 3-4 different connectors per task to show range.",
+        "examples": [
+          { "french": "De plus, le lieu dispose d'un parking.", "english": "Moreover, the venue has a parking lot." },
+          { "french": "Bien qu'il soit jeune, il est responsable.", "english": "Although he is young, he is responsible." }
+        ]
+      },
+      {
+        "title": "Opinion phrases",
+        "content": "À mon avis, Selon moi, Je suis convaincu(e) que, Il me semble que (+indicatif). Avoid: Je sens que (anglicisme!).",
+        "tip": "Nuance with: Il est vrai que... mais..., Certes... cependant...",
+        "examples": [
+          { "french": "À mon avis, il faut trouver un juste milieu.", "english": "In my opinion, we need to find a middle ground." },
+          { "french": "Certes, c'est difficile, cependant c'est nécessaire.", "english": "Admittedly it's difficult, however it's necessary." }
+        ]
+      },
+      {
+        "title": "Top traps to avoid",
+        "content": "Je sens que → Je pense que. Un bon balance → Un bon équilibre. Que ils → Qu'ils. Une message → Un message. Cettes → Ces.",
+        "tip": "These errors cost you points even if the rest is perfect.",
+        "examples": [
+          { "french": "Je pense que c'est important.", "english": "I think it's important.", "note": "NOT: Je sens que..." },
+          { "french": "Il faut trouver un bon équilibre.", "english": "We must find a good balance.", "note": "NOT: un bon balance" }
+        ]
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Informal Openings & Suggestions",
+      "instructions": "Choose the best phrase to complete each informal message.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "You want to suggest an activity to your friends. Complete: ___ on allait au cinéma ce soir ?", "context": "(suggesting informally)", "options": ["Est-ce que", "Et si", "Je me permets de", "Suite à"], "correct": 1, "explanation": "Et si on + imparfait is the classic informal suggestion structure. Et si on allait au cinéma ?" },
+        { "sentence": "You're writing to friends about a surprise party. Start with: ___", "context": "(informal group message)", "options": ["À qui de droit,", "Salut tout le monde !", "Madame, Monsieur,", "Veuillez agréer..."], "correct": 1, "explanation": "Salut tout le monde ! is the appropriate informal group greeting." },
+        { "sentence": "You want your friends to reply. End with: ___", "context": "(informal closing)", "options": ["Veuillez agréer mes salutations distinguées.", "Dites-moi ce que vous en pensez !", "Je reste à votre disposition.", "Dans l'attente de votre réponse, je vous prie de..."], "correct": 1, "explanation": "Dites-moi ce que vous en pensez ! is the natural informal way to request feedback." },
+        { "sentence": "You want to propose buying a group gift. Complete: ___ acheter un cadeau en commun pour Marie ?", "context": "(suggesting to friends)", "options": ["Je me permets de", "Ça vous dirait d'", "Il convient de", "Étant donné que"], "correct": 1, "explanation": "Ça vous dirait de + infinitif is an informal suggestion meaning 'How about...?'" },
+        { "sentence": "You're introducing exciting news to friends: ___", "context": "(informal message)", "options": ["J'ai le plaisir de vous informer que...", "Vous n'allez pas le croire, mais...", "Je me permets de vous écrire au sujet de...", "Suite à votre demande..."], "correct": 1, "explanation": "Vous n'allez pas le croire, mais... is the perfect informal way to share exciting news." },
+        { "sentence": "End your informal message warmly: ___", "context": "", "options": ["Respectueusement,", "Cordialement,", "À très vite ! Bisous", "Veuillez agréer..."], "correct": 2, "explanation": "À très vite ! Bisous is an appropriate warm informal closing for friends." }
+      ]
+    },
+    {
+      "title": "Part 2: Formal Letter Phrases",
+      "instructions": "Choose the correct formal phrase for each situation.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Begin a formal letter to an unknown recipient: ___", "context": "(formal letter opening)", "options": ["Salut !", "Coucou !", "Madame, Monsieur,", "Hello !"], "correct": 2, "explanation": "Madame, Monsieur, is the standard formal opening when you don't know the recipient." },
+        { "sentence": "Introduce the purpose of your formal letter: ___", "context": "(writing about a venue visit)", "options": ["Comme vous le savez...", "Je me permets de vous écrire au sujet de...", "Vous n'allez pas le croire, mais...", "J'ai une idée à vous proposer."], "correct": 1, "explanation": "Je me permets de vous écrire au sujet de... is the appropriate formal introduction." },
+        { "sentence": "Describe a venue you visited: ___ sur place le 15 mars.", "context": "(formal report)", "options": ["J'ai été", "Je me suis rendu(e)", "J'ai allé", "Je suis venu"], "correct": 1, "explanation": "Je me suis rendu(e) sur place le... is the formal way to report visiting a location." },
+        { "sentence": "Justify your recommendation: Ce lieu me semble idéal ___", "context": "(formal justification)", "options": ["car c'est cool.", "parce que c'est pas mal.", "pour plusieurs raisons.", "à cause de ça."], "correct": 2, "explanation": "Pour plusieurs raisons introduces a structured formal justification." },
+        { "sentence": "Close a formal letter properly: ___", "context": "", "options": ["Bisous !", "À très vite !", "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.", "Hâte de vous lire !"], "correct": 2, "explanation": "This is the classic full formal closing formula (formule de politesse)." },
+        { "sentence": "Offer availability for follow-up: ___", "context": "(formal letter)", "options": ["Faites-moi signe !", "Je compte sur vous !", "Je reste à votre disposition pour toute question.", "Tenez-moi au courant."], "correct": 2, "explanation": "Je reste à votre disposition pour toute question is the standard formal availability phrase." }
+      ]
+    },
+    {
+      "title": "Part 3: Classify the Connectors",
+      "instructions": "For each connector, identify its function: Addition, Opposition, Cause, or Consequence.",
+      "type": "categorize",
+      "questions": [
+        { "sentence": "De plus, ...", "bold": "De plus", "correct": "Addition", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "En revanche, ...", "bold": "En revanche", "correct": "Opposition", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "C'est pourquoi ...", "bold": "C'est pourquoi", "correct": "Consequence", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "Grâce à ...", "bold": "Grâce à", "correct": "Cause", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "Néanmoins, ...", "bold": "Néanmoins", "correct": "Opposition", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "Par conséquent, ...", "bold": "Par conséquent", "correct": "Consequence", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "En outre, ...", "bold": "En outre", "correct": "Addition", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "À cause de ...", "bold": "À cause de", "correct": "Cause", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "Toutefois, ...", "bold": "Toutefois", "correct": "Opposition", "options": ["Addition", "Opposition", "Cause", "Consequence"] },
+        { "sentence": "De ce fait, ...", "bold": "De ce fait", "correct": "Consequence", "options": ["Addition", "Opposition", "Cause", "Consequence"] }
+      ]
+    },
+    {
+      "title": "Part 4: Choose the Right Connector",
+      "instructions": "Select the connector that best fits each sentence.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Le lieu est bien desservi. ___, il dispose d'un grand parking.", "context": "(adding an advantage)", "options": ["En revanche", "De plus", "Pourtant", "À cause de"], "correct": 1, "explanation": "De plus adds another advantage — it's an addition connector." },
+        { "sentence": "Le tarif est élevé. ___, la qualité du service est excellente.", "context": "(contrasting)", "options": ["De plus", "Cependant", "Donc", "Grâce à"], "correct": 1, "explanation": "Cependant introduces a contrast/opposition to the high price." },
+        { "sentence": "___ ses parents, elle a pu voyager à l'étranger.", "context": "(positive cause)", "options": ["À cause de", "Malgré", "Grâce à", "En revanche"], "correct": 2, "explanation": "Grâce à + noun expresses a positive cause. À cause de is for negative causes." },
+        { "sentence": "Il pleut beaucoup. ___ le match a été annulé.", "context": "(result)", "options": ["Par ailleurs", "Néanmoins", "C'est pourquoi", "Bien que"], "correct": 2, "explanation": "C'est pourquoi introduces a consequence/result." },
+        { "sentence": "___ le lieu soit petit, il est très bien équipé.", "context": "(concession)", "options": ["Bien que", "Parce que", "De plus", "Donc"], "correct": 0, "explanation": "Bien que + subjonctif introduces a concession. Note: soit is subjunctive of être." },
+        { "sentence": "Les enfants sont fatigués ___ bruit dans la rue.", "context": "(negative cause)", "options": ["grâce au", "à cause du", "malgré le", "de plus du"], "correct": 1, "explanation": "À cause de + noun expresses a negative cause. Grâce à would be for a positive cause." },
+        { "sentence": "Le lieu est spacieux. ___, le propriétaire propose un service traiteur.", "context": "(adding another point)", "options": ["Cependant", "Par ailleurs", "Donc", "Malgré"], "correct": 1, "explanation": "Par ailleurs adds another separate point — it's an addition connector with a slight 'on another note' nuance." },
+        { "sentence": "___ les enfants soient heureux, il faut leur accorder de la liberté.", "context": "(purpose)", "options": ["Parce que", "Pour que", "Puisque", "Même si"], "correct": 1, "explanation": "Pour que + subjonctif expresses purpose. Note: soient is subjunctive." }
+      ]
+    },
+    {
+      "title": "Part 5: Opinion Expressions",
+      "instructions": "Choose the correct way to express an opinion in French.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Express your opinion formally: ___", "context": "(TCF writing)", "options": ["Je sens que c'est important.", "Je suis convaincu(e) que c'est important.", "Je feel que c'est important.", "Ça me fait sentir que c'est important."], "correct": 1, "explanation": "Je suis convaincu(e) que is a strong, correct opinion expression. Je sens que is an anglicism of 'I feel that'." },
+        { "sentence": "Nuance your opinion: ___, c'est difficile, ___ c'est nécessaire.", "context": "(balanced argument)", "options": ["Certes ... cependant", "De plus ... de plus", "Grâce à ... à cause de", "Parce que ... donc"], "correct": 0, "explanation": "Certes... cependant... is the classic French structure for nuancing: 'Admittedly... however...'" },
+        { "sentence": "Express uncertainty: ___ ce soit la meilleure solution.", "context": "(doubt)", "options": ["Je suis sûr que", "Je doute que", "Je sais que", "Il est certain que"], "correct": 1, "explanation": "Je doute que + subjonctif expresses doubt. Note: ce soit (subjunctive) follows naturally." },
+        { "sentence": "Introduce a balanced view: ___", "context": "(essay)", "options": ["Il faut trouver un bon balance.", "Il faut trouver un juste milieu.", "Il faut trouver une bonne balance.", "Il faut trouver le milieu juste."], "correct": 1, "explanation": "Un juste milieu is the correct expression for 'a middle ground'. Balance is an anglicism — use équilibre or juste milieu." },
+        { "sentence": "You agree strongly with someone: ___", "context": "", "options": ["Je ne partage pas ce point de vue.", "Force est de constater que c'est vrai.", "Je m'oppose à cette idée.", "Cette affirmation me semble discutable."], "correct": 1, "explanation": "Force est de constater que = One must acknowledge that — a strong, formal way to express agreement." },
+        { "sentence": "Politely disagree: ___", "context": "(formal essay)", "options": ["C'est n'importe quoi !", "Je ne partage pas ce point de vue.", "T'as tort !", "C'est faux."], "correct": 1, "explanation": "Je ne partage pas ce point de vue is a polite, formal way to express disagreement." }
+      ]
+    },
+    {
+      "title": "Part 6: Presenting Others' Ideas (Task 3)",
+      "instructions": "Choose the best phrase to introduce or compare document content.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Introduce what an author says: ___ l'auteur, l'éducation stricte est nécessaire.", "context": "(reporting a viewpoint)", "options": ["Pour", "Selon", "Avec", "Par"], "correct": 1, "explanation": "Selon l'auteur = According to the author — the standard way to report someone's viewpoint." },
+        { "sentence": "Introduce the topic of your essay: ___", "context": "(Task 3 opening)", "options": ["Je voudrais discuter de ces deux documents.", "Ces deux documents abordent la question de l'éducation sous deux angles différents.", "Les documents sont intéressants.", "J'ai lu deux documents."], "correct": 1, "explanation": "This is specific and well-framed. Avoid vague openings like 'I would like to discuss these documents.'" },
+        { "sentence": "Compare two documents: Le premier document traite de la sévérité ___ le second défend la liberté.", "context": "(comparing)", "options": ["et", "tandis que", "parce que", "grâce à"], "correct": 1, "explanation": "Tandis que introduces a contrast between two documents: 'while/whereas'." },
+        { "sentence": "Highlight a common point: ___, c'est que les deux auteurs veulent le bien des enfants.", "context": "", "options": ["Ce qu'ils ont en commun", "Ce qui les différencie", "À l'inverse", "Contrairement à"], "correct": 0, "explanation": "Ce qu'ils ont en commun, c'est que... is the perfect structure to highlight a shared point." },
+        { "sentence": "Express what emerges from a document: ___ ce document ___ l'éducation doit évoluer.", "context": "", "options": ["Il ressort de ... que", "Il est de ... que", "Il vient de ... que", "Il sort de ... que"], "correct": 0, "explanation": "Il ressort de ce document que = It emerges from this document that — a sophisticated reporting phrase." }
+      ]
+    },
+    {
+      "title": "Part 7: Grammar Structures — Subjonctif Triggers",
+      "instructions": "Choose the correct verb form after each subjunctive trigger.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Il faut que les enfants ___ plus autonomes.", "context": "", "options": ["sont", "soient", "seront", "étaient"], "correct": 1, "explanation": "Il faut que triggers the subjunctive. Soient is the subjunctive of être." },
+        { "sentence": "Bien qu'elle ___ adulte, elle vit encore chez ses parents.", "context": "", "options": ["est", "soit", "sera", "était"], "correct": 1, "explanation": "Bien que always triggers the subjunctive. Soit is the subjunctive of être." },
+        { "sentence": "Pour que les enfants ___ heureux, il faut du dialogue.", "context": "", "options": ["sont", "soient", "seront", "seraient"], "correct": 1, "explanation": "Pour que (purpose) triggers the subjunctive. Soient = subjunctive of être." },
+        { "sentence": "Je ne pense pas que ce ___ la meilleure solution.", "context": "", "options": ["est", "soit", "sera", "serait"], "correct": 1, "explanation": "Je ne pense pas que triggers the subjunctive (negative opinion = doubt). Soit = subjunctive of être." },
+        { "sentence": "Il est possible qu'il ___ demain.", "context": "", "options": ["pleut", "pleuve", "pleuvra", "pleuvait"], "correct": 1, "explanation": "Il est possible que triggers the subjunctive. Pleuve is the subjunctive of pleuvoir." },
+        { "sentence": "Afin qu'ils ___ participer, j'ai changé la date.", "context": "", "options": ["peuvent", "puissent", "pourront", "pouvaient"], "correct": 1, "explanation": "Afin que triggers the subjunctive. Puissent is the subjunctive of pouvoir." }
+      ]
+    },
+    {
+      "title": "Part 8: Grammar — Relative Pronouns & Mise en relief",
+      "instructions": "Choose the correct relative pronoun or emphasis structure.",
+      "type": "multiple_choice",
+      "questions": [
+        { "sentence": "Les parents ___ sont trop sévères risquent de...", "context": "(subject)", "options": ["que", "qui", "dont", "où"], "correct": 1, "explanation": "Qui replaces the subject of the relative clause. Les parents qui sont..." },
+        { "sentence": "Le cadeau ___ j'ai choisi est parfait.", "context": "(direct object)", "options": ["qui", "que", "dont", "où"], "correct": 1, "explanation": "Que replaces the direct object. Le cadeau que j'ai choisi (I chose the gift)." },
+        { "sentence": "Le lieu ___ je vous parle est bien situé.", "context": "(de + noun)", "options": ["qui", "que", "dont", "où"], "correct": 2, "explanation": "Dont replaces de + noun. Parler de quelque chose → Le lieu dont je parle." },
+        { "sentence": "L'endroit ___ nous irons est magnifique.", "context": "(place)", "options": ["qui", "que", "dont", "où"], "correct": 3, "explanation": "Où replaces a place or time reference. L'endroit où nous irons." },
+        { "sentence": "___ m'inquiète, c'est le manque de dialogue.", "context": "(emphasis)", "options": ["Ce qui", "Ce que", "Ce dont", "Celui qui"], "correct": 0, "explanation": "Ce qui is the subject form for emphasis: Ce qui m'inquiète = What worries me." },
+        { "sentence": "___ les enfants ont besoin, c'est de liberté.", "context": "(emphasis with de)", "options": ["Ce qui", "Ce que", "Ce dont", "Ce où"], "correct": 2, "explanation": "Ce dont replaces ce + de: avoir besoin de → Ce dont ils ont besoin." }
+      ]
+    },
+    {
+      "title": "Part 9: Common Traps — Fix the Error",
+      "instructions": "Each sentence contains a common TCF writing error. Type the corrected sentence.",
+      "type": "correction",
+      "questions": [
+        { "sentence": "Je sens que l'éducation stricte est nécessaire.", "context": "(anglicisme)", "correct": "Je pense que l'éducation stricte est nécessaire.", "hint": "'Je sens que' is an anglicism of 'I feel that'. Use penser/estimer.", "errorType": "sens → pense (anglicisme)" },
+        { "sentence": "Il faut trouver un bon balance entre liberté et discipline.", "context": "(vocabulary error)", "correct": "Il faut trouver un bon équilibre entre liberté et discipline.", "hint": "Balance is English. The French word is équilibre (masculine).", "errorType": "balance → équilibre" },
+        { "sentence": "Les parents que ils sont trop sévères...", "context": "(élision)", "correct": "Les parents qu'ils sont trop sévères...", "hint": "Que + ils requires mandatory elision.", "errorType": "que ils → qu'ils (élision obligatoire)" },
+        { "sentence": "J'ai envoyé une message à mon professeur.", "context": "(gender error)", "correct": "J'ai envoyé un message à mon professeur.", "hint": "Message is masculine in French.", "errorType": "une → un (message is masculine)" },
+        { "sentence": "Cettes enfants ont besoin de liberté.", "context": "(demonstrative error)", "correct": "Ces enfants ont besoin de liberté.", "hint": "The plural demonstrative adjective is ces, not cettes.", "errorType": "cettes → ces" },
+        { "sentence": "Les enfants vieilliront et deviendront responsables.", "context": "(wrong verb)", "correct": "Les enfants grandiront et deviendront responsables.", "hint": "Vieillir = to grow old. Grandir = to grow up.", "errorType": "vieilliront → grandiront (grow up ≠ grow old)" },
+        { "sentence": "Des enfants en bonne santées sont des enfants heureux.", "context": "(spelling)", "correct": "Des enfants en bonne santé sont des enfants heureux.", "hint": "Santé never takes a plural -s.", "errorType": "santées → santé (invariable in this expression)" },
+        { "sentence": "C'est facile d'accès à arriver.", "context": "(redundancy)", "correct": "C'est facile d'accès.", "hint": "Facile d'accès is complete by itself — no need for à arriver.", "errorType": "remove à arriver (facile d'accès se suffit)" }
+      ]
+    },
+    {
+      "title": "Part 10: Translate to French",
+      "instructions": "Translate each sentence using appropriate TCF writing expressions.",
+      "type": "translate",
+      "questions": [
+        { "english": "In my opinion, we need to find a good balance.", "correct": "À mon avis, il faut trouver un bon équilibre.", "hint": "Use À mon avis for 'in my opinion' and équilibre for 'balance'.", "alternates": ["Selon moi, il faut trouver un bon équilibre.", "À mon avis, nous devons trouver un bon équilibre.", "D'après moi, il faut trouver un bon équilibre."] },
+        { "english": "Although it is difficult, I think it is necessary.", "correct": "Bien que ce soit difficile, je pense que c'est nécessaire.", "hint": "Bien que + subjunctive. Ce soit = subjunctive of c'est.", "alternates": ["Bien que ce soit difficile, j'estime que c'est nécessaire.", "Bien que ce soit difficile, je crois que c'est nécessaire."] },
+        { "english": "According to the author, strict education is important.", "correct": "Selon l'auteur, l'éducation stricte est importante.", "hint": "Use Selon for 'according to'.", "alternates": ["D'après l'auteur, l'éducation stricte est importante.", "Selon l'auteur, une éducation stricte est importante."] },
+        { "english": "Moreover, the venue has good public transport access.", "correct": "De plus, le lieu est bien desservi par les transports en commun.", "hint": "De plus = moreover. Bien desservi(e) = well-served by transport.", "alternates": ["En outre, le lieu est bien desservi par les transports en commun.", "De plus, le lieu est facile d'accès grâce aux transports en commun.", "Par ailleurs, le lieu est bien desservi par les transports en commun."] },
+        { "english": "That is why I recommend this place.", "correct": "C'est pourquoi je recommande cet endroit.", "hint": "C'est pourquoi = that is why (consequence connector).", "alternates": ["C'est pourquoi je recommande ce lieu.", "Par conséquent, je recommande cet endroit.", "Par conséquent, je recommande ce lieu."] }
+      ]
+    }
+  ]
+}
