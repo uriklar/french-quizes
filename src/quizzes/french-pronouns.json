@@ -81,7 +81,7 @@
       "type": "correction",
       "questions": [
         { "sentence": "Je voudrais acheter un cadeau pour eux.", "context": "(talking about one male friend)", "correct": "Je voudrais acheter un cadeau pour lui.", "hint": "One person, not a group.", "errorType": "eux → lui (singular, not plural)" },
-        { "sentence": "Mes parents ne leur laissent pas de liberté.", "context": "(talking about one girl — Marion)", "correct": "Mes parents ne la laissent pas de liberté.", "hint": "Laisser takes a direct object, not indirect.", "errorType": "leur → la (COD not COI, and singular feminine)" },
+        { "sentence": "Mes parents ne leur laissent pas de liberté.", "context": "(Marion complaining about her parents)", "correct": "Mes parents ne me laissent pas de liberté.", "hint": "Marion is talking about herself — use 1st person.", "errorType": "leur → me (1st person singular, not 3rd person plural)" },
         { "sentence": "Je pense que il peut nous aider.", "context": "", "correct": "Je pense qu'il peut nous aider.", "hint": "What happens to 'que' before a vowel?", "errorType": "que il → qu'il (elision)" },
         { "sentence": "On va aller chez ils ce week-end.", "context": "(at their place)", "correct": "On va aller chez eux ce week-end.", "hint": "After a preposition, never use a subject pronoun.", "errorType": "ils → eux (disjunctive after preposition)" },
         { "sentence": "Sophie est sympa. Je parle souvent à elle.", "context": "", "correct": "Sophie est sympa. Je lui parle souvent.", "hint": "Parler à quelqu'un uses COI, not preposition + disjunctive.", "errorType": "à elle → lui (use COI pronoun, placed before verb)" },
