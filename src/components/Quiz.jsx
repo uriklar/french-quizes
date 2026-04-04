@@ -64,6 +64,10 @@ export default function Quiz() {
     saveState(slug, { answers, currentSection, showResults });
   }, [slug, answers, currentSection, showResults]);
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [currentSection, showResults, showCrashCourse]);
+
   const handleAnswer = (qi, answer) => {
     setAnswers(prev => ({ ...prev, [sectionKey(currentSection, qi)]: answer }));
   };
