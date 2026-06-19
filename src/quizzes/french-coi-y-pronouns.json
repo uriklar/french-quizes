@@ -1,114 +1,1354 @@
 {
   "slug": "french-coi-y-pronouns",
-  "title": "COI Pronouns + Y Drill",
-  "description": "Practice lui, leur, me, te, nous, vous, and y in everyday sentences",
-  "questionCount": 57,
+  "title": "Mixed French Pronouns Drill",
+  "description": "COI pronouns, y/en, double pronouns, infinitive prepositions, and pronoms toniques",
+  "questionCount": 117,
   "crashCourse": {
-    "title": "COI Pronouns + Y",
-    "subtitle": "Use the right indirect-object pronoun, then practice y for places and à + thing/idea.",
+    "title": "Mixed French Pronouns Drill",
+    "subtitle": "A shuffled drill for lui/leur, me/te/nous/vous, y/en, double pronouns, à/de before infinitives, and pronoms toniques.",
     "sections": [
       {
         "title": "1) COI pronouns for people",
-        "content": "When the verb means verb + à quelqu’un, use: me, te, lui, nous, vous, leur.",
-        "tip": "Singular third person is always lui for COI: à Paul → lui, à Sophie → lui.",
+        "content": "When the verb means verb + à quelqu’un, use me, te, lui, nous, vous, leur.",
+        "tip": "à Paul → lui, à Sophie → lui, à mes parents → leur.",
         "examples": [
-          { "french": "Je parle à Sophie. → Je lui parle.", "english": "I speak to Sophie. → I speak to her." },
-          { "french": "Nous écrivons aux clients. → Nous leur écrivons.", "english": "We write to the clients. → We write to them." }
+          {
+            "french": "Je parle à ma sœur. → Je lui parle.",
+            "english": "I speak to my sister. → I speak to her."
+          },
+          {
+            "french": "Nous écrivons aux clients. → Nous leur écrivons.",
+            "english": "We write to the clients. → We write to them."
+          }
         ]
       },
       {
-        "title": "2) Common COI verbs",
-        "content": "parler à, téléphoner à, écrire à, répondre à, demander à, donner à, expliquer à, obéir à, dire à, envoyer à, offrir à, prêter à, promettre à, souhaiter à, apporter à",
-        "tip": "Ask: à qui ? If the answer is a person, use a COI pronoun."
+        "title": "2) y vs en",
+        "content": "Use y for places and à + thing/idea. Use en for de + thing, quantities, and partitives.",
+        "tip": "à la bibliothèque → y; à mon avenir → y; du pain → en; de ses amis → en.",
+        "examples": [
+          {
+            "french": "Je vais à la bibliothèque. → J’y vais.",
+            "english": "I’m going to the library. → I’m going there."
+          },
+          {
+            "french": "J’ai acheté du pain. → J’en ai acheté.",
+            "english": "I bought bread. → I bought some."
+          }
+        ]
       },
       {
-        "title": "3) Use y for places or à + idea",
-        "content": "Use y to replace à/en/dans/chez + place, or à + thing/idea.",
-        "tip": "à Paris → y, chez Paul → y, à cette décision → y. But à une personne → lui/leur.",
-        "examples": [
-          { "french": "Je vais à la bibliothèque. → J’y vais.", "english": "I’m going to the library. → I’m going there." },
-          { "french": "Je pense à mon voyage. → J’y pense.", "english": "I think about my trip. → I think about it." }
-        ]
+        "title": "3) Double pronouns",
+        "content": "Sometimes one blank needs two pronouns: les lui, leur en, en une.",
+        "tip": "J’ai donné des fleurs à ma mère → Je les lui ai données. Prêter de l’argent à ses amis → leur en prêter."
+      },
+      {
+        "title": "4) Pronoms toniques",
+        "content": "After a preposition, after c’est, alone, or for contrast, use moi, toi, lui, elle, nous, vous, eux, elles, soi.",
+        "tip": "avec lui, chez eux, c’est elle, moi aussi, lui non plus, chez soi."
+      },
+      {
+        "title": "5) à or de before an infinitive",
+        "content": "Some verbs take à + infinitive, others de + infinitive. Memorize the verb pattern.",
+        "tip": "hésiter à, aider à, apprendre à, continuer à; décider de, rêver de, promettre de, refuser de, oublier de."
       }
     ]
   },
   "sections": [
     {
-      "title": "Part 1: lui ou leur ?",
-      "instructions": "Complete each sentence with the correct indirect-object pronoun.",
+      "title": "Part 1: Mixed pronouns — lui, leur, y, en, la, les lui",
+      "instructions": "Choose the best pronoun or pronoun group. The questions are intentionally mixed.",
       "type": "multiple_choice",
       "questions": [
-        { "sentence": "J’écris souvent à mon ami. Je ___ envoie des lettres chaque semaine.", "options": ["lui", "leur", "le", "y"], "correct": 0, "explanation": "Envoyer quelque chose à quelqu’un. Mon ami is singular → lui." },
-        { "sentence": "Nous avons parlé à nos voisins. Nous ___ avons demandé des conseils.", "options": ["lui", "leur", "les", "y"], "correct": 1, "explanation": "Demander quelque chose à quelqu’un. Nos voisins is plural → leur." },
-        { "sentence": "Tu téléphones à ta sœur ce soir ? Oui, je ___ téléphone après le dîner.", "options": ["la", "lui", "leur", "y"], "correct": 1, "explanation": "Téléphoner à quelqu’un → COI. Ta sœur is singular → lui." },
-        { "sentence": "Le professeur explique les règles aux élèves. Il ___ explique tout clairement.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Expliquer quelque chose à quelqu’un. Aux élèves is plural → leur." },
-        { "sentence": "Marie offre un cadeau à Paul. Elle ___ donne un livre.", "options": ["le", "lui", "leur", "y"], "correct": 1, "explanation": "Donner quelque chose à quelqu’un. Paul is singular → lui." },
-        { "sentence": "J’ai emprunté un stylo à Jean. Je dois ___ rendre demain.", "options": ["le", "lui", "leur", "y"], "correct": 1, "explanation": "Rendre quelque chose à quelqu’un. Jean is singular → lui." },
-        { "sentence": "Mes parents sont stricts, mais je ___ obéis toujours.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Obéir à quelqu’un → COI. Mes parents is plural → leur." },
-        { "sentence": "On va annoncer la nouvelle à nos amis. On ___ dira demain.", "options": ["leur", "les", "lui", "y"], "correct": 0, "explanation": "Dire quelque chose à quelqu’un. Nos amis is plural → leur." },
-        { "sentence": "J’ai écrit une lettre à Sophie. Je ___ ai écrit hier.", "options": ["la", "lui", "leur", "y"], "correct": 1, "explanation": "Écrire à quelqu’un → COI. Sophie is singular → lui." },
-        { "sentence": "Nous allons parler à nos professeurs. Nous allons ___ poser des questions.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Poser des questions à quelqu’un. Nos professeurs is plural → leur." },
-        { "sentence": "Paul pense souvent à son cousin. Il ___ téléphone chaque semaine.", "options": ["le", "lui", "leur", "y"], "correct": 1, "explanation": "Téléphoner à quelqu’un → COI. Son cousin is singular → lui." },
-        { "sentence": "J’ai acheté des fleurs pour mes grands-parents. Je ___ ai offertes hier.", "options": ["leur", "les", "les leur", "y"], "correct": 2, "explanation": "The sentence keeps offertes, so the direct object les is also needed: Je les leur ai offertes." },
-        { "sentence": "J’ai donné un cadeau à mon frère. → Je ___ ai donné un cadeau.", "options": ["le", "lui", "leur", "y"], "correct": 1, "explanation": "Donner quelque chose à quelqu’un. Mon frère is singular → lui." },
-        { "sentence": "Nous avons répondu à nos amis. → Nous ___ avons répondu.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Répondre à quelqu’un → COI. Nos amis is plural → leur." },
-        { "sentence": "Elle téléphone à sa mère tous les jours. → Elle ___ téléphone tous les jours.", "options": ["la", "lui", "leur", "y"], "correct": 1, "explanation": "Téléphoner à quelqu’un → COI. Sa mère is singular → lui." },
-        { "sentence": "Vous expliquez la situation aux enfants. → Vous ___ expliquez la situation.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Expliquer quelque chose à quelqu’un. Aux enfants is plural → leur." },
-        { "sentence": "Ils ont écrit aux clients. → Ils ___ ont écrit.", "options": ["les", "lui", "leur", "y"], "correct": 2, "explanation": "Écrire à quelqu’un → COI. Aux clients is plural → leur." }
+        {
+          "sentence": "J’écris souvent à mon ami. Je ___ envoie des lettres chaque semaine.",
+          "options": [
+            "lui",
+            "leur",
+            "le",
+            "y"
+          ],
+          "correct": 0,
+          "explanation": "Envoyer quelque chose à quelqu’un. Mon ami is singular → lui."
+        },
+        {
+          "sentence": "Nous avons parlé à nos voisins. Nous ___ avons demandé des conseils.",
+          "options": [
+            "lui",
+            "leur",
+            "les",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Demander quelque chose à quelqu’un. Nos voisins is plural → leur."
+        },
+        {
+          "sentence": "Tu téléphones à ta sœur ce soir ? Oui, je ___ téléphone après le dîner.",
+          "options": [
+            "la",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Téléphoner à quelqu’un → COI. Ta sœur is singular → lui."
+        },
+        {
+          "sentence": "Le professeur explique les règles aux élèves. Il ___ explique tout clairement.",
+          "options": [
+            "les",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 2,
+          "explanation": "Expliquer quelque chose à quelqu’un. Aux élèves is plural → leur."
+        },
+        {
+          "sentence": "Marie offre un cadeau à Paul. Elle ___ donne un livre.",
+          "options": [
+            "le",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Donner quelque chose à quelqu’un. Paul is singular → lui."
+        },
+        {
+          "sentence": "J’ai emprunté un stylo à Jean. Je dois ___ rendre demain.",
+          "options": [
+            "le",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Rendre quelque chose à quelqu’un. Jean is singular → lui."
+        },
+        {
+          "sentence": "Mes parents sont stricts, mais je ___ obéis toujours.",
+          "options": [
+            "les",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 2,
+          "explanation": "Obéir à quelqu’un → COI. Mes parents is plural → leur."
+        },
+        {
+          "sentence": "On va annoncer la nouvelle à nos amis. On ___ dira demain.",
+          "options": [
+            "leur",
+            "les",
+            "lui",
+            "y"
+          ],
+          "correct": 0,
+          "explanation": "Dire quelque chose à quelqu’un. Nos amis is plural → leur."
+        },
+        {
+          "sentence": "J’ai écrit une lettre à Sophie. Je ___ ai écrit hier.",
+          "options": [
+            "la",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Écrire à quelqu’un → COI. Sophie is singular → lui."
+        },
+        {
+          "sentence": "Nous allons parler à nos professeurs. Nous allons ___ poser des questions.",
+          "options": [
+            "les",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 2,
+          "explanation": "Poser des questions à quelqu’un. Nos professeurs is plural → leur."
+        },
+        {
+          "sentence": "Il va souvent à la bibliothèque. Il ___ emprunte beaucoup de livres.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "À la bibliothèque is a place → y."
+        },
+        {
+          "sentence": "Nous pensons à notre avenir. Nous ___ réfléchissons chaque jour.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "Réfléchir à quelque chose → y réfléchir."
+        },
+        {
+          "sentence": "Tu as parlé à Paul de ton projet ? Oui, je ___ ai tout expliqué.",
+          "options": [
+            "le",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Expliquer quelque chose à quelqu’un. Paul is singular → lui."
+        },
+        {
+          "sentence": "Elle va à la clinique demain. Elle ___ a rendez-vous à 10h.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "À la clinique is a place/context → y."
+        },
+        {
+          "sentence": "J’écris à mes parents chaque semaine. Je ___ envoie une lettre.",
+          "options": [
+            "les",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 2,
+          "explanation": "Envoyer quelque chose à quelqu’un. Mes parents is plural → leur."
+        },
+        {
+          "sentence": "Vous retournez en Espagne cet été ? Oui, nous ___ retournons en août.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "En Espagne is a place → y."
+        },
+        {
+          "sentence": "Ils ont présenté leur idée aux investisseurs. Ils ___ ont montré un prototype.",
+          "options": [
+            "les",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 2,
+          "explanation": "Montrer quelque chose à quelqu’un. Aux investisseurs is plural → leur."
+        },
+        {
+          "sentence": "Marie pense à son voyage en Italie. Elle ___ pense avec enthousiasme.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "Penser à quelque chose → y penser."
+        },
+        {
+          "sentence": "Je dois parler à ma sœur ce soir. Je ___ téléphonerai après le dîner.",
+          "options": [
+            "la",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 1,
+          "explanation": "Téléphoner à quelqu’un → lui."
+        },
+        {
+          "sentence": "Nous allons au parc tous les dimanches. Nous ___ faisons du sport.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "Au parc is a place → y."
+        },
+        {
+          "sentence": "Tu as acheté du pain ? Oui, j’___ ai acheté.",
+          "options": [
+            "y",
+            "en",
+            "le",
+            "lui"
+          ],
+          "correct": 1,
+          "explanation": "Du pain is partitive/quantity → en."
+        },
+        {
+          "sentence": "Il parle de ses amis tous les jours. Il ___ parle souvent.",
+          "options": [
+            "y",
+            "en",
+            "leur",
+            "les"
+          ],
+          "correct": 1,
+          "explanation": "Parler de quelque chose/quelqu’un → en parler."
+        },
+        {
+          "sentence": "Elle s’intéresse à la musique. Elle s’___ intéresse.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "S’intéresser à quelque chose → s’y intéresser."
+        },
+        {
+          "sentence": "Nous avons vu Marie hier. Nous ___ avons vue.",
+          "options": [
+            "la",
+            "lui",
+            "leur",
+            "y"
+          ],
+          "correct": 0,
+          "explanation": "Voir quelqu’un is direct object. Marie is feminine singular → la."
+        },
+        {
+          "sentence": "Ils ont besoin de conseils. Ils ___ ont besoin.",
+          "options": [
+            "y",
+            "en",
+            "les",
+            "leur"
+          ],
+          "correct": 1,
+          "explanation": "Avoir besoin de quelque chose → en avoir besoin."
+        },
+        {
+          "sentence": "Il va au cinéma ce soir. Il ___ va ce soir.",
+          "options": [
+            "y",
+            "en",
+            "lui",
+            "leur"
+          ],
+          "correct": 0,
+          "explanation": "Au cinéma is a place → y."
+        },
+        {
+          "sentence": "J’ai donné des fleurs à ma mère. Je ___ ai données.",
+          "options": [
+            "les lui",
+            "lui les",
+            "leur en",
+            "en lui"
+          ],
+          "correct": 0,
+          "explanation": "Des fleurs = les, à ma mère = lui → Je les lui ai données."
+        },
+        {
+          "sentence": "Prêtes-tu de l’argent à tes amis ? Oui, je ___ prête parfois.",
+          "options": [
+            "leur en",
+            "les leur",
+            "en leur",
+            "y leur"
+          ],
+          "correct": 0,
+          "explanation": "De l’argent = en, à tes amis = leur → je leur en prête."
+        },
+        {
+          "sentence": "Nous avons commandé une pizza. Nous ___ avons commandé ___.",
+          "options": [
+            "en / une",
+            "y / une",
+            "la / en",
+            "lui / une"
+          ],
+          "correct": 0,
+          "explanation": "With quantity: une pizza → en commander une."
+        }
       ]
     },
     {
-      "title": "Part 2: lui, leur, me, te, nous ou vous",
-      "instructions": "Choose the correct COI pronoun. The context tells you who receives the action.",
+      "title": "Part 2: COI pronouns by context",
+      "instructions": "Use the context to choose me, te, lui, leur, nous, or vous.",
       "type": "multiple_choice",
       "questions": [
-        { "sentence": "Je ___ parle tous les jours au téléphone.", "context": "à toi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 1, "explanation": "À toi → te." },
-        { "sentence": "Elle ___ écrit une lettre chaque semaine.", "context": "à moi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 0, "explanation": "À moi → me." },
-        { "sentence": "Il ___ donne souvent des conseils précieux.", "context": "à nous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 4, "explanation": "À nous → nous." },
-        { "sentence": "Nous ___ prêtons notre voiture quand il en a besoin.", "context": "à lui", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 2, "explanation": "À lui → lui." },
-        { "sentence": "Peux-tu ___ passer le sel, s’il te plaît ?", "context": "à moi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 0, "explanation": "À moi → me." },
-        { "sentence": "Ils ___ offrent un cadeau pour mon anniversaire.", "context": "à moi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 0, "explanation": "À moi → me." },
-        { "sentence": "Vous ___ envoyez des messages chaque matin.", "context": "à eux", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 3, "explanation": "À eux/elles → leur." },
-        { "sentence": "Tu ___ racontes toujours des histoires intéressantes.", "context": "à nous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 4, "explanation": "À nous → nous." },
-        { "sentence": "Nous ___ demandons de l’aide pour ce projet.", "context": "à vous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 5, "explanation": "À vous → vous." },
-        { "sentence": "Il ___ téléphone avant de venir nous voir.", "context": "à nous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 4, "explanation": "À nous → nous." },
-        { "sentence": "Le professeur ___ explique la leçon avec patience.", "context": "aux élèves", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 3, "explanation": "Aux élèves → leur." },
-        { "sentence": "Ses parents ___ interdisent de sortir tard le soir.", "context": "à elle", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 2, "explanation": "À elle → lui." },
-        { "sentence": "Je ___ rappelle de prendre un parapluie.", "context": "à toi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 1, "explanation": "Rappeler quelque chose à quelqu’un. À toi → te." },
-        { "sentence": "Ils ___ souhaitent un bon voyage.", "context": "à vous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 5, "explanation": "À vous → vous." },
-        { "sentence": "Ma sœur ___ prête ses vêtements quand j’en ai besoin.", "context": "à moi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 0, "explanation": "À moi → me." },
-        { "sentence": "Elle ___ écrit un poème magnifique.", "context": "à lui", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 2, "explanation": "À lui → lui." },
-        { "sentence": "Il ___ promet de venir à la fête.", "context": "à eux", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 3, "explanation": "À eux/elles → leur." },
-        { "sentence": "Nous ___ recommandons ce restaurant, il est excellent.", "context": "à toi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 1, "explanation": "À toi → te." },
-        { "sentence": "L’employé ___ apporte les documents demandés.", "context": "à nous", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 4, "explanation": "À nous → nous." },
-        { "sentence": "Peux-tu ___ dire où se trouve la gare ?", "context": "à moi", "options": ["me", "te", "lui", "leur", "nous", "vous"], "correct": 0, "explanation": "À moi → me." }
+        {
+          "sentence": "Je ___ parle tous les jours au téléphone.",
+          "context": "à toi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 1,
+          "explanation": "à toi → te"
+        },
+        {
+          "sentence": "Elle ___ écrit une lettre chaque semaine.",
+          "context": "à moi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 0,
+          "explanation": "à moi → me"
+        },
+        {
+          "sentence": "Il ___ donne souvent des conseils précieux.",
+          "context": "à nous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 4,
+          "explanation": "à nous → nous"
+        },
+        {
+          "sentence": "Nous ___ prêtons notre voiture quand il en a besoin.",
+          "context": "à lui",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 2,
+          "explanation": "à lui/elle → lui"
+        },
+        {
+          "sentence": "Peux-tu ___ passer le sel, s’il te plaît ?",
+          "context": "à moi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 0,
+          "explanation": "à moi → me"
+        },
+        {
+          "sentence": "Ils ___ offrent un cadeau pour mon anniversaire.",
+          "context": "à moi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 0,
+          "explanation": "à moi → me"
+        },
+        {
+          "sentence": "Vous ___ envoyez des messages chaque matin.",
+          "context": "à eux",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 3,
+          "explanation": "à eux/elles → leur"
+        },
+        {
+          "sentence": "Tu ___ racontes toujours des histoires intéressantes.",
+          "context": "à nous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 4,
+          "explanation": "à nous → nous"
+        },
+        {
+          "sentence": "Nous ___ demandons de l’aide pour ce projet.",
+          "context": "à vous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 5,
+          "explanation": "à vous → vous"
+        },
+        {
+          "sentence": "Il ___ téléphone avant de venir nous voir.",
+          "context": "à nous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 4,
+          "explanation": "à nous → nous"
+        },
+        {
+          "sentence": "Le professeur ___ explique la leçon avec patience.",
+          "context": "aux élèves",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 3,
+          "explanation": "à eux/elles → leur"
+        },
+        {
+          "sentence": "Ses parents ___ interdisent de sortir tard le soir.",
+          "context": "à elle",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 2,
+          "explanation": "à lui/elle → lui"
+        },
+        {
+          "sentence": "Je ___ rappelle de prendre un parapluie.",
+          "context": "à toi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 1,
+          "explanation": "à toi → te"
+        },
+        {
+          "sentence": "Ils ___ souhaitent un bon voyage.",
+          "context": "à vous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 5,
+          "explanation": "à vous → vous"
+        },
+        {
+          "sentence": "Ma sœur ___ prête ses vêtements quand j’en ai besoin.",
+          "context": "à moi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 0,
+          "explanation": "à moi → me"
+        },
+        {
+          "sentence": "Elle ___ écrit un poème magnifique.",
+          "context": "à lui",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 2,
+          "explanation": "à lui/elle → lui"
+        },
+        {
+          "sentence": "Il ___ promet de venir à la fête.",
+          "context": "à eux",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 3,
+          "explanation": "à eux/elles → leur"
+        },
+        {
+          "sentence": "Nous ___ recommandons ce restaurant, il est excellent.",
+          "context": "à toi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 1,
+          "explanation": "à toi → te"
+        },
+        {
+          "sentence": "L’employé ___ apporte les documents demandés.",
+          "context": "à nous",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 4,
+          "explanation": "à nous → nous"
+        },
+        {
+          "sentence": "Peux-tu ___ dire où se trouve la gare ?",
+          "context": "à moi",
+          "options": [
+            "me",
+            "te",
+            "lui",
+            "leur",
+            "nous",
+            "vous"
+          ],
+          "correct": 0,
+          "explanation": "à moi → me"
+        }
       ]
     },
     {
-      "title": "Part 3: y",
-      "instructions": "Choose y when the pronoun replaces a place or à + idea/thing.",
+      "title": "Part 3: à or de?",
+      "instructions": "Choose the correct preposition before the infinitive or complement.",
       "type": "multiple_choice",
       "questions": [
-        { "sentence": "Je vais à la bibliothèque. J’___ vais cet après-midi.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À la bibliothèque is a place → y." },
-        { "sentence": "Penses-tu toujours à ton voyage ? Oui, j’___ pense souvent.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À ton voyage is à + idea/thing, not a person → y." },
-        { "sentence": "Elle habite à Paris. Elle ___ vit depuis cinq ans.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À Paris is a place → y." },
-        { "sentence": "Nous allons chez Paul ce soir. Nous ___ allons ensemble.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Chez Paul is a place/destination → y." },
-        { "sentence": "Participent-ils au concours ? Oui, ils ___ participent avec enthousiasme.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Participer à quelque chose → y." },
-        { "sentence": "Répond-il à son e-mail ? Oui, il ___ répond tout de suite.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À son e-mail is à + thing → y." },
-        { "sentence": "Je suis allé au marché ce matin. J’___ ai trouvé de bons fruits.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Au marché is the place where it happened → y." },
-        { "sentence": "Êtes-vous allés en Espagne l’été dernier ? Oui, nous ___ sommes allés en août.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "En Espagne is a place → y." },
-        { "sentence": "Retournes-tu au bureau après le déjeuner ? Non, je n’___ retourne pas aujourd’hui.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Au bureau is a place → y." },
-        { "sentence": "S’intéresse-t-elle à la politique ? Oui, elle s’___ intéresse beaucoup.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "S’intéresser à quelque chose → s’y intéresser." },
-        { "sentence": "J’adore ce café. J’___ vais tous les matins.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Ce café is a place you go to → y." },
-        { "sentence": "Pierre pense à son projet. Il ___ réfléchit souvent.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Réfléchir à quelque chose → y réfléchir." },
-        { "sentence": "Nous allons à la montagne cette fin de semaine. Nous ___ passons trois jours.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À la montagne is a place → y." },
-        { "sentence": "Elle répond aux messages. Elle ___ répond immédiatement.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Aux messages is à + thing, not people → y." },
-        { "sentence": "Je vais chez le médecin demain. J’___ ai rendez-vous à 10h.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Chez le médecin is the place/context → y." },
-        { "sentence": "Es-tu déjà allé en Italie ? → Oui, j’___ suis déjà allé.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "En Italie is a place → y." },
-        { "sentence": "Nous pensons à notre avenir. → Nous ___ pensons sérieusement.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "À notre avenir is à + idea/thing → y." },
-        { "sentence": "Ils participent à la compétition. → Ils ___ participent avec motivation.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Participer à quelque chose → y participer." },
-        { "sentence": "Elle va chez sa grand-mère. → Elle ___ va demain matin.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Chez sa grand-mère is a place/destination → y." },
-        { "sentence": "Je réfléchis à cette décision. → J’___ réfléchis encore.", "options": ["y", "en", "lui", "leur"], "correct": 0, "explanation": "Réfléchir à quelque chose → y réfléchir." }
+        {
+          "sentence": "Il hésite ___ partir en vacances.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 0,
+          "explanation": "Hésiter à + infinitive."
+        },
+        {
+          "sentence": "Nous avons décidé ___ acheter une nouvelle voiture.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 1,
+          "explanation": "Décider de + infinitive."
+        },
+        {
+          "sentence": "Elle aide son frère ___ faire ses devoirs.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 0,
+          "explanation": "Aider quelqu’un à + infinitive."
+        },
+        {
+          "sentence": "Rêves-tu ___ devenir célèbre ?",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 1,
+          "explanation": "Rêver de + infinitive."
+        },
+        {
+          "sentence": "Ils ont promis ___ venir à la fête.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 1,
+          "explanation": "Promettre de + infinitive."
+        },
+        {
+          "sentence": "Elle refuse ___ répondre à cette question.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 1,
+          "explanation": "Refuser de + infinitive."
+        },
+        {
+          "sentence": "J’apprends ___ conduire en ce moment.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 0,
+          "explanation": "Apprendre à + infinitive."
+        },
+        {
+          "sentence": "Nous parlons souvent ___ nos voisins.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 0,
+          "explanation": "Parler à quelqu’un."
+        },
+        {
+          "sentence": "Avez-vous oublié ___ fermer la porte ?",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 1,
+          "explanation": "Oublier de + infinitive."
+        },
+        {
+          "sentence": "Il continue ___ travailler malgré sa fatigue.",
+          "options": [
+            "à",
+            "de",
+            "pour",
+            "sans"
+          ],
+          "correct": 0,
+          "explanation": "Continuer à + infinitive is the standard pattern here."
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Pronoms toniques",
+      "instructions": "Choose the correct stressed pronoun: moi, toi, lui, elle, nous, vous, eux, elles, soi.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "C’est Pierre, là, sur la photo ? Oui, c’est ___ !",
+          "options": [
+            "lui",
+            "il",
+            "le",
+            "soi"
+          ],
+          "correct": 0,
+          "explanation": "After c’est, use a pronom tonique: lui."
+        },
+        {
+          "sentence": "Qui est le responsable de l’agence, c’est vous ? Non, ce n’est pas ___ .",
+          "options": [
+            "je",
+            "me",
+            "moi",
+            "mon"
+          ],
+          "correct": 2,
+          "explanation": "After c’est, use moi."
+        },
+        {
+          "sentence": "Qui est au téléphone, c’est ma fille ? Oui, c’est ___ .",
+          "options": [
+            "elle",
+            "la",
+            "lui",
+            "sa"
+          ],
+          "correct": 0,
+          "explanation": "After c’est, use elle."
+        },
+        {
+          "sentence": "C’est Paul qui danse avec Madeleine ? Non, ce n’est pas ___ .",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "soi"
+          ],
+          "correct": 2,
+          "explanation": "After c’est, use lui."
+        },
+        {
+          "sentence": "Ce sont les parents de Catherine, là-bas ? Oui, ce sont ___ .",
+          "options": [
+            "ils",
+            "les",
+            "leur",
+            "eux"
+          ],
+          "correct": 3,
+          "explanation": "After ce sont, use eux."
+        },
+        {
+          "sentence": "Je travaille en juillet. Et votre mari ? ___ aussi.",
+          "options": [
+            "Il",
+            "Lui",
+            "Le",
+            "Son"
+          ],
+          "correct": 1,
+          "explanation": "With aussi, use the tonic pronoun: lui aussi."
+        },
+        {
+          "sentence": "Je travaille en juillet. Et votre sœur ? ___ aussi.",
+          "options": [
+            "Elle",
+            "La",
+            "Lui",
+            "Sa"
+          ],
+          "correct": 0,
+          "explanation": "Elle is both subject and tonic form."
+        },
+        {
+          "sentence": "Je travaille en juillet. Et vos enfants ? ___ aussi.",
+          "options": [
+            "Ils",
+            "Les",
+            "Eux",
+            "Leur"
+          ],
+          "correct": 2,
+          "explanation": "With aussi, use eux aussi."
+        },
+        {
+          "sentence": "Je ne suis pas là en août. Et Paul ? ___ non plus.",
+          "options": [
+            "Il",
+            "Le",
+            "Lui",
+            "Son"
+          ],
+          "correct": 2,
+          "explanation": "With non plus, use lui non plus."
+        },
+        {
+          "sentence": "Je ne suis pas là en août. Et vos parents ? ___ non plus.",
+          "options": [
+            "Ils",
+            "Les",
+            "Leur",
+            "Eux"
+          ],
+          "correct": 3,
+          "explanation": "With non plus, use eux non plus."
+        },
+        {
+          "sentence": "Je ne suis pas là en août. Et vos filles ? ___ non plus.",
+          "options": [
+            "Elles",
+            "Les",
+            "Leur",
+            "Eux"
+          ],
+          "correct": 0,
+          "explanation": "Feminine plural tonic pronoun: elles."
+        },
+        {
+          "sentence": "Ce soir, je dîne chez Jean et Michèle. Ah bon, vous dînez chez ___ !",
+          "options": [
+            "ils",
+            "les",
+            "eux",
+            "leur"
+          ],
+          "correct": 2,
+          "explanation": "After chez, use a tonic pronoun: eux."
+        },
+        {
+          "sentence": "À midi, je déjeune avec le directeur. Ah bon, vous déjeunez avec ___ !",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "son"
+          ],
+          "correct": 2,
+          "explanation": "After avec, use lui."
+        },
+        {
+          "sentence": "En ce moment, j’habite chez Pierre et Anne. Ah bon, vous habitez chez ___ !",
+          "options": [
+            "ils",
+            "les",
+            "eux",
+            "leur"
+          ],
+          "correct": 2,
+          "explanation": "After chez, use eux."
+        },
+        {
+          "sentence": "Ce soir, je sors avec Julien. Ah bon, tu sors avec ___ !",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "son"
+          ],
+          "correct": 2,
+          "explanation": "After avec, use lui."
+        },
+        {
+          "sentence": "Nous partons en vacances sans nos enfants. Ah bon, vous partez sans ___ !",
+          "options": [
+            "ils",
+            "les",
+            "eux",
+            "leur"
+          ],
+          "correct": 2,
+          "explanation": "After sans, use eux."
+        },
+        {
+          "sentence": "Jean habite dans le centre. Paul aussi ? Non, ___, il habite en banlieue.",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "soi"
+          ],
+          "correct": 2,
+          "explanation": "For contrast, use the tonic pronoun: lui."
+        },
+        {
+          "sentence": "Marie va à la piscine à 5 h. Toi aussi ? Non, ___, je vais au cinéma.",
+          "options": [
+            "je",
+            "me",
+            "moi",
+            "mon"
+          ],
+          "correct": 2,
+          "explanation": "For contrast, use moi."
+        },
+        {
+          "sentence": "Le directeur arrive à 9 h 30. Sa secrétaire aussi ? Non, ___, elle arrive à 8 h 30.",
+          "options": [
+            "elle",
+            "la",
+            "lui",
+            "sa"
+          ],
+          "correct": 0,
+          "explanation": "For contrast: elle, elle arrive..."
+        },
+        {
+          "sentence": "Roberto travaille à Rome. Marco aussi ? Non, ___, il travaille à Pise.",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "soi"
+          ],
+          "correct": 2,
+          "explanation": "For contrast, use lui."
+        },
+        {
+          "sentence": "Nous aimons la montagne. Vos enfants aussi ? Non, ___, ils aiment la mer.",
+          "options": [
+            "ils",
+            "les",
+            "eux",
+            "leur"
+          ],
+          "correct": 2,
+          "explanation": "For contrast, use eux."
+        },
+        {
+          "sentence": "Alice parle avec son copain : elle parle avec ___ pendant des heures.",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "son"
+          ],
+          "correct": 2,
+          "explanation": "After avec, use lui."
+        },
+        {
+          "sentence": "Regarde, c’est Anne et Lucas : ce sont ___ !",
+          "options": [
+            "ils",
+            "les",
+            "leur",
+            "eux"
+          ],
+          "correct": 3,
+          "explanation": "After ce sont, use eux."
+        },
+        {
+          "sentence": "Ce parapluie est à vous ? Oui, il est à ___ .",
+          "options": [
+            "je",
+            "me",
+            "moi",
+            "mon"
+          ],
+          "correct": 2,
+          "explanation": "After à, use moi."
+        },
+        {
+          "sentence": "Charles garde tout pour ___, c’est un garçon secret.",
+          "options": [
+            "il",
+            "le",
+            "lui",
+            "son"
+          ],
+          "correct": 2,
+          "explanation": "After pour, use lui."
+        },
+        {
+          "sentence": "Quand on fait les choses ___-même, on est plus satisfait !",
+          "options": [
+            "soi",
+            "lui",
+            "moi",
+            "eux"
+          ],
+          "correct": 0,
+          "explanation": "With on/tout le monde, use soi-même."
+        }
+      ]
+    },
+    {
+      "title": "Part 5: Rewrite with the pronoun",
+      "instructions": "Replace the underlined words with a pronoun and rewrite the full sentence.",
+      "type": "replacement",
+      "questions": [
+        {
+          "sentence": "J’ai donné un cadeau à mon frère.",
+          "underlined": "à mon frère",
+          "correct": "Je lui ai donné un cadeau.",
+          "hint": "Donner quelque chose à quelqu’un → lui."
+        },
+        {
+          "sentence": "Nous avons répondu à nos amis.",
+          "underlined": "à nos amis",
+          "correct": "Nous leur avons répondu.",
+          "hint": "Répondre à quelqu’un → leur."
+        },
+        {
+          "sentence": "Elle téléphone à sa mère tous les jours.",
+          "underlined": "à sa mère",
+          "correct": "Elle lui téléphone tous les jours.",
+          "hint": "Téléphoner à quelqu’un → lui."
+        },
+        {
+          "sentence": "Vous expliquez la situation aux enfants.",
+          "underlined": "aux enfants",
+          "correct": "Vous leur expliquez la situation.",
+          "hint": "Expliquer quelque chose à quelqu’un → leur."
+        },
+        {
+          "sentence": "Ils ont écrit aux clients.",
+          "underlined": "aux clients",
+          "correct": "Ils leur ont écrit.",
+          "hint": "Écrire à quelqu’un → leur."
+        },
+        {
+          "sentence": "Je vais à la bibliothèque cet après-midi.",
+          "underlined": "à la bibliothèque",
+          "correct": "J’y vais cet après-midi.",
+          "hint": "Place → y."
+        },
+        {
+          "sentence": "Nous pensons à notre avenir sérieusement.",
+          "underlined": "à notre avenir",
+          "correct": "Nous y pensons sérieusement.",
+          "hint": "À + idea/thing → y."
+        },
+        {
+          "sentence": "Ils participent à la compétition avec motivation.",
+          "underlined": "à la compétition",
+          "correct": "Ils y participent avec motivation.",
+          "hint": "Participer à quelque chose → y."
+        },
+        {
+          "sentence": "Elle va chez sa grand-mère demain matin.",
+          "underlined": "chez sa grand-mère",
+          "correct": "Elle y va demain matin.",
+          "hint": "Place/destination → y."
+        },
+        {
+          "sentence": "Je réfléchis à cette décision encore.",
+          "underlined": "à cette décision",
+          "correct": "J’y réfléchis encore.",
+          "hint": "Réfléchir à quelque chose → y."
+        },
+        {
+          "sentence": "Tu as acheté du pain.",
+          "underlined": "du pain",
+          "correct": "Tu en as acheté.",
+          "hint": "Partitive/quantity → en."
+        },
+        {
+          "sentence": "Il parle de ses amis souvent.",
+          "underlined": "de ses amis",
+          "correct": "Il en parle souvent.",
+          "hint": "Parler de → en parler."
+        }
+      ]
+    },
+    {
+      "title": "Part 6: Spot and fix the pronoun mistake",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Je les ai donné un cadeau.",
+          "correct": "Je leur ai donné un cadeau.",
+          "hint": "Think donner à quelqu’un.",
+          "errorType": "Donner quelque chose à quelqu’un uses COI leur, not COD les."
+        },
+        {
+          "sentence": "Nous les avons répondu.",
+          "correct": "Nous leur avons répondu.",
+          "hint": "Répondre à quelqu’un.",
+          "errorType": "Répondre takes an indirect object: leur."
+        },
+        {
+          "sentence": "Elle la téléphone tous les jours.",
+          "correct": "Elle lui téléphone tous les jours.",
+          "hint": "Téléphoner à quelqu’un.",
+          "errorType": "Téléphoner uses COI lui, not COD la."
+        },
+        {
+          "sentence": "Il en va ce soir.",
+          "correct": "Il y va ce soir.",
+          "hint": "Au cinéma is a place.",
+          "errorType": "Use y for a place/destination."
+        },
+        {
+          "sentence": "J’y ai acheté du pain.",
+          "correct": "J’en ai acheté.",
+          "hint": "Du pain is a quantity/partitive.",
+          "errorType": "Use en for du/de la/des + noun."
+        },
+        {
+          "sentence": "Je lui en ai données des fleurs.",
+          "correct": "Je les lui ai données.",
+          "hint": "Des fleurs are already specific here.",
+          "errorType": "Use les for des fleurs when they are the direct object already mentioned; à ma mère → lui."
+        },
+        {
+          "sentence": "Je en parle souvent.",
+          "correct": "J’en parle souvent.",
+          "hint": "Elision before a vowel.",
+          "errorType": "Je becomes j’ before en."
+        },
+        {
+          "sentence": "Il hésite de partir en vacances.",
+          "correct": "Il hésite à partir en vacances.",
+          "hint": "Hésiter + preposition.",
+          "errorType": "Hésiter à + infinitive."
+        },
+        {
+          "sentence": "Nous avons décidé à acheter une nouvelle voiture.",
+          "correct": "Nous avons décidé d’acheter une nouvelle voiture.",
+          "hint": "Décider + preposition; elide de before a vowel.",
+          "errorType": "Décider de + infinitive → d’acheter."
+        },
+        {
+          "sentence": "Charles garde tout pour il.",
+          "correct": "Charles garde tout pour lui.",
+          "hint": "After a preposition, use a tonic pronoun.",
+          "errorType": "After pour, use lui, not il."
+        }
+      ]
+    },
+    {
+      "title": "Part 7: Name the pronoun type",
+      "instructions": "Identify what kind of pronoun is in bold.",
+      "type": "categorize",
+      "questions": [
+        {
+          "sentence": "Je lui parle tous les jours.",
+          "bold": "lui",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "COI pronoun"
+        },
+        {
+          "sentence": "Nous y allons demain.",
+          "bold": "y",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "y: place / à + thing"
+        },
+        {
+          "sentence": "Ils en ont besoin.",
+          "bold": "en",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "en: de / quantity"
+        },
+        {
+          "sentence": "Je pars avec elle.",
+          "bold": "elle",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "pronom tonique"
+        },
+        {
+          "sentence": "Moi, je suis fatigué.",
+          "bold": "Moi",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "pronom tonique"
+        },
+        {
+          "sentence": "Je les lui ai données.",
+          "bold": "les lui",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "double pronoun"
+        },
+        {
+          "sentence": "Je leur en prête parfois.",
+          "bold": "leur en",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "double pronoun"
+        },
+        {
+          "sentence": "Elle s’y intéresse.",
+          "bold": "y",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "y: place / à + thing"
+        },
+        {
+          "sentence": "Il en parle souvent.",
+          "bold": "en",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "en: de / quantity"
+        },
+        {
+          "sentence": "Nous leur avons répondu.",
+          "bold": "leur",
+          "options": [
+            "COI pronoun",
+            "y: place / à + thing",
+            "en: de / quantity",
+            "pronom tonique",
+            "double pronoun"
+          ],
+          "correct": "COI pronoun"
+        }
       ]
     }
   ]
