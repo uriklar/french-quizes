@@ -4,6 +4,7 @@ import frenchGenderAgreement from './french-gender-agreement.json';
 import tcfWritingToolkit from './tcf-writing-toolkit.json';
 import frenchConnectors from './french-connectors.json';
 import frenchArticles from './french-articles.json';
+import frenchCoiYPronouns from './french-coi-y-pronouns.json';
 
 const quizzes = [
   frenchPronouns,
@@ -11,6 +12,7 @@ const quizzes = [
   tcfWritingToolkit,
   frenchConnectors,
   frenchArticles,
+  frenchCoiYPronouns,
 ];
 
 export function getAllQuizzes() {
