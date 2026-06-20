@@ -1,8 +1,8 @@
 {
   "slug": "french-passe-compose-participles",
   "title": "French Passé Composé: Past Participles",
-  "description": "Past participle endings, irregular participles, avoir/être, and agreement basics",
-  "questionCount": 50,
+  "description": "Regular and irregular past participles, avoir/être choice, agreement, and common traps",
+  "questionCount": 97,
   "crashCourse": {
     "title": "Passé composé and past participles",
     "subtitle": "The core formula is present-tense auxiliary + past participle.",
@@ -21,6 +21,11 @@
         "title": "Irregular participles",
         "content": "Common forms must be memorized.",
         "tip": "avoir → eu, être → été, faire → fait, voir → vu, prendre → pris, mettre → mis, écrire → écrit, dire → dit."
+      },
+      {
+        "title": "More irregular participle families",
+        "content": "Many common irregular participles are family-based: prendre → pris, comprendre → compris; mettre → mis; ouvrir/offrir/couvrir → ouvert/offert/couvert; venir/tenir → venu/tenu; recevoir → reçu.",
+        "tip": "Also memorize: boire → bu, croire → cru, connaître → connu, courir → couru, mourir → mort, naître → né, vivre → vécu."
       },
       {
         "title": "Avoir vs être",
@@ -325,6 +330,303 @@
           ],
           "correct": 0,
           "explanation": "vivre → vécu."
+        },
+        {
+          "sentence": "Past participle of apprendre: ___",
+          "options": [
+            "appris",
+            "appriss",
+            "apprisent",
+            "apprisez"
+          ],
+          "correct": 0,
+          "explanation": "apprendre → appris."
+        },
+        {
+          "sentence": "Past participle of comprendre: ___",
+          "options": [
+            "compris",
+            "compriss",
+            "comprisent",
+            "comprisez"
+          ],
+          "correct": 0,
+          "explanation": "comprendre → compris."
+        },
+        {
+          "sentence": "Past participle of surprendre: ___",
+          "options": [
+            "surpris",
+            "surpriss",
+            "surprisent",
+            "surprisez"
+          ],
+          "correct": 0,
+          "explanation": "surprendre → surpris."
+        },
+        {
+          "sentence": "Past participle of conduire: ___",
+          "options": [
+            "conduit",
+            "conduits",
+            "conduitent",
+            "conduitez"
+          ],
+          "correct": 0,
+          "explanation": "conduire → conduit."
+        },
+        {
+          "sentence": "Past participle of construire: ___",
+          "options": [
+            "construit",
+            "construits",
+            "construitent",
+            "construitez"
+          ],
+          "correct": 0,
+          "explanation": "construire → construit."
+        },
+        {
+          "sentence": "Past participle of traduire: ___",
+          "options": [
+            "traduit",
+            "traduits",
+            "traduitent",
+            "traduitez"
+          ],
+          "correct": 0,
+          "explanation": "traduire → traduit."
+        },
+        {
+          "sentence": "Past participle of recevoir: ___",
+          "options": [
+            "reçu",
+            "reçué",
+            "recev",
+            "reçi"
+          ],
+          "correct": 0,
+          "explanation": "recevoir → reçu."
+        },
+        {
+          "sentence": "Past participle of décevoir: ___",
+          "options": [
+            "déçu",
+            "déçué",
+            "décev",
+            "déçi"
+          ],
+          "correct": 0,
+          "explanation": "décevoir → déçu."
+        },
+        {
+          "sentence": "Past participle of croire: ___",
+          "options": [
+            "cru",
+            "crué",
+            "croi",
+            "cri"
+          ],
+          "correct": 0,
+          "explanation": "croire → cru."
+        },
+        {
+          "sentence": "Past participle of connaître: ___",
+          "options": [
+            "connu",
+            "connué",
+            "connaît",
+            "conni"
+          ],
+          "correct": 0,
+          "explanation": "connaître → connu."
+        },
+        {
+          "sentence": "Past participle of paraître: ___",
+          "options": [
+            "paru",
+            "parué",
+            "paraît",
+            "pari"
+          ],
+          "correct": 0,
+          "explanation": "paraître → paru."
+        },
+        {
+          "sentence": "Past participle of courir: ___",
+          "options": [
+            "couru",
+            "courué",
+            "cour",
+            "couri"
+          ],
+          "correct": 0,
+          "explanation": "courir → couru."
+        },
+        {
+          "sentence": "Past participle of tenir: ___",
+          "options": [
+            "tenu",
+            "tenué",
+            "ten",
+            "teni"
+          ],
+          "correct": 0,
+          "explanation": "tenir → tenu."
+        },
+        {
+          "sentence": "Past participle of devenir: ___",
+          "options": [
+            "devenu",
+            "devenué",
+            "deven",
+            "deveni"
+          ],
+          "correct": 0,
+          "explanation": "devenir → devenu."
+        },
+        {
+          "sentence": "Past participle of revenir: ___",
+          "options": [
+            "revenu",
+            "revenué",
+            "reven",
+            "reveni"
+          ],
+          "correct": 0,
+          "explanation": "revenir → revenu."
+        },
+        {
+          "sentence": "Past participle of découvrir: ___",
+          "options": [
+            "découvert",
+            "découverts",
+            "découvertent",
+            "découvertez"
+          ],
+          "correct": 0,
+          "explanation": "découvrir → découvert."
+        },
+        {
+          "sentence": "Past participle of couvrir: ___",
+          "options": [
+            "couvert",
+            "couverts",
+            "couvertent",
+            "couvertez"
+          ],
+          "correct": 0,
+          "explanation": "couvrir → couvert."
+        },
+        {
+          "sentence": "Past participle of souffrir: ___",
+          "options": [
+            "souffert",
+            "soufferts",
+            "souffertent",
+            "souffertez"
+          ],
+          "correct": 0,
+          "explanation": "souffrir → souffert."
+        },
+        {
+          "sentence": "Past participle of suivre: ___",
+          "options": [
+            "suivi",
+            "suivis",
+            "suivient",
+            "suiviez"
+          ],
+          "correct": 0,
+          "explanation": "suivre → suivi."
+        },
+        {
+          "sentence": "Past participle of rire: ___",
+          "options": [
+            "ri",
+            "ris",
+            "rient",
+            "riez"
+          ],
+          "correct": 0,
+          "explanation": "rire → ri."
+        },
+        {
+          "sentence": "Past participle of plaire: ___",
+          "options": [
+            "plu",
+            "plué",
+            "plai",
+            "pli"
+          ],
+          "correct": 0,
+          "explanation": "plaire → plu."
+        },
+        {
+          "sentence": "Past participle of pleuvoir: ___",
+          "options": [
+            "plu",
+            "plué",
+            "pleuv",
+            "pli"
+          ],
+          "correct": 0,
+          "explanation": "pleuvoir → plu."
+        },
+        {
+          "sentence": "Past participle of falloir: ___",
+          "options": [
+            "fallu",
+            "fallué",
+            "fall",
+            "falli"
+          ],
+          "correct": 0,
+          "explanation": "falloir → fallu."
+        },
+        {
+          "sentence": "Past participle of valoir: ___",
+          "options": [
+            "valu",
+            "valué",
+            "val",
+            "vali"
+          ],
+          "correct": 0,
+          "explanation": "valoir → valu."
+        },
+        {
+          "sentence": "Past participle of joindre: ___",
+          "options": [
+            "joint",
+            "joints",
+            "jointent",
+            "jointez"
+          ],
+          "correct": 0,
+          "explanation": "joindre → joint."
+        },
+        {
+          "sentence": "Past participle of peindre: ___",
+          "options": [
+            "peint",
+            "peints",
+            "peintent",
+            "peintez"
+          ],
+          "correct": 0,
+          "explanation": "peindre → peint."
+        },
+        {
+          "sentence": "Past participle of craindre: ___",
+          "options": [
+            "craint",
+            "craints",
+            "craintent",
+            "craintez"
+          ],
+          "correct": 0,
+          "explanation": "craindre → craint."
         }
       ]
     },
@@ -464,6 +766,138 @@
           ],
           "correct": 0,
           "explanation": "Negation wraps the auxiliary: il n’a pas compris."
+        },
+        {
+          "sentence": "Nous ___ le problème. (comprendre)",
+          "options": [
+            "avons compris",
+            "sommes compris",
+            "avons comprendu",
+            "avons comprendé"
+          ],
+          "correct": 0,
+          "explanation": "comprendre uses avoir; participle compris."
+        },
+        {
+          "sentence": "Elle ___ la porte. (ouvrir)",
+          "options": [
+            "a ouvert",
+            "est ouverte",
+            "a ouvri",
+            "a ouvré"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir uses avoir here; participle ouvert."
+        },
+        {
+          "sentence": "Ils ___ pendant une heure. (courir)",
+          "options": [
+            "ont couru",
+            "sont courus",
+            "ont couré",
+            "ont couris"
+          ],
+          "correct": 0,
+          "explanation": "courir uses avoir; participle couru."
+        },
+        {
+          "sentence": "Elles ___ hier soir. (sortir)",
+          "options": [
+            "sont sorties",
+            "ont sorti",
+            "sont sortis",
+            "ont sorties"
+          ],
+          "correct": 0,
+          "explanation": "sortir as movement uses être and agrees: sorties."
+        },
+        {
+          "sentence": "J’___ les clés de ma poche. (sortir)",
+          "options": [
+            "ai sorti",
+            "suis sorti",
+            "ai sorties",
+            "suis sorties"
+          ],
+          "correct": 0,
+          "explanation": "sortir with a direct object uses avoir."
+        },
+        {
+          "sentence": "Elle ___ à Toronto. (naître)",
+          "options": [
+            "est née",
+            "a né",
+            "est né",
+            "a née"
+          ],
+          "correct": 0,
+          "explanation": "naître uses être and agrees."
+        },
+        {
+          "sentence": "Ils ___ en 2020. (mourir)",
+          "options": [
+            "sont morts",
+            "ont mort",
+            "sont mort",
+            "ont morts"
+          ],
+          "correct": 0,
+          "explanation": "mourir uses être; masculine plural → morts."
+        },
+        {
+          "sentence": "Nous ___ de vacances. (revenir)",
+          "options": [
+            "sommes revenus",
+            "avons revenu",
+            "sommes revenu",
+            "avons revenus"
+          ],
+          "correct": 0,
+          "explanation": "revenir uses être; masculine/mixed plural → revenus."
+        },
+        {
+          "sentence": "Les chansons qu’elle a ___ étaient belles. (écrire)",
+          "options": [
+            "écrites",
+            "écrit",
+            "écrits",
+            "écrite"
+          ],
+          "correct": 0,
+          "explanation": "Preceding direct object les chansons → écrites."
+        },
+        {
+          "sentence": "Les enfants se sont ___. (laver)",
+          "options": [
+            "lavés",
+            "lavé",
+            "lavées",
+            "laver"
+          ],
+          "correct": 0,
+          "explanation": "Pronominal verb with être; masculine/mixed plural → lavés."
+        },
+        {
+          "sentence": "Elle s’est ___ les mains. (laver)",
+          "options": [
+            "lavé",
+            "lavée",
+            "lavés",
+            "lavait"
+          ],
+          "correct": 0,
+          "explanation": "No agreement with subject when the direct object follows: les mains."
+        },
+        {
+          "sentence": "Combien de livres as-tu ___ ?",
+          "options": [
+            "lus",
+            "lu",
+            "lues",
+            "lire"
+          ],
+          "correct": 0,
+          "explanation": "With preceding direct object “combien de livres”, agree masculine plural: lus."
         }
       ]
     },
@@ -543,6 +977,54 @@
           "correct": "Vous avez écrit un message.",
           "hint": "écrire has an irregular participle.",
           "errorType": "écrire → écrit."
+        },
+        {
+          "sentence": "J’ai comprendu la question.",
+          "correct": "J’ai compris la question.",
+          "hint": "comprendre follows prendre.",
+          "errorType": "comprendre → compris."
+        },
+        {
+          "sentence": "Elle a ouvri la fenêtre.",
+          "correct": "Elle a ouvert la fenêtre.",
+          "hint": "ouvrir has irregular participle ouvert.",
+          "errorType": "ouvrir → ouvert."
+        },
+        {
+          "sentence": "Ils ont couré vite.",
+          "correct": "Ils ont couru vite.",
+          "hint": "courir → couru.",
+          "errorType": "courir → couru."
+        },
+        {
+          "sentence": "Elles ont sorties à 20 h.",
+          "correct": "Elles sont sorties à 20 h.",
+          "hint": "sortir as movement uses être.",
+          "errorType": "sortir → elles sont sorties."
+        },
+        {
+          "sentence": "J’ai sorti de la maison.",
+          "correct": "Je suis sorti de la maison.",
+          "hint": "sortir without direct object as movement uses être.",
+          "errorType": "sortir → je suis sorti."
+        },
+        {
+          "sentence": "Elle est revenu tard.",
+          "correct": "Elle est revenue tard.",
+          "hint": "être participle agrees with elle.",
+          "errorType": "revenir → revenue."
+        },
+        {
+          "sentence": "Les lettres que j’ai écrit sont longues.",
+          "correct": "Les lettres que j’ai écrites sont longues.",
+          "hint": "preceding direct object with avoir.",
+          "errorType": "les lettres → écrites."
+        },
+        {
+          "sentence": "Elle s’est lavée les mains.",
+          "correct": "Elle s’est lavé les mains.",
+          "hint": "direct object follows; no subject agreement.",
+          "errorType": "se laver les mains → lavé."
         }
       ]
     }

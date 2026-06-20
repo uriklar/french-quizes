@@ -1,483 +1,2639 @@
 {
   "slug": "french-present-conjugation",
   "title": "French Present Tense Conjugation",
-  "description": "Regular -er/-ir/-re endings, spelling changes, and key irregular verbs",
-  "questionCount": 54,
+  "description": "Regular -er/-ir/-re endings, real -ir families, spelling changes, and high-frequency irregular verbs",
+  "questionCount": 252,
   "crashCourse": {
     "title": "Present tense conjugation",
     "subtitle": "Build the present tense from regular endings, then memorize the high-frequency irregulars.",
     "sections": [
       {
-        "title": "Regular -er verbs",
-        "content": "Drop -er and add: -e, -es, -e, -ons, -ez, -ent.",
-        "tip": "parler → je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent."
+        "title": "1) Regular -er verbs",
+        "content": "Drop -er and add -e, -es, -e, -ons, -ez, -ent.",
+        "tip": "parler → je parle, nous parlons, ils parlent. Spelling-change verbs still use these endings."
       },
       {
-        "title": "Regular -ir verbs like finir",
-        "content": "Drop -ir and add: -is, -is, -it, -issons, -issez, -issent.",
-        "tip": "The plural forms have -iss-: nous finissons, vous finissez, ils finissent."
+        "title": "2) Regular 2nd-group -ir verbs",
+        "content": "Only verbs like finir use -is, -is, -it, -issons, -issez, -issent.",
+        "tip": "finir, choisir, réussir, remplir, réfléchir, obéir → nous finissons / ils finissent. This does NOT cover all -ir verbs."
       },
       {
-        "title": "Regular -re verbs like vendre",
-        "content": "Drop -re and add: -s, -s, nothing, -ons, -ez, -ent.",
-        "tip": "vendre → je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent."
+        "title": "3) Irregular 3rd-group -ir families",
+        "content": "Common -ir verbs split into families: partir/dormir/sortir; ouvrir/offrir/couvrir; venir/tenir; plus courir, mourir, fuir.",
+        "tip": "je dors / nous dormons; j’ouvre / nous ouvrons; je viens / nous venons / ils viennent."
       },
       {
-        "title": "Spelling-change verbs",
-        "content": "-ger keeps e before -ons; -cer uses ç before -ons; acheter/appeler/espérer change spelling before silent endings.",
-        "tip": "nous mangeons, nous commençons, j’achète, j’appelle, j’espère."
+        "title": "4) Regular -re verbs",
+        "content": "Drop -re and add -s, -s, nothing, -ons, -ez, -ent.",
+        "tip": "vendre → je vends, il vend, nous vendons."
       },
       {
-        "title": "Irregular essentials",
-        "content": "être, avoir, aller, faire, prendre, venir, pouvoir, vouloir, devoir, dire, voir, savoir are too common to skip.",
-        "tip": "Pay special attention to vous faites, vous dites, ils vont, ils font."
+        "title": "5) Other irregular essentials",
+        "content": "être, avoir, aller, faire, prendre, mettre, dire, lire, écrire, voir, boire, croire, recevoir, devoir, pouvoir, vouloir, savoir appear constantly.",
+        "tip": "Pay special attention to vous faites, vous dites, ils vont, ils font, nous buvons, ils reçoivent."
       }
     ]
   },
   "sections": [
     {
-      "title": "Part 1: Choose the present-tense form",
-      "instructions": "Pick the correct present-tense conjugation.",
+      "title": "Part 1: Regular and spelling-change patterns",
+      "instructions": "Choose the correct present-tense form. This section covers regular -er, 2nd-group -ir, regular -re, and spelling-change verbs.",
       "type": "multiple_choice",
       "questions": [
         {
-          "sentence": "je ___ (parler)",
+          "sentence": "tu ___ (regarder)",
           "options": [
-            "parle",
-            "parles",
-            "parlons"
+            "regardes",
+            "regarde",
+            "regardons",
+            "regardez"
           ],
           "correct": 0,
-          "explanation": "parler: use the present ending for je."
+          "explanation": "Regular -er endings."
         },
         {
-          "sentence": "tu ___ (finir)",
+          "sentence": "il/elle/on ___ (étudier)",
           "options": [
-            "finis",
-            "finit",
-            "finissons"
+            "étudie",
+            "étudies",
+            "étudions",
+            "étudiez"
           ],
           "correct": 0,
-          "explanation": "finir: use the present ending for tu."
+          "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
         },
         {
-          "sentence": "il/elle/on ___ (vendre)",
+          "sentence": "nous ___ (manger)",
           "options": [
-            "vend",
-            "vends",
-            "vendons"
+            "mangeons",
+            "mange",
+            "manges",
+            "mangez"
           ],
           "correct": 0,
-          "explanation": "vendre: use the present ending for il/elle/on."
+          "explanation": "-ger keeps e before -ons: nous mangeons."
         },
         {
-          "sentence": "nous ___ (parler)",
+          "sentence": "vous ___ (commencer)",
           "options": [
-            "parlons",
-            "parle",
-            "parles"
+            "commencez",
+            "commence",
+            "commences",
+            "commençons"
           ],
           "correct": 0,
-          "explanation": "parler: use the present ending for nous."
+          "explanation": "-cer uses ç before -ons: nous commençons."
         },
         {
-          "sentence": "vous ___ (finir)",
+          "sentence": "ils/elles ___ (acheter)",
           "options": [
-            "finissez",
-            "finis",
-            "finit"
+            "achètent",
+            "achète",
+            "achètes",
+            "achetons"
           ],
           "correct": 0,
-          "explanation": "finir: use the present ending for vous."
+          "explanation": "acheter changes e → è before silent endings."
         },
         {
-          "sentence": "ils/elles ___ (vendre)",
+          "sentence": "j’ ___ (appeler)",
           "options": [
-            "vendent",
-            "vends",
-            "vend"
+            "appelle",
+            "appelles",
+            "appelons",
+            "appelez"
           ],
           "correct": 0,
-          "explanation": "vendre: use the present ending for ils/elles."
+          "explanation": "appeler doubles l before silent endings."
         },
         {
-          "sentence": "tu ___ (parler)",
+          "sentence": "tu ___ (payer)",
           "options": [
-            "parles",
-            "parle",
-            "parlons"
+            "paies",
+            "paie",
+            "payons",
+            "payez"
           ],
           "correct": 0,
-          "explanation": "parler: use the present ending for tu."
+          "explanation": "payer commonly changes y → i before silent endings."
         },
         {
-          "sentence": "il/elle/on ___ (finir)",
+          "sentence": "il/elle/on ___ (nettoyer)",
           "options": [
-            "finit",
-            "finis",
-            "finissons"
+            "nettoie",
+            "nettoies",
+            "nettoyons",
+            "nettoyez"
           ],
           "correct": 0,
-          "explanation": "finir: use the present ending for il/elle/on."
-        },
-        {
-          "sentence": "nous ___ (vendre)",
-          "options": [
-            "vendons",
-            "vends",
-            "vend"
-          ],
-          "correct": 0,
-          "explanation": "vendre: use the present ending for nous."
-        },
-        {
-          "sentence": "vous ___ (parler)",
-          "options": [
-            "parlez",
-            "parle",
-            "parles"
-          ],
-          "correct": 0,
-          "explanation": "parler: use the present ending for vous."
-        },
-        {
-          "sentence": "ils/elles ___ (finir)",
-          "options": [
-            "finissent",
-            "finis",
-            "finit"
-          ],
-          "correct": 0,
-          "explanation": "finir: use the present ending for ils/elles."
-        },
-        {
-          "sentence": "je ___ (attendre)",
-          "options": [
-            "attends",
-            "attend",
-            "attendons"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for je."
-        },
-        {
-          "sentence": "il/elle/on ___ (parler)",
-          "options": [
-            "parle",
-            "parles",
-            "parlons"
-          ],
-          "correct": 0,
-          "explanation": "parler: use the present ending for il/elle/on."
+          "explanation": "-oyer verbs change y → i before silent endings."
         },
         {
           "sentence": "nous ___ (finir)",
           "options": [
             "finissons",
             "finis",
-            "finit"
-          ],
-          "correct": 0,
-          "explanation": "finir: use the present ending for nous."
-        },
-        {
-          "sentence": "vous ___ (vendre)",
-          "options": [
-            "vendez",
-            "vends",
-            "vend"
-          ],
-          "correct": 0,
-          "explanation": "vendre: use the present ending for vous."
-        },
-        {
-          "sentence": "ils/elles ___ (parler)",
-          "options": [
-            "parlent",
-            "parle",
-            "parles"
-          ],
-          "correct": 0,
-          "explanation": "parler: use the present ending for ils/elles."
-        },
-        {
-          "sentence": "je ___ (vendre)",
-          "options": [
-            "vends",
-            "vend",
-            "vendons"
-          ],
-          "correct": 0,
-          "explanation": "vendre: use the present ending for je."
-        },
-        {
-          "sentence": "tu ___ (attendre)",
-          "options": [
-            "attends",
-            "attend",
-            "attendons"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for tu."
-        },
-        {
-          "sentence": "je ___ (finir)",
-          "options": [
-            "finis",
             "finit",
-            "finissons"
+            "finissez"
           ],
           "correct": 0,
-          "explanation": "finir: use the present ending for je."
-        },
-        {
-          "sentence": "tu ___ (vendre)",
-          "options": [
-            "vends",
-            "vend",
-            "vendons"
-          ],
-          "correct": 0,
-          "explanation": "vendre: use the present ending for tu."
-        },
-        {
-          "sentence": "il/elle/on ___ (attendre)",
-          "options": [
-            "attend",
-            "attends",
-            "attendons"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for il/elle/on."
-        },
-        {
-          "sentence": "nous ___ (attendre)",
-          "options": [
-            "attendons",
-            "attends",
-            "attend"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for nous."
-        },
-        {
-          "sentence": "vous ___ (attendre)",
-          "options": [
-            "attendez",
-            "attends",
-            "attend"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for vous."
-        },
-        {
-          "sentence": "ils/elles ___ (attendre)",
-          "options": [
-            "attendent",
-            "attends",
-            "attend"
-          ],
-          "correct": 0,
-          "explanation": "attendre: use the present ending for ils/elles."
-        },
-        {
-          "sentence": "je ___ (choisir)",
-          "options": [
-            "choisis",
-            "choisit",
-            "choisissons"
-          ],
-          "correct": 0,
-          "explanation": "choisir: use the present ending for je."
-        },
-        {
-          "sentence": "tu ___ (choisir)",
-          "options": [
-            "choisis",
-            "choisit",
-            "choisissons"
-          ],
-          "correct": 0,
-          "explanation": "choisir: use the present ending for tu."
-        },
-        {
-          "sentence": "il/elle/on ___ (choisir)",
-          "options": [
-            "choisit",
-            "choisis",
-            "choisissons"
-          ],
-          "correct": 0,
-          "explanation": "choisir: use the present ending for il/elle/on."
-        },
-        {
-          "sentence": "nous ___ (choisir)",
-          "options": [
-            "choisissons",
-            "choisis",
-            "choisit"
-          ],
-          "correct": 0,
-          "explanation": "choisir: use the present ending for nous."
+          "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
         },
         {
           "sentence": "vous ___ (choisir)",
           "options": [
             "choisissez",
             "choisis",
-            "choisit"
+            "choisit",
+            "choisissons"
           ],
           "correct": 0,
-          "explanation": "choisir: use the present ending for vous."
+          "explanation": "Regular 2nd-group -ir pattern."
         },
         {
-          "sentence": "ils/elles ___ (choisir)",
+          "sentence": "ils/elles ___ (réussir)",
           "options": [
-            "choisissent",
-            "choisis",
-            "choisit"
+            "réussissent",
+            "réussis",
+            "réussit",
+            "réussissons"
           ],
           "correct": 0,
-          "explanation": "choisir: use the present ending for ils/elles."
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "je ___ (réfléchir)",
+          "options": [
+            "réfléchis",
+            "réfléchit",
+            "réfléchissons",
+            "réfléchissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "tu ___ (obéir)",
+          "options": [
+            "obéis",
+            "obéit",
+            "obéissons",
+            "obéissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "il/elle/on ___ (vendre)",
+          "options": [
+            "vend",
+            "vends",
+            "vendons",
+            "vendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
+        },
+        {
+          "sentence": "nous ___ (attendre)",
+          "options": [
+            "attendons",
+            "attends",
+            "attend",
+            "attendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "vous ___ (répondre)",
+          "options": [
+            "répondez",
+            "réponds",
+            "répond",
+            "répondons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (perdre)",
+          "options": [
+            "perdent",
+            "perds",
+            "perd",
+            "perdons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
         },
         {
           "sentence": "je ___ (regarder)",
           "options": [
             "regarde",
             "regardes",
-            "regardons"
-          ],
-          "correct": 0,
-          "explanation": "regarder: use the present ending for je."
-        },
-        {
-          "sentence": "tu ___ (regarder)",
-          "options": [
-            "regardes",
-            "regarde",
-            "regardons"
-          ],
-          "correct": 0,
-          "explanation": "regarder: use the present ending for tu."
-        },
-        {
-          "sentence": "il/elle/on ___ (regarder)",
-          "options": [
-            "regarde",
-            "regardes",
-            "regardons"
-          ],
-          "correct": 0,
-          "explanation": "regarder: use the present ending for il/elle/on."
-        },
-        {
-          "sentence": "nous ___ (regarder)",
-          "options": [
             "regardons",
-            "regarde",
-            "regardes"
+            "regardez"
           ],
           "correct": 0,
-          "explanation": "regarder: use the present ending for nous."
+          "explanation": "Regular -er endings."
         },
         {
-          "sentence": "vous ___ (regarder)",
+          "sentence": "tu ___ (étudier)",
           "options": [
-            "regardez",
-            "regarde",
-            "regardes"
+            "étudies",
+            "étudie",
+            "étudions",
+            "étudiez"
           ],
           "correct": 0,
-          "explanation": "regarder: use the present ending for vous."
+          "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
+        },
+        {
+          "sentence": "il/elle/on ___ (manger)",
+          "options": [
+            "mange",
+            "manges",
+            "mangeons",
+            "mangez"
+          ],
+          "correct": 0,
+          "explanation": "-ger keeps e before -ons: nous mangeons."
+        },
+        {
+          "sentence": "nous ___ (commencer)",
+          "options": [
+            "commençons",
+            "commence",
+            "commences",
+            "commencez"
+          ],
+          "correct": 0,
+          "explanation": "-cer uses ç before -ons: nous commençons."
+        },
+        {
+          "sentence": "vous ___ (acheter)",
+          "options": [
+            "achetez",
+            "achète",
+            "achètes",
+            "achetons"
+          ],
+          "correct": 0,
+          "explanation": "acheter changes e → è before silent endings."
+        },
+        {
+          "sentence": "ils/elles ___ (préférer)",
+          "options": [
+            "préfèrent",
+            "préfère",
+            "préfères",
+            "préférons"
+          ],
+          "correct": 0,
+          "explanation": "préférer changes é → è before silent endings."
+        },
+        {
+          "sentence": "je ___ (payer)",
+          "options": [
+            "paie",
+            "paies",
+            "payons",
+            "payez"
+          ],
+          "correct": 0,
+          "explanation": "payer commonly changes y → i before silent endings."
+        },
+        {
+          "sentence": "tu ___ (nettoyer)",
+          "options": [
+            "nettoies",
+            "nettoie",
+            "nettoyons",
+            "nettoyez"
+          ],
+          "correct": 0,
+          "explanation": "-oyer verbs change y → i before silent endings."
+        },
+        {
+          "sentence": "il/elle/on ___ (finir)",
+          "options": [
+            "finit",
+            "finis",
+            "finissons",
+            "finissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
+        },
+        {
+          "sentence": "nous ___ (choisir)",
+          "options": [
+            "choisissons",
+            "choisis",
+            "choisit",
+            "choisissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "vous ___ (réussir)",
+          "options": [
+            "réussissez",
+            "réussis",
+            "réussit",
+            "réussissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (remplir)",
+          "options": [
+            "remplissent",
+            "remplis",
+            "remplit",
+            "remplissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "j’ ___ (obéir)",
+          "options": [
+            "obéis",
+            "obéit",
+            "obéissons",
+            "obéissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "tu ___ (vendre)",
+          "options": [
+            "vends",
+            "vend",
+            "vendons",
+            "vendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
+        },
+        {
+          "sentence": "il/elle/on ___ (attendre)",
+          "options": [
+            "attend",
+            "attends",
+            "attendons",
+            "attendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "nous ___ (répondre)",
+          "options": [
+            "répondons",
+            "réponds",
+            "répond",
+            "répondez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "vous ___ (perdre)",
+          "options": [
+            "perdez",
+            "perds",
+            "perd",
+            "perdons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (parler)",
+          "options": [
+            "parlent",
+            "parle",
+            "parles",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
+        },
+        {
+          "sentence": "j’ ___ (étudier)",
+          "options": [
+            "étudie",
+            "étudies",
+            "étudions",
+            "étudiez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
+        },
+        {
+          "sentence": "tu ___ (manger)",
+          "options": [
+            "manges",
+            "mange",
+            "mangeons",
+            "mangez"
+          ],
+          "correct": 0,
+          "explanation": "-ger keeps e before -ons: nous mangeons."
+        },
+        {
+          "sentence": "il/elle/on ___ (commencer)",
+          "options": [
+            "commence",
+            "commences",
+            "commençons",
+            "commencez"
+          ],
+          "correct": 0,
+          "explanation": "-cer uses ç before -ons: nous commençons."
+        },
+        {
+          "sentence": "nous ___ (acheter)",
+          "options": [
+            "achetons",
+            "achète",
+            "achètes",
+            "achetez"
+          ],
+          "correct": 0,
+          "explanation": "acheter changes e → è before silent endings."
+        },
+        {
+          "sentence": "vous ___ (préférer)",
+          "options": [
+            "préférez",
+            "préfère",
+            "préfères",
+            "préférons"
+          ],
+          "correct": 0,
+          "explanation": "préférer changes é → è before silent endings."
+        },
+        {
+          "sentence": "ils/elles ___ (appeler)",
+          "options": [
+            "appellent",
+            "appelle",
+            "appelles",
+            "appelons"
+          ],
+          "correct": 0,
+          "explanation": "appeler doubles l before silent endings."
+        },
+        {
+          "sentence": "je ___ (nettoyer)",
+          "options": [
+            "nettoie",
+            "nettoies",
+            "nettoyons",
+            "nettoyez"
+          ],
+          "correct": 0,
+          "explanation": "-oyer verbs change y → i before silent endings."
+        },
+        {
+          "sentence": "tu ___ (finir)",
+          "options": [
+            "finis",
+            "finit",
+            "finissons",
+            "finissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
+        },
+        {
+          "sentence": "il/elle/on ___ (choisir)",
+          "options": [
+            "choisit",
+            "choisis",
+            "choisissons",
+            "choisissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "nous ___ (réussir)",
+          "options": [
+            "réussissons",
+            "réussis",
+            "réussit",
+            "réussissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "vous ___ (remplir)",
+          "options": [
+            "remplissez",
+            "remplis",
+            "remplit",
+            "remplissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (réfléchir)",
+          "options": [
+            "réfléchissent",
+            "réfléchis",
+            "réfléchit",
+            "réfléchissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "je ___ (vendre)",
+          "options": [
+            "vends",
+            "vend",
+            "vendons",
+            "vendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
+        },
+        {
+          "sentence": "tu ___ (attendre)",
+          "options": [
+            "attends",
+            "attend",
+            "attendons",
+            "attendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "il/elle/on ___ (répondre)",
+          "options": [
+            "répond",
+            "réponds",
+            "répondons",
+            "répondez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "nous ___ (perdre)",
+          "options": [
+            "perdons",
+            "perds",
+            "perd",
+            "perdez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "vous ___ (parler)",
+          "options": [
+            "parlez",
+            "parle",
+            "parles",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
         },
         {
           "sentence": "ils/elles ___ (regarder)",
           "options": [
             "regardent",
             "regarde",
-            "regardes"
+            "regardes",
+            "regardons"
           ],
           "correct": 0,
-          "explanation": "regarder: use the present ending for ils/elles."
+          "explanation": "Regular -er endings."
         },
         {
-          "sentence": "nous ___ (manger) au restaurant.",
+          "sentence": "je ___ (manger)",
           "options": [
-            "mangons",
+            "mange",
+            "manges",
             "mangeons",
-            "mangonses",
-            "mangent"
+            "mangez"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "-ger keeps e before -ons: nous mangeons."
         },
         {
-          "sentence": "nous ___ (commencer) bientôt.",
+          "sentence": "tu ___ (commencer)",
           "options": [
-            "commencons",
+            "commences",
+            "commence",
             "commençons",
-            "commenceons",
-            "commencent"
+            "commencez"
           ],
-          "correct": 1,
-          "explanation": "-cer becomes ç before -ons: nous commençons."
+          "correct": 0,
+          "explanation": "-cer uses ç before -ons: nous commençons."
         },
         {
-          "sentence": "j’___ (acheter) du pain.",
+          "sentence": "il/elle/on ___ (acheter)",
           "options": [
-            "achete",
-            "achètes",
             "achète",
-            "achetons"
+            "achètes",
+            "achetons",
+            "achetez"
           ],
-          "correct": 2,
-          "explanation": "acheter changes e → è before a silent ending: j’achète."
+          "correct": 0,
+          "explanation": "acheter changes e → è before silent endings."
         },
         {
-          "sentence": "elle ___ (appeler) son frère.",
+          "sentence": "nous ___ (préférer)",
           "options": [
-            "appele",
-            "appelles",
-            "appelle",
-            "appelons"
-          ],
-          "correct": 2,
-          "explanation": "appeler doubles l before a silent ending: elle appelle."
-        },
-        {
-          "sentence": "tu ___ (préférer) le thé ?",
-          "options": [
-            "préferes",
+            "préférons",
+            "préfère",
             "préfères",
-            "préféres",
             "préférez"
           ],
-          "correct": 1,
-          "explanation": "préférer changes é → è before a silent ending: tu préfères."
+          "correct": 0,
+          "explanation": "préférer changes é → è before silent endings."
         },
         {
-          "sentence": "ils ___ (payer) par carte.",
+          "sentence": "vous ___ (appeler)",
           "options": [
-            "payent",
-            "paient",
-            "payons",
-            "payez"
+            "appelez",
+            "appelle",
+            "appelles",
+            "appelons"
           ],
-          "correct": 1,
-          "explanation": "-yer verbs often change y → i before silent endings: ils paient."
+          "correct": 0,
+          "explanation": "appeler doubles l before silent endings."
+        },
+        {
+          "sentence": "ils/elles ___ (payer)",
+          "options": [
+            "paient",
+            "paie",
+            "paies",
+            "payons"
+          ],
+          "correct": 0,
+          "explanation": "payer commonly changes y → i before silent endings."
+        },
+        {
+          "sentence": "je ___ (finir)",
+          "options": [
+            "finis",
+            "finit",
+            "finissons",
+            "finissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
+        },
+        {
+          "sentence": "tu ___ (choisir)",
+          "options": [
+            "choisis",
+            "choisit",
+            "choisissons",
+            "choisissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "il/elle/on ___ (réussir)",
+          "options": [
+            "réussit",
+            "réussis",
+            "réussissons",
+            "réussissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "nous ___ (remplir)",
+          "options": [
+            "remplissons",
+            "remplis",
+            "remplit",
+            "remplissez"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "vous ___ (réfléchir)",
+          "options": [
+            "réfléchissez",
+            "réfléchis",
+            "réfléchit",
+            "réfléchissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (obéir)",
+          "options": [
+            "obéissent",
+            "obéis",
+            "obéit",
+            "obéissons"
+          ],
+          "correct": 0,
+          "explanation": "Regular 2nd-group -ir pattern."
+        },
+        {
+          "sentence": "j’ ___ (attendre)",
+          "options": [
+            "attends",
+            "attend",
+            "attendons",
+            "attendez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "tu ___ (répondre)",
+          "options": [
+            "réponds",
+            "répond",
+            "répondons",
+            "répondez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "il/elle/on ___ (perdre)",
+          "options": [
+            "perd",
+            "perds",
+            "perdons",
+            "perdez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -re pattern."
+        },
+        {
+          "sentence": "nous ___ (parler)",
+          "options": [
+            "parlons",
+            "parle",
+            "parles",
+            "parlez"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
+        },
+        {
+          "sentence": "vous ___ (regarder)",
+          "options": [
+            "regardez",
+            "regarde",
+            "regardes",
+            "regardons"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er endings."
+        },
+        {
+          "sentence": "ils/elles ___ (étudier)",
+          "options": [
+            "étudient",
+            "étudie",
+            "étudies",
+            "étudions"
+          ],
+          "correct": 0,
+          "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
+        },
+        {
+          "sentence": "je ___ (commencer)",
+          "options": [
+            "commence",
+            "commences",
+            "commençons",
+            "commencez"
+          ],
+          "correct": 0,
+          "explanation": "-cer uses ç before -ons: nous commençons."
         }
       ]
     },
     {
-      "title": "Part 2: Spot and fix the present-tense error",
+      "title": "Part 2: Irregular -ir families",
+      "instructions": "Choose the correct present-tense form. These -ir verbs do not all follow finir.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "tu ___ (sortir)",
+          "options": [
+            "sors",
+            "sort",
+            "sortons",
+            "sortez"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "il/elle/on ___ (dormir)",
+          "options": [
+            "dort",
+            "dors",
+            "dormons",
+            "dormez"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "nous ___ (servir)",
+          "options": [
+            "servons",
+            "sers",
+            "sert",
+            "servez"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "vous ___ (sentir)",
+          "options": [
+            "sentez",
+            "sens",
+            "sent",
+            "sentons"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "ils/elles ___ (ouvrir)",
+          "options": [
+            "ouvrent",
+            "ouvre",
+            "ouvres",
+            "ouvrons"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "je ___ (couvrir)",
+          "options": [
+            "couvre",
+            "couvres",
+            "couvrons",
+            "couvrez"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "tu ___ (venir)",
+          "options": [
+            "viens",
+            "vient",
+            "venons",
+            "venez"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "il/elle/on ___ (tenir)",
+          "options": [
+            "tient",
+            "tiens",
+            "tenons",
+            "tenez"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "nous ___ (devenir)",
+          "options": [
+            "devenons",
+            "deviens",
+            "devient",
+            "devenez"
+          ],
+          "correct": 0,
+          "explanation": "Compounds of venir follow venir."
+        },
+        {
+          "sentence": "vous ___ (courir)",
+          "options": [
+            "courez",
+            "cours",
+            "court",
+            "courons"
+          ],
+          "correct": 0,
+          "explanation": "courir is irregular: je cours, nous courons."
+        },
+        {
+          "sentence": "ils/elles ___ (mourir)",
+          "options": [
+            "meurent",
+            "meurs",
+            "meurt",
+            "mourons"
+          ],
+          "correct": 0,
+          "explanation": "mourir is irregular: je meurs, nous mourons, ils meurent."
+        },
+        {
+          "sentence": "je ___ (partir)",
+          "options": [
+            "pars",
+            "part",
+            "partons",
+            "partez"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "tu ___ (partir)",
+          "options": [
+            "pars",
+            "part",
+            "partons",
+            "partez"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "il/elle/on ___ (partir)",
+          "options": [
+            "part",
+            "pars",
+            "partons",
+            "partez"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "nous ___ (partir)",
+          "options": [
+            "partons",
+            "pars",
+            "part",
+            "partez"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "vous ___ (partir)",
+          "options": [
+            "partez",
+            "pars",
+            "part",
+            "partons"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "ils/elles ___ (partir)",
+          "options": [
+            "partent",
+            "pars",
+            "part",
+            "partons"
+          ],
+          "correct": 0,
+          "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
+        },
+        {
+          "sentence": "je ___ (sortir)",
+          "options": [
+            "sors",
+            "sort",
+            "sortons",
+            "sortez"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "il/elle/on ___ (sortir)",
+          "options": [
+            "sort",
+            "sors",
+            "sortons",
+            "sortez"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "nous ___ (sortir)",
+          "options": [
+            "sortons",
+            "sors",
+            "sort",
+            "sortez"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "vous ___ (sortir)",
+          "options": [
+            "sortez",
+            "sors",
+            "sort",
+            "sortons"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "ils/elles ___ (sortir)",
+          "options": [
+            "sortent",
+            "sors",
+            "sort",
+            "sortons"
+          ],
+          "correct": 0,
+          "explanation": "sortir follows the partir/dormir family."
+        },
+        {
+          "sentence": "je ___ (dormir)",
+          "options": [
+            "dors",
+            "dort",
+            "dormons",
+            "dormez"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "tu ___ (dormir)",
+          "options": [
+            "dors",
+            "dort",
+            "dormons",
+            "dormez"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "nous ___ (dormir)",
+          "options": [
+            "dormons",
+            "dors",
+            "dort",
+            "dormez"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "vous ___ (dormir)",
+          "options": [
+            "dormez",
+            "dors",
+            "dort",
+            "dormons"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "ils/elles ___ (dormir)",
+          "options": [
+            "dorment",
+            "dors",
+            "dort",
+            "dormons"
+          ],
+          "correct": 0,
+          "explanation": "dormir family: je dors, nous dormons, ils dorment."
+        },
+        {
+          "sentence": "je ___ (servir)",
+          "options": [
+            "sers",
+            "sert",
+            "servons",
+            "servez"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "tu ___ (servir)",
+          "options": [
+            "sers",
+            "sert",
+            "servons",
+            "servez"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "il/elle/on ___ (servir)",
+          "options": [
+            "sert",
+            "sers",
+            "servons",
+            "servez"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "vous ___ (servir)",
+          "options": [
+            "servez",
+            "sers",
+            "sert",
+            "servons"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "ils/elles ___ (servir)",
+          "options": [
+            "servent",
+            "sers",
+            "sert",
+            "servons"
+          ],
+          "correct": 0,
+          "explanation": "servir/sentir/mentir pattern."
+        },
+        {
+          "sentence": "je ___ (sentir)",
+          "options": [
+            "sens",
+            "sent",
+            "sentons",
+            "sentez"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "tu ___ (sentir)",
+          "options": [
+            "sens",
+            "sent",
+            "sentons",
+            "sentez"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "il/elle/on ___ (sentir)",
+          "options": [
+            "sent",
+            "sens",
+            "sentons",
+            "sentez"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "nous ___ (sentir)",
+          "options": [
+            "sentons",
+            "sens",
+            "sent",
+            "sentez"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "ils/elles ___ (sentir)",
+          "options": [
+            "sentent",
+            "sens",
+            "sent",
+            "sentons"
+          ],
+          "correct": 0,
+          "explanation": "sentir follows the dormir/partir family."
+        },
+        {
+          "sentence": "j’ ___ (ouvrir)",
+          "options": [
+            "ouvre",
+            "ouvres",
+            "ouvrons",
+            "ouvrez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "tu ___ (ouvrir)",
+          "options": [
+            "ouvres",
+            "ouvre",
+            "ouvrons",
+            "ouvrez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "il/elle/on ___ (ouvrir)",
+          "options": [
+            "ouvre",
+            "ouvres",
+            "ouvrons",
+            "ouvrez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "nous ___ (ouvrir)",
+          "options": [
+            "ouvrons",
+            "ouvre",
+            "ouvres",
+            "ouvrez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "vous ___ (ouvrir)",
+          "options": [
+            "ouvrez",
+            "ouvre",
+            "ouvres",
+            "ouvrons"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
+        },
+        {
+          "sentence": "j’ ___ (offrir)",
+          "options": [
+            "offre",
+            "offres",
+            "offrons",
+            "offrez"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "tu ___ (offrir)",
+          "options": [
+            "offres",
+            "offre",
+            "offrons",
+            "offrez"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "il/elle/on ___ (offrir)",
+          "options": [
+            "offre",
+            "offres",
+            "offrons",
+            "offrez"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "nous ___ (offrir)",
+          "options": [
+            "offrons",
+            "offre",
+            "offres",
+            "offrez"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "vous ___ (offrir)",
+          "options": [
+            "offrez",
+            "offre",
+            "offres",
+            "offrons"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "ils/elles ___ (offrir)",
+          "options": [
+            "offrent",
+            "offre",
+            "offres",
+            "offrons"
+          ],
+          "correct": 0,
+          "explanation": "offrir is -ir but present endings look like -er."
+        },
+        {
+          "sentence": "tu ___ (couvrir)",
+          "options": [
+            "couvres",
+            "couvre",
+            "couvrons",
+            "couvrez"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "il/elle/on ___ (couvrir)",
+          "options": [
+            "couvre",
+            "couvres",
+            "couvrons",
+            "couvrez"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "nous ___ (couvrir)",
+          "options": [
+            "couvrons",
+            "couvre",
+            "couvres",
+            "couvrez"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "vous ___ (couvrir)",
+          "options": [
+            "couvrez",
+            "couvre",
+            "couvres",
+            "couvrons"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "ils/elles ___ (couvrir)",
+          "options": [
+            "couvrent",
+            "couvre",
+            "couvres",
+            "couvrons"
+          ],
+          "correct": 0,
+          "explanation": "couvrir follows ouvrir: je couvre, nous couvrons."
+        },
+        {
+          "sentence": "je ___ (venir)",
+          "options": [
+            "viens",
+            "vient",
+            "venons",
+            "venez"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "il/elle/on ___ (venir)",
+          "options": [
+            "vient",
+            "viens",
+            "venons",
+            "venez"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "nous ___ (venir)",
+          "options": [
+            "venons",
+            "viens",
+            "vient",
+            "venez"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "vous ___ (venir)",
+          "options": [
+            "venez",
+            "viens",
+            "vient",
+            "venons"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "ils/elles ___ (venir)",
+          "options": [
+            "viennent",
+            "viens",
+            "vient",
+            "venons"
+          ],
+          "correct": 0,
+          "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
+        },
+        {
+          "sentence": "je ___ (tenir)",
+          "options": [
+            "tiens",
+            "tient",
+            "tenons",
+            "tenez"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "tu ___ (tenir)",
+          "options": [
+            "tiens",
+            "tient",
+            "tenons",
+            "tenez"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "nous ___ (tenir)",
+          "options": [
+            "tenons",
+            "tiens",
+            "tient",
+            "tenez"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "vous ___ (tenir)",
+          "options": [
+            "tenez",
+            "tiens",
+            "tient",
+            "tenons"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "ils/elles ___ (tenir)",
+          "options": [
+            "tiennent",
+            "tiens",
+            "tient",
+            "tenons"
+          ],
+          "correct": 0,
+          "explanation": "tenir follows venir."
+        },
+        {
+          "sentence": "je ___ (devenir)",
+          "options": [
+            "deviens",
+            "devient",
+            "devenons",
+            "devenez"
+          ],
+          "correct": 0,
+          "explanation": "Compounds of venir follow venir."
+        },
+        {
+          "sentence": "tu ___ (devenir)",
+          "options": [
+            "deviens",
+            "devient",
+            "devenons",
+            "devenez"
+          ],
+          "correct": 0,
+          "explanation": "Compounds of venir follow venir."
+        },
+        {
+          "sentence": "il/elle/on ___ (devenir)",
+          "options": [
+            "devient",
+            "deviens",
+            "devenons",
+            "devenez"
+          ],
+          "correct": 0,
+          "explanation": "Compounds of venir follow venir."
+        }
+      ]
+    },
+    {
+      "title": "Part 3: High-frequency irregulars",
+      "instructions": "Choose the correct present-tense form for common irregular verbs.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "tu ___ (avoir)",
+          "options": [
+            "as",
+            "ai",
+            "a",
+            "avons"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "il/elle/on ___ (aller)",
+          "options": [
+            "va",
+            "vais",
+            "vas",
+            "allons"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "nous ___ (faire)",
+          "options": [
+            "faisons",
+            "fais",
+            "fait",
+            "faites"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "vous ___ (prendre)",
+          "options": [
+            "prenez",
+            "prends",
+            "prend",
+            "prenons"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "ils/elles ___ (comprendre)",
+          "options": [
+            "comprennent",
+            "comprends",
+            "comprend",
+            "comprenons"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "je ___ (dire)",
+          "options": [
+            "dis",
+            "dit",
+            "disons",
+            "dites"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "tu ___ (lire)",
+          "options": [
+            "lis",
+            "lit",
+            "lisons",
+            "lisez"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "il/elle/on ___ (écrire)",
+          "options": [
+            "écrit",
+            "écris",
+            "écrivons",
+            "écrivez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "nous ___ (voir)",
+          "options": [
+            "voyons",
+            "vois",
+            "voit",
+            "voyez"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "vous ___ (boire)",
+          "options": [
+            "buvez",
+            "bois",
+            "boit",
+            "buvons"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "ils/elles ___ (croire)",
+          "options": [
+            "croient",
+            "crois",
+            "croit",
+            "croyons"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "je ___ (recevoir)",
+          "options": [
+            "reçois",
+            "reçoit",
+            "recevons",
+            "recevez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: je reçois, nous recevons, ils reçoivent."
+        },
+        {
+          "sentence": "tu ___ (devoir)",
+          "options": [
+            "dois",
+            "doit",
+            "devons",
+            "devez"
+          ],
+          "correct": 0,
+          "explanation": "devoir: je dois, nous devons."
+        },
+        {
+          "sentence": "il/elle/on ___ (pouvoir)",
+          "options": [
+            "peut",
+            "peux",
+            "pouvons",
+            "pouvez"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: je peux, nous pouvons."
+        },
+        {
+          "sentence": "nous ___ (vouloir)",
+          "options": [
+            "voulons",
+            "veux",
+            "veut",
+            "voulez"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: je veux, nous voulons."
+        },
+        {
+          "sentence": "vous ___ (savoir)",
+          "options": [
+            "savez",
+            "sais",
+            "sait",
+            "savons"
+          ],
+          "correct": 0,
+          "explanation": "savoir: je sais, nous savons."
+        },
+        {
+          "sentence": "j’ ___ (être)",
+          "options": [
+            "suis",
+            "es",
+            "est",
+            "sommes"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "tu ___ (être)",
+          "options": [
+            "es",
+            "suis",
+            "est",
+            "sommes"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "il/elle/on ___ (être)",
+          "options": [
+            "est",
+            "suis",
+            "es",
+            "sommes"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "nous ___ (être)",
+          "options": [
+            "sommes",
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "vous ___ (être)",
+          "options": [
+            "êtes",
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "ils/elles ___ (être)",
+          "options": [
+            "sont",
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 0,
+          "explanation": "être is fully irregular."
+        },
+        {
+          "sentence": "j’ ___ (avoir)",
+          "options": [
+            "ai",
+            "as",
+            "a",
+            "avons"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "il/elle/on ___ (avoir)",
+          "options": [
+            "a",
+            "ai",
+            "as",
+            "avons"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "nous ___ (avoir)",
+          "options": [
+            "avons",
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "vous ___ (avoir)",
+          "options": [
+            "avez",
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "ils/elles ___ (avoir)",
+          "options": [
+            "ont",
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 0,
+          "explanation": "avoir is fully irregular."
+        },
+        {
+          "sentence": "j’ ___ (aller)",
+          "options": [
+            "vais",
+            "vas",
+            "va",
+            "allons"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "tu ___ (aller)",
+          "options": [
+            "vas",
+            "vais",
+            "va",
+            "allons"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "nous ___ (aller)",
+          "options": [
+            "allons",
+            "vais",
+            "vas",
+            "va"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "vous ___ (aller)",
+          "options": [
+            "allez",
+            "vais",
+            "vas",
+            "va"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "ils/elles ___ (aller)",
+          "options": [
+            "vont",
+            "vais",
+            "vas",
+            "va"
+          ],
+          "correct": 0,
+          "explanation": "aller is the irregular -er verb."
+        },
+        {
+          "sentence": "je ___ (faire)",
+          "options": [
+            "fais",
+            "fait",
+            "faisons",
+            "faites"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "tu ___ (faire)",
+          "options": [
+            "fais",
+            "fait",
+            "faisons",
+            "faites"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "il/elle/on ___ (faire)",
+          "options": [
+            "fait",
+            "fais",
+            "faisons",
+            "faites"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "vous ___ (faire)",
+          "options": [
+            "faites",
+            "fais",
+            "fait",
+            "faisons"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "ils/elles ___ (faire)",
+          "options": [
+            "font",
+            "fais",
+            "fait",
+            "faisons"
+          ],
+          "correct": 0,
+          "explanation": "faire: vous faites, ils font."
+        },
+        {
+          "sentence": "je ___ (prendre)",
+          "options": [
+            "prends",
+            "prend",
+            "prenons",
+            "prenez"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "tu ___ (prendre)",
+          "options": [
+            "prends",
+            "prend",
+            "prenons",
+            "prenez"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "il/elle/on ___ (prendre)",
+          "options": [
+            "prend",
+            "prends",
+            "prenons",
+            "prenez"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "nous ___ (prendre)",
+          "options": [
+            "prenons",
+            "prends",
+            "prend",
+            "prenez"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "ils/elles ___ (prendre)",
+          "options": [
+            "prennent",
+            "prends",
+            "prend",
+            "prenons"
+          ],
+          "correct": 0,
+          "explanation": "prendre family: je prends, nous prenons, ils prennent."
+        },
+        {
+          "sentence": "je ___ (comprendre)",
+          "options": [
+            "comprends",
+            "comprend",
+            "comprenons",
+            "comprenez"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "tu ___ (comprendre)",
+          "options": [
+            "comprends",
+            "comprend",
+            "comprenons",
+            "comprenez"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "il/elle/on ___ (comprendre)",
+          "options": [
+            "comprend",
+            "comprends",
+            "comprenons",
+            "comprenez"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "nous ___ (comprendre)",
+          "options": [
+            "comprenons",
+            "comprends",
+            "comprend",
+            "comprenez"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "vous ___ (comprendre)",
+          "options": [
+            "comprenez",
+            "comprends",
+            "comprend",
+            "comprenons"
+          ],
+          "correct": 0,
+          "explanation": "comprendre follows prendre."
+        },
+        {
+          "sentence": "je ___ (mettre)",
+          "options": [
+            "mets",
+            "met",
+            "mettons",
+            "mettez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "tu ___ (mettre)",
+          "options": [
+            "mets",
+            "met",
+            "mettons",
+            "mettez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "il/elle/on ___ (mettre)",
+          "options": [
+            "met",
+            "mets",
+            "mettons",
+            "mettez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "nous ___ (mettre)",
+          "options": [
+            "mettons",
+            "mets",
+            "met",
+            "mettez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "vous ___ (mettre)",
+          "options": [
+            "mettez",
+            "mets",
+            "met",
+            "mettons"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "ils/elles ___ (mettre)",
+          "options": [
+            "mettent",
+            "mets",
+            "met",
+            "mettons"
+          ],
+          "correct": 0,
+          "explanation": "mettre: je mets, nous mettons, ils mettent."
+        },
+        {
+          "sentence": "tu ___ (dire)",
+          "options": [
+            "dis",
+            "dit",
+            "disons",
+            "dites"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "il/elle/on ___ (dire)",
+          "options": [
+            "dit",
+            "dis",
+            "disons",
+            "dites"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "nous ___ (dire)",
+          "options": [
+            "disons",
+            "dis",
+            "dit",
+            "dites"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "vous ___ (dire)",
+          "options": [
+            "dites",
+            "dis",
+            "dit",
+            "disons"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "ils/elles ___ (dire)",
+          "options": [
+            "disent",
+            "dis",
+            "dit",
+            "disons"
+          ],
+          "correct": 0,
+          "explanation": "dire: vous dites."
+        },
+        {
+          "sentence": "je ___ (lire)",
+          "options": [
+            "lis",
+            "lit",
+            "lisons",
+            "lisez"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "il/elle/on ___ (lire)",
+          "options": [
+            "lit",
+            "lis",
+            "lisons",
+            "lisez"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "nous ___ (lire)",
+          "options": [
+            "lisons",
+            "lis",
+            "lit",
+            "lisez"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "vous ___ (lire)",
+          "options": [
+            "lisez",
+            "lis",
+            "lit",
+            "lisons"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "ils/elles ___ (lire)",
+          "options": [
+            "lisent",
+            "lis",
+            "lit",
+            "lisons"
+          ],
+          "correct": 0,
+          "explanation": "lire: je lis, nous lisons."
+        },
+        {
+          "sentence": "j’ ___ (écrire)",
+          "options": [
+            "écris",
+            "écrit",
+            "écrivons",
+            "écrivez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "tu ___ (écrire)",
+          "options": [
+            "écris",
+            "écrit",
+            "écrivons",
+            "écrivez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "nous ___ (écrire)",
+          "options": [
+            "écrivons",
+            "écris",
+            "écrit",
+            "écrivez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "vous ___ (écrire)",
+          "options": [
+            "écrivez",
+            "écris",
+            "écrit",
+            "écrivons"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "ils/elles ___ (écrire)",
+          "options": [
+            "écrivent",
+            "écris",
+            "écrit",
+            "écrivons"
+          ],
+          "correct": 0,
+          "explanation": "écrire: nous écrivons, ils écrivent."
+        },
+        {
+          "sentence": "je ___ (voir)",
+          "options": [
+            "vois",
+            "voit",
+            "voyons",
+            "voyez"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "tu ___ (voir)",
+          "options": [
+            "vois",
+            "voit",
+            "voyons",
+            "voyez"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "il/elle/on ___ (voir)",
+          "options": [
+            "voit",
+            "vois",
+            "voyons",
+            "voyez"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "vous ___ (voir)",
+          "options": [
+            "voyez",
+            "vois",
+            "voit",
+            "voyons"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "ils/elles ___ (voir)",
+          "options": [
+            "voient",
+            "vois",
+            "voit",
+            "voyons"
+          ],
+          "correct": 0,
+          "explanation": "voir: nous voyons, vous voyez."
+        },
+        {
+          "sentence": "je ___ (boire)",
+          "options": [
+            "bois",
+            "boit",
+            "buvons",
+            "buvez"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "tu ___ (boire)",
+          "options": [
+            "bois",
+            "boit",
+            "buvons",
+            "buvez"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "il/elle/on ___ (boire)",
+          "options": [
+            "boit",
+            "bois",
+            "buvons",
+            "buvez"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "nous ___ (boire)",
+          "options": [
+            "buvons",
+            "bois",
+            "boit",
+            "buvez"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "ils/elles ___ (boire)",
+          "options": [
+            "boivent",
+            "bois",
+            "boit",
+            "buvons"
+          ],
+          "correct": 0,
+          "explanation": "boire: nous buvons, ils boivent."
+        },
+        {
+          "sentence": "je ___ (croire)",
+          "options": [
+            "crois",
+            "croit",
+            "croyons",
+            "croyez"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "tu ___ (croire)",
+          "options": [
+            "crois",
+            "croit",
+            "croyons",
+            "croyez"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "il/elle/on ___ (croire)",
+          "options": [
+            "croit",
+            "crois",
+            "croyons",
+            "croyez"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "nous ___ (croire)",
+          "options": [
+            "croyons",
+            "crois",
+            "croit",
+            "croyez"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "vous ___ (croire)",
+          "options": [
+            "croyez",
+            "crois",
+            "croit",
+            "croyons"
+          ],
+          "correct": 0,
+          "explanation": "croire: nous croyons, ils croient."
+        },
+        {
+          "sentence": "je ___ (connaître)",
+          "options": [
+            "connais",
+            "connaît",
+            "connaissons",
+            "connaissez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "tu ___ (connaître)",
+          "options": [
+            "connais",
+            "connaît",
+            "connaissons",
+            "connaissez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "il/elle/on ___ (connaître)",
+          "options": [
+            "connaît",
+            "connais",
+            "connaissons",
+            "connaissez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "nous ___ (connaître)",
+          "options": [
+            "connaissons",
+            "connais",
+            "connaît",
+            "connaissez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "vous ___ (connaître)",
+          "options": [
+            "connaissez",
+            "connais",
+            "connaît",
+            "connaissons"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "ils/elles ___ (connaître)",
+          "options": [
+            "connaissent",
+            "connais",
+            "connaît",
+            "connaissons"
+          ],
+          "correct": 0,
+          "explanation": "connaître: je connais, il connaît."
+        },
+        {
+          "sentence": "tu ___ (recevoir)",
+          "options": [
+            "reçois",
+            "reçoit",
+            "recevons",
+            "recevez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: je reçois, nous recevons, ils reçoivent."
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Spot and fix the present-tense error",
       "instructions": "Type the corrected full sentence.",
       "type": "correction",
       "questions": [
         {
+          "sentence": "Ils finisent leurs devoirs.",
+          "correct": "Ils finissent leurs devoirs.",
+          "hint": "finir is regular 2nd-group -ir; plural has -iss-.",
+          "errorType": "finir → ils finissent."
+        },
+        {
+          "sentence": "Je part à huit heures.",
+          "correct": "Je pars à huit heures.",
+          "hint": "partir is not a finir-style verb.",
+          "errorType": "partir → je pars."
+        },
+        {
+          "sentence": "Nous dormissons bien.",
+          "correct": "Nous dormons bien.",
+          "hint": "dormir follows the partir/dormir family.",
+          "errorType": "dormir → nous dormons."
+        },
+        {
+          "sentence": "Tu ouvrises la porte.",
+          "correct": "Tu ouvres la porte.",
+          "hint": "ouvrir conjugates like -er in the present.",
+          "errorType": "ouvrir → tu ouvres."
+        },
+        {
+          "sentence": "Elle offrit un cadeau.",
+          "correct": "Elle offre un cadeau.",
+          "hint": "offrir has -er-like present endings.",
+          "errorType": "offrir → elle offre."
+        },
+        {
+          "sentence": "Ils venent demain.",
+          "correct": "Ils viennent demain.",
+          "hint": "venir has a special plural stem.",
+          "errorType": "venir → ils viennent."
+        },
+        {
+          "sentence": "Je couris chaque matin.",
+          "correct": "Je cours chaque matin.",
+          "hint": "courir is irregular in the present.",
+          "errorType": "courir → je cours."
+        },
+        {
+          "sentence": "Il mourit à la fin du film.",
+          "correct": "Il meurt à la fin du film.",
+          "hint": "mourir is irregular in the present.",
+          "errorType": "mourir → il meurt."
+        },
+        {
+          "sentence": "Nous boions du café.",
+          "correct": "Nous buvons du café.",
+          "hint": "boire has nous buvons.",
+          "errorType": "boire → nous buvons."
+        },
+        {
           "sentence": "Vous faisez souvent du sport.",
           "correct": "Vous faites souvent du sport.",
           "hint": "faire with vous is irregular.",
-          "errorType": "faire → vous faites, not vous faisez."
+          "errorType": "faire → vous faites."
+        },
+        {
+          "sentence": "Vous disez la vérité.",
+          "correct": "Vous dites la vérité.",
+          "hint": "dire with vous is irregular.",
+          "errorType": "dire → vous dites."
         },
         {
           "sentence": "Ils allent au parc.",
@@ -488,62 +2644,74 @@
         {
           "sentence": "Nous mangons à midi.",
           "correct": "Nous mangeons à midi.",
-          "hint": "-ger verbs keep the soft g.",
+          "hint": "-ger verbs keep e before -ons.",
           "errorType": "manger → nous mangeons."
-        },
-        {
-          "sentence": "Je prend le métro.",
-          "correct": "Je prends le métro.",
-          "hint": "prendre keeps -s with je/tu.",
-          "errorType": "prendre → je prends."
-        },
-        {
-          "sentence": "Vous disez la vérité.",
-          "correct": "Vous dites la vérité.",
-          "hint": "dire with vous is irregular.",
-          "errorType": "dire → vous dites."
-        },
-        {
-          "sentence": "Ils finisent leurs devoirs.",
-          "correct": "Ils finissent leurs devoirs.",
-          "hint": "regular -ir plural has -iss-.",
-          "errorType": "finir → ils finissent."
         },
         {
           "sentence": "Nous commencons maintenant.",
           "correct": "Nous commençons maintenant.",
-          "hint": "-cer verbs need ç before -ons.",
+          "hint": "-cer verbs use ç before -ons.",
           "errorType": "commencer → nous commençons."
         },
         {
-          "sentence": "Elle peux venir.",
-          "correct": "Elle peut venir.",
-          "hint": "pouvoir: je peux, tu peux, il/elle peut.",
-          "errorType": "pouvoir → elle peut."
+          "sentence": "J’achete du pain.",
+          "correct": "J’achète du pain.",
+          "hint": "acheter changes e → è before silent endings.",
+          "errorType": "acheter → j’achète."
         },
         {
-          "sentence": "Tu est prêt ?",
-          "correct": "Tu es prêt ?",
-          "hint": "être is irregular.",
-          "errorType": "être → tu es."
+          "sentence": "Elle appele son frère.",
+          "correct": "Elle appelle son frère.",
+          "hint": "appeler doubles l before silent endings.",
+          "errorType": "appeler → elle appelle."
         },
         {
-          "sentence": "Ils faisent la cuisine.",
-          "correct": "Ils font la cuisine.",
-          "hint": "faire is irregular.",
-          "errorType": "faire → ils font."
+          "sentence": "Nous prendons le train.",
+          "correct": "Nous prenons le train.",
+          "hint": "prendre family has pren- for nous/vous.",
+          "errorType": "prendre → nous prenons."
         },
         {
-          "sentence": "Je vend mon vélo.",
-          "correct": "Je vends mon vélo.",
-          "hint": "regular -re with je takes -s.",
-          "errorType": "vendre → je vends."
+          "sentence": "Ils mettont la table.",
+          "correct": "Ils mettent la table.",
+          "hint": "mettre has -tt- in plural.",
+          "errorType": "mettre → ils mettent."
         },
         {
-          "sentence": "Vous voiez le problème ?",
-          "correct": "Vous voyez le problème ?",
-          "hint": "voir has voy- with nous/vous.",
-          "errorType": "voir → vous voyez."
+          "sentence": "Nous voions le problème.",
+          "correct": "Nous voyons le problème.",
+          "hint": "voir has voy- for nous/vous.",
+          "errorType": "voir → nous voyons."
+        },
+        {
+          "sentence": "Ils buvent du thé.",
+          "correct": "Ils boivent du thé.",
+          "hint": "boire has ils boivent.",
+          "errorType": "boire → ils boivent."
+        },
+        {
+          "sentence": "Je conais la réponse.",
+          "correct": "Je connais la réponse.",
+          "hint": "connaître has double n in je/tu forms.",
+          "errorType": "connaître → je connais."
+        },
+        {
+          "sentence": "Il receve un message.",
+          "correct": "Il reçoit un message.",
+          "hint": "recevoir: je/tu/il use reçoi-/reçoit.",
+          "errorType": "recevoir → il reçoit."
+        },
+        {
+          "sentence": "Ils pouvont venir.",
+          "correct": "Ils peuvent venir.",
+          "hint": "pouvoir has peuvent in ils/elles.",
+          "errorType": "pouvoir → ils peuvent."
+        },
+        {
+          "sentence": "Tu veuxs un café ?",
+          "correct": "Tu veux un café ?",
+          "hint": "vouloir: je veux, tu veux.",
+          "errorType": "vouloir → tu veux."
         }
       ]
     }

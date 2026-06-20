@@ -1,8 +1,8 @@
 {
   "slug": "french-subjunctive-conjugation",
   "title": "French Subjunctive Conjugation",
-  "description": "Subjonctif présent formation, triggers, irregulars, and indicatif vs subjonctif traps",
-  "questionCount": 68,
+  "description": "Subjonctif présent triggers, regular formation, two-stem verbs, and broad irregular coverage",
+  "questionCount": 88,
   "crashCourse": {
     "title": "Subjonctif présent",
     "subtitle": "Use it after many expressions of need, emotion, doubt, will, and uncertainty — especially after que.",
@@ -31,6 +31,11 @@
         "title": "5) Must-know irregulars",
         "content": "Some verbs are irregular and very common.",
         "tip": "être → sois/soyons/soyez; avoir → aie/ayons/ayez; aller → aille/allions/alliez; faire → fasse/fassions; pouvoir → puisse/puissions; savoir → sache/sachions; vouloir → veuille/voulions/vouliez."
+      },
+      {
+        "title": "More two-stem subjunctive verbs",
+        "content": "Many verbs use the ils present stem for je/tu/il/ils and the nous present stem for nous/vous.",
+        "tip": "boire → que je boive / que nous buvions; venir → que je vienne / que nous venions; prendre → que je prenne / que nous prenions."
       }
     ]
   },
@@ -391,6 +396,182 @@
           ],
           "correct": 1,
           "explanation": "trouver: que nous trouvions."
+        },
+        {
+          "sentence": "Il faut que je ___ plus d’eau. (boire)",
+          "options": [
+            "boive",
+            "bois",
+            "buvais",
+            "boirai"
+          ],
+          "correct": 0,
+          "explanation": "boire subjunctive: que je boive."
+        },
+        {
+          "sentence": "Je veux que nous ___ moins de café. (boire)",
+          "options": [
+            "buvions",
+            "boivions",
+            "buvons",
+            "boirons"
+          ],
+          "correct": 0,
+          "explanation": "boire uses buv- for nous/vous: que nous buvions."
+        },
+        {
+          "sentence": "Il est possible qu’ils ___ bientôt. (recevoir)",
+          "options": [
+            "reçoivent",
+            "reçevissent",
+            "recevront",
+            "reçoivents"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: qu’ils reçoivent."
+        },
+        {
+          "sentence": "Je doute que vous ___ le message. (recevoir)",
+          "options": [
+            "receviez",
+            "reçoiviez",
+            "recevez",
+            "recevrez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir uses recev- for vous: que vous receviez."
+        },
+        {
+          "sentence": "Il faut qu’elle ___ la règle. (connaître)",
+          "options": [
+            "connaisse",
+            "connaît",
+            "connaitra",
+            "connaissait"
+          ],
+          "correct": 0,
+          "explanation": "connaître: qu’elle connaisse."
+        },
+        {
+          "sentence": "Je souhaite que tu ___ ce texte. (lire)",
+          "options": [
+            "lises",
+            "lis",
+            "liras",
+            "lisais"
+          ],
+          "correct": 0,
+          "explanation": "lire: que tu lises."
+        },
+        {
+          "sentence": "Il faut qu’ils ___ clairement. (écrire)",
+          "options": [
+            "écrivent",
+            "écrivissent",
+            "écriront",
+            "écriventent"
+          ],
+          "correct": 0,
+          "explanation": "écrire: qu’ils écrivent."
+        },
+        {
+          "sentence": "Je veux que nous ___ une réponse. (mettre)",
+          "options": [
+            "mettions",
+            "mettons",
+            "mettionss",
+            "mettrons"
+          ],
+          "correct": 0,
+          "explanation": "mettre: que nous mettions."
+        },
+        {
+          "sentence": "Il est important que vous ___ cette phrase. (traduire)",
+          "options": [
+            "traduisiez",
+            "traduisez",
+            "traduiriez",
+            "traduisissez"
+          ],
+          "correct": 0,
+          "explanation": "traduire: que vous traduisiez."
+        },
+        {
+          "sentence": "Je crains qu’il ___ son emploi. (perdre)",
+          "options": [
+            "perde",
+            "perd",
+            "perdra",
+            "perdait"
+          ],
+          "correct": 0,
+          "explanation": "perdre: qu’il perde."
+        },
+        {
+          "sentence": "Il faut que je ___ mes clés. (retrouver)",
+          "options": [
+            "retrouve",
+            "retrouves",
+            "retrouverai",
+            "retrouvais"
+          ],
+          "correct": 0,
+          "explanation": "retrouver: que je retrouve."
+        },
+        {
+          "sentence": "Je suis content qu’elles ___ ensemble. (sortir)",
+          "options": [
+            "sortent",
+            "sortissent",
+            "sortiront",
+            "sortaient"
+          ],
+          "correct": 0,
+          "explanation": "sortir: qu’elles sortent."
+        },
+        {
+          "sentence": "Je veux que tu ___ la porte. (ouvrir)",
+          "options": [
+            "ouvres",
+            "ouvris",
+            "ouvrisses",
+            "ouvriras"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir subjunctive looks like present -er forms: que tu ouvres."
+        },
+        {
+          "sentence": "Il faut que nous ___ à huit heures. (partir)",
+          "options": [
+            "partions",
+            "partons",
+            "partirons",
+            "partissions"
+          ],
+          "correct": 0,
+          "explanation": "partir: que nous partions."
+        },
+        {
+          "sentence": "Je doute qu’ils ___ vite. (courir)",
+          "options": [
+            "courent",
+            "courissent",
+            "courront",
+            "couraient"
+          ],
+          "correct": 0,
+          "explanation": "courir: qu’ils courent."
+        },
+        {
+          "sentence": "Il est possible qu’elle ___ à ce problème. (résoudre)",
+          "options": [
+            "résolve",
+            "résout",
+            "résoudra",
+            "résolvait"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: qu’elle résolve."
         }
       ]
     },
@@ -425,9 +606,9 @@
           "sentence": "Il est clair que nous ___ partir.",
           "options": [
             "devons",
-            "devions",
-            "devrions",
-            "devions"
+            "devez",
+            "devent",
+            "devais"
           ],
           "correct": 0,
           "explanation": "Il est clair que expresses certainty → indicatif."
@@ -435,12 +616,12 @@
         {
           "sentence": "Il est possible que nous ___ partir.",
           "options": [
-            "devons",
             "devions",
-            "devrons",
-            "devions"
+            "devais",
+            "deviez",
+            "devaient"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "Il est possible que triggers subjunctive: que nous devions."
         },
         {
@@ -479,12 +660,12 @@
         {
           "sentence": "J’espère que vous ___ demain.",
           "options": [
-            "venez",
-            "veniez",
             "viendrez",
-            "veniez"
+            "viendrons",
+            "viendrent",
+            "viendriez"
           ],
-          "correct": 2,
+          "correct": 0,
           "explanation": "Espérer que usually takes indicatif/future, not subjunctive."
         },
         {
@@ -741,6 +922,30 @@
           "correct": "Il est nécessaire que vous preniez une décision.",
           "hint": "Necessity triggers subjunctive; prendre has pren- for nous/vous.",
           "errorType": "prendre → que vous preniez."
+        },
+        {
+          "sentence": "Il faut que je bois plus d’eau.",
+          "correct": "Il faut que je boive plus d’eau.",
+          "hint": "boire subjunctive uses boiv- for je/tu/il/ils.",
+          "errorType": "boire → que je boive."
+        },
+        {
+          "sentence": "Je veux que nous boivions moins de café.",
+          "correct": "Je veux que nous buvions moins de café.",
+          "hint": "boire uses buv- for nous/vous subjunctive.",
+          "errorType": "boire → que nous buvions."
+        },
+        {
+          "sentence": "Je doute que vous reçoiviez le message.",
+          "correct": "Je doute que vous receviez le message.",
+          "hint": "recevoir uses recev- for vous subjunctive.",
+          "errorType": "recevoir → que vous receviez."
+        },
+        {
+          "sentence": "Il faut qu’ils écriventent clairement.",
+          "correct": "Il faut qu’ils écrivent clairement.",
+          "hint": "écrire: qu’ils écrivent.",
+          "errorType": "écrire → qu’ils écrivent."
         }
       ]
     }

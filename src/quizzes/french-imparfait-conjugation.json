@@ -1,8 +1,8 @@
 {
   "slug": "french-imparfait-conjugation",
   "title": "French Imparfait Conjugation",
-  "description": "Nous-stem formation, imparfait endings, être exception, and spelling traps",
-  "questionCount": 48,
+  "description": "Nous-stem formation across many verb families, imparfait endings, être exception, and spelling traps",
+  "questionCount": 200,
   "crashCourse": {
     "title": "Imparfait conjugation",
     "subtitle": "Almost everything follows one rule: present nous form minus -ons + imparfait endings.",
@@ -26,6 +26,11 @@
         "title": "-ier verbs",
         "content": "If the stem ends in i, nous/vous have double i.",
         "tip": "étudier → nous étudiions, vous étudiiez."
+      },
+      {
+        "title": "Why present irregulars still matter",
+        "content": "Most imparfait stems come from the present nous form, so present irregulars like boire → nous buvons still affect the stem.",
+        "tip": "boire → je buvais; prendre → je prenais; voir → nous voyions; recevoir → je recevais."
       }
     ]
   },
@@ -39,7 +44,9 @@
           "sentence": "je ___ (parler)",
           "options": [
             "parlais",
-            "parlait"
+            "parlait",
+            "parlions",
+            "parliez"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ais."
@@ -59,8 +66,9 @@
           "sentence": "il/elle/on ___ (vendre)",
           "options": [
             "vendait",
-            "vendions",
-            "vendiez"
+            "vendais",
+            "vendaient",
+            "vendions"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ait."
@@ -69,6 +77,7 @@
           "sentence": "nous ___ (parler)",
           "options": [
             "parlions",
+            "parlais",
             "parliez",
             "parlaient"
           ],
@@ -90,7 +99,9 @@
           "sentence": "ils/elles ___ (vendre)",
           "options": [
             "vendaient",
-            "vendais"
+            "vendait",
+            "vendais",
+            "vendions"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + aient."
@@ -100,7 +111,8 @@
           "options": [
             "parlais",
             "parlait",
-            "parlions"
+            "parlions",
+            "parliez"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ais."
@@ -120,6 +132,7 @@
           "sentence": "nous ___ (vendre)",
           "options": [
             "vendions",
+            "vendais",
             "vendiez",
             "vendaient"
           ],
@@ -130,8 +143,9 @@
           "sentence": "vous ___ (parler)",
           "options": [
             "parliez",
-            "parlaient",
-            "parlais"
+            "parlions",
+            "parlais",
+            "parlaient"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + iez."
@@ -140,8 +154,9 @@
           "sentence": "ils/elles ___ (finir)",
           "options": [
             "finissaient",
+            "finissait",
             "finissais",
-            "finaient"
+            "finissions"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + aient."
@@ -151,7 +166,8 @@
           "options": [
             "prenais",
             "prenait",
-            "prendais"
+            "prenions",
+            "preniez"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + ais."
@@ -160,8 +176,9 @@
           "sentence": "il/elle/on ___ (parler)",
           "options": [
             "parlait",
-            "parlions",
-            "parliez"
+            "parlais",
+            "parlaient",
+            "parlions"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ait."
@@ -181,8 +198,9 @@
           "sentence": "vous ___ (vendre)",
           "options": [
             "vendiez",
-            "vendaient",
-            "vendais"
+            "vendions",
+            "vendais",
+            "vendaient"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + iez."
@@ -191,7 +209,9 @@
           "sentence": "ils/elles ___ (parler)",
           "options": [
             "parlaient",
-            "parlais"
+            "parlait",
+            "parlais",
+            "parlions"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + aient."
@@ -200,7 +220,9 @@
           "sentence": "je ___ (vendre)",
           "options": [
             "vendais",
-            "vendait"
+            "vendait",
+            "vendions",
+            "vendiez"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ais."
@@ -221,7 +243,8 @@
           "options": [
             "finissais",
             "finissait",
-            "finais"
+            "finissions",
+            "finissiez"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + ais."
@@ -231,7 +254,8 @@
           "options": [
             "vendais",
             "vendait",
-            "vendions"
+            "vendions",
+            "vendiez"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ais."
@@ -273,8 +297,9 @@
           "sentence": "ils/elles ___ (prendre)",
           "options": [
             "prenaient",
+            "prenait",
             "prenais",
-            "prendaient"
+            "prenions"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + aient."
@@ -284,7 +309,8 @@
           "options": [
             "faisais",
             "faisait",
-            "faiais"
+            "faisions",
+            "faisiez"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + ais."
@@ -337,8 +363,9 @@
           "sentence": "ils/elles ___ (faire)",
           "options": [
             "faisaient",
+            "faisait",
             "faisais",
-            "faiaient"
+            "faisions"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + aient."
@@ -347,7 +374,9 @@
           "sentence": "je ___ (aller)",
           "options": [
             "allais",
-            "allait"
+            "allait",
+            "allions",
+            "alliez"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ais."
@@ -357,7 +386,8 @@
           "options": [
             "allais",
             "allait",
-            "allions"
+            "allions",
+            "alliez"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ais."
@@ -366,8 +396,9 @@
           "sentence": "il/elle/on ___ (aller)",
           "options": [
             "allait",
-            "allions",
-            "alliez"
+            "allais",
+            "allaient",
+            "allions"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ait."
@@ -376,6 +407,7 @@
           "sentence": "nous ___ (aller)",
           "options": [
             "allions",
+            "allais",
             "alliez",
             "allaient"
           ],
@@ -386,8 +418,9 @@
           "sentence": "vous ___ (aller)",
           "options": [
             "alliez",
-            "allaient",
-            "allais"
+            "allions",
+            "allais",
+            "allaient"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + iez."
@@ -396,10 +429,1596 @@
           "sentence": "ils/elles ___ (aller)",
           "options": [
             "allaient",
-            "allais"
+            "allait",
+            "allais",
+            "allions"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + aient."
+        },
+        {
+          "sentence": "je ___ (boire)",
+          "options": [
+            "buvais",
+            "buvait",
+            "buvions",
+            "buviez"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + ais."
+        },
+        {
+          "sentence": "tu ___ (boire)",
+          "options": [
+            "buvais",
+            "buvait",
+            "buvions",
+            "buviez"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (boire)",
+          "options": [
+            "buvait",
+            "buvions",
+            "boiait",
+            "buvais"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + ait."
+        },
+        {
+          "sentence": "nous ___ (boire)",
+          "options": [
+            "buvions",
+            "buviez",
+            "boiions",
+            "buvais"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + ions."
+        },
+        {
+          "sentence": "vous ___ (boire)",
+          "options": [
+            "buviez",
+            "buvaient",
+            "boiiez",
+            "buvais"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (boire)",
+          "options": [
+            "buvaient",
+            "buvait",
+            "buvais",
+            "buvions"
+          ],
+          "correct": 0,
+          "explanation": "boire: imparfait stem buv- + aient."
+        },
+        {
+          "sentence": "je ___ (croire)",
+          "options": [
+            "croyais",
+            "croyait",
+            "croyions",
+            "croyiez"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + ais."
+        },
+        {
+          "sentence": "tu ___ (croire)",
+          "options": [
+            "croyais",
+            "croyait",
+            "croyions",
+            "croyiez"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (croire)",
+          "options": [
+            "croyait",
+            "croyions",
+            "croiait",
+            "croyais"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + ait."
+        },
+        {
+          "sentence": "nous ___ (croire)",
+          "options": [
+            "croyions",
+            "croyiez",
+            "croiions",
+            "croyais"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + ions."
+        },
+        {
+          "sentence": "vous ___ (croire)",
+          "options": [
+            "croyiez",
+            "croyaient",
+            "croiiez",
+            "croyais"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (croire)",
+          "options": [
+            "croyaient",
+            "croyait",
+            "croyais",
+            "croyions"
+          ],
+          "correct": 0,
+          "explanation": "croire: imparfait stem croy- + aient."
+        },
+        {
+          "sentence": "je ___ (recevoir)",
+          "options": [
+            "recevais",
+            "recevait",
+            "recevions",
+            "receviez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + ais."
+        },
+        {
+          "sentence": "tu ___ (recevoir)",
+          "options": [
+            "recevais",
+            "recevait",
+            "recevions",
+            "receviez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (recevoir)",
+          "options": [
+            "recevait",
+            "recevais",
+            "recevaient",
+            "recevions"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + ait."
+        },
+        {
+          "sentence": "nous ___ (recevoir)",
+          "options": [
+            "recevions",
+            "recevais",
+            "receviez",
+            "recevaient"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + ions."
+        },
+        {
+          "sentence": "vous ___ (recevoir)",
+          "options": [
+            "receviez",
+            "recevions",
+            "recevais",
+            "recevaient"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (recevoir)",
+          "options": [
+            "recevaient",
+            "recevait",
+            "recevais",
+            "recevions"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: imparfait stem recev- + aient."
+        },
+        {
+          "sentence": "je ___ (devoir)",
+          "options": [
+            "devais",
+            "devait",
+            "devions",
+            "deviez"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + ais."
+        },
+        {
+          "sentence": "tu ___ (devoir)",
+          "options": [
+            "devais",
+            "devait",
+            "devions",
+            "deviez"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (devoir)",
+          "options": [
+            "devait",
+            "devais",
+            "devaient",
+            "devions"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + ait."
+        },
+        {
+          "sentence": "nous ___ (devoir)",
+          "options": [
+            "devions",
+            "devais",
+            "deviez",
+            "devaient"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + ions."
+        },
+        {
+          "sentence": "vous ___ (devoir)",
+          "options": [
+            "deviez",
+            "devions",
+            "devais",
+            "devaient"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (devoir)",
+          "options": [
+            "devaient",
+            "devait",
+            "devais",
+            "devions"
+          ],
+          "correct": 0,
+          "explanation": "devoir: imparfait stem dev- + aient."
+        },
+        {
+          "sentence": "je ___ (pouvoir)",
+          "options": [
+            "pouvais",
+            "pouvait",
+            "pouvions",
+            "pouviez"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + ais."
+        },
+        {
+          "sentence": "tu ___ (pouvoir)",
+          "options": [
+            "pouvais",
+            "pouvait",
+            "pouvions",
+            "pouviez"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (pouvoir)",
+          "options": [
+            "pouvait",
+            "pouvais",
+            "pouvaient",
+            "pouvions"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + ait."
+        },
+        {
+          "sentence": "nous ___ (pouvoir)",
+          "options": [
+            "pouvions",
+            "pouvais",
+            "pouviez",
+            "pouvaient"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + ions."
+        },
+        {
+          "sentence": "vous ___ (pouvoir)",
+          "options": [
+            "pouviez",
+            "pouvions",
+            "pouvais",
+            "pouvaient"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (pouvoir)",
+          "options": [
+            "pouvaient",
+            "pouvait",
+            "pouvais",
+            "pouvions"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir: imparfait stem pouv- + aient."
+        },
+        {
+          "sentence": "je ___ (savoir)",
+          "options": [
+            "savais",
+            "savait",
+            "savions",
+            "saviez"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + ais."
+        },
+        {
+          "sentence": "tu ___ (savoir)",
+          "options": [
+            "savais",
+            "savait",
+            "savions",
+            "saviez"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (savoir)",
+          "options": [
+            "savait",
+            "savais",
+            "savaient",
+            "savions"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + ait."
+        },
+        {
+          "sentence": "nous ___ (savoir)",
+          "options": [
+            "savions",
+            "savais",
+            "saviez",
+            "savaient"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + ions."
+        },
+        {
+          "sentence": "vous ___ (savoir)",
+          "options": [
+            "saviez",
+            "savions",
+            "savais",
+            "savaient"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (savoir)",
+          "options": [
+            "savaient",
+            "savait",
+            "savais",
+            "savions"
+          ],
+          "correct": 0,
+          "explanation": "savoir: imparfait stem sav- + aient."
+        },
+        {
+          "sentence": "je ___ (vouloir)",
+          "options": [
+            "voulais",
+            "voulait",
+            "voulions",
+            "vouliez"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + ais."
+        },
+        {
+          "sentence": "tu ___ (vouloir)",
+          "options": [
+            "voulais",
+            "voulait",
+            "voulions",
+            "vouliez"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (vouloir)",
+          "options": [
+            "voulait",
+            "voulais",
+            "voulaient",
+            "voulions"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + ait."
+        },
+        {
+          "sentence": "nous ___ (vouloir)",
+          "options": [
+            "voulions",
+            "voulais",
+            "vouliez",
+            "voulaient"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + ions."
+        },
+        {
+          "sentence": "vous ___ (vouloir)",
+          "options": [
+            "vouliez",
+            "voulions",
+            "voulais",
+            "voulaient"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (vouloir)",
+          "options": [
+            "voulaient",
+            "voulait",
+            "voulais",
+            "voulions"
+          ],
+          "correct": 0,
+          "explanation": "vouloir: imparfait stem voul- + aient."
+        },
+        {
+          "sentence": "je ___ (tenir)",
+          "options": [
+            "tenais",
+            "tenait",
+            "tenions",
+            "teniez"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + ais."
+        },
+        {
+          "sentence": "tu ___ (tenir)",
+          "options": [
+            "tenais",
+            "tenait",
+            "tenions",
+            "teniez"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (tenir)",
+          "options": [
+            "tenait",
+            "tenais",
+            "tenaient",
+            "tenions"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + ait."
+        },
+        {
+          "sentence": "nous ___ (tenir)",
+          "options": [
+            "tenions",
+            "tenais",
+            "teniez",
+            "tenaient"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + ions."
+        },
+        {
+          "sentence": "vous ___ (tenir)",
+          "options": [
+            "teniez",
+            "tenions",
+            "tenais",
+            "tenaient"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (tenir)",
+          "options": [
+            "tenaient",
+            "tenait",
+            "tenais",
+            "tenions"
+          ],
+          "correct": 0,
+          "explanation": "tenir: imparfait stem ten- + aient."
+        },
+        {
+          "sentence": "je ___ (venir)",
+          "options": [
+            "venais",
+            "venait",
+            "venions",
+            "veniez"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + ais."
+        },
+        {
+          "sentence": "tu ___ (venir)",
+          "options": [
+            "venais",
+            "venait",
+            "venions",
+            "veniez"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (venir)",
+          "options": [
+            "venait",
+            "venais",
+            "venaient",
+            "venions"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + ait."
+        },
+        {
+          "sentence": "nous ___ (venir)",
+          "options": [
+            "venions",
+            "venais",
+            "veniez",
+            "venaient"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + ions."
+        },
+        {
+          "sentence": "vous ___ (venir)",
+          "options": [
+            "veniez",
+            "venions",
+            "venais",
+            "venaient"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (venir)",
+          "options": [
+            "venaient",
+            "venait",
+            "venais",
+            "venions"
+          ],
+          "correct": 0,
+          "explanation": "venir: imparfait stem ven- + aient."
+        },
+        {
+          "sentence": "je ___ (devenir)",
+          "options": [
+            "devenais",
+            "devenait",
+            "devenions",
+            "deveniez"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + ais."
+        },
+        {
+          "sentence": "tu ___ (devenir)",
+          "options": [
+            "devenais",
+            "devenait",
+            "devenions",
+            "deveniez"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (devenir)",
+          "options": [
+            "devenait",
+            "devenais",
+            "devenaient",
+            "devenions"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + ait."
+        },
+        {
+          "sentence": "nous ___ (devenir)",
+          "options": [
+            "devenions",
+            "devenais",
+            "deveniez",
+            "devenaient"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + ions."
+        },
+        {
+          "sentence": "vous ___ (devenir)",
+          "options": [
+            "deveniez",
+            "devenions",
+            "devenais",
+            "devenaient"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (devenir)",
+          "options": [
+            "devenaient",
+            "devenait",
+            "devenais",
+            "devenions"
+          ],
+          "correct": 0,
+          "explanation": "devenir: imparfait stem deven- + aient."
+        },
+        {
+          "sentence": "je ___ (sortir)",
+          "options": [
+            "sortais",
+            "sortait",
+            "sortions",
+            "sortiez"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + ais."
+        },
+        {
+          "sentence": "tu ___ (sortir)",
+          "options": [
+            "sortais",
+            "sortait",
+            "sortions",
+            "sortiez"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (sortir)",
+          "options": [
+            "sortait",
+            "sortais",
+            "sortaient",
+            "sortions"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + ait."
+        },
+        {
+          "sentence": "nous ___ (sortir)",
+          "options": [
+            "sortions",
+            "sortais",
+            "sortiez",
+            "sortaient"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + ions."
+        },
+        {
+          "sentence": "vous ___ (sortir)",
+          "options": [
+            "sortiez",
+            "sortions",
+            "sortais",
+            "sortaient"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (sortir)",
+          "options": [
+            "sortaient",
+            "sortait",
+            "sortais",
+            "sortions"
+          ],
+          "correct": 0,
+          "explanation": "sortir: imparfait stem sort- + aient."
+        },
+        {
+          "sentence": "je ___ (dormir)",
+          "options": [
+            "dormais",
+            "dormait",
+            "dormions",
+            "dormiez"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + ais."
+        },
+        {
+          "sentence": "tu ___ (dormir)",
+          "options": [
+            "dormais",
+            "dormait",
+            "dormions",
+            "dormiez"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (dormir)",
+          "options": [
+            "dormait",
+            "dormais",
+            "dormaient",
+            "dormions"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + ait."
+        },
+        {
+          "sentence": "nous ___ (dormir)",
+          "options": [
+            "dormions",
+            "dormais",
+            "dormiez",
+            "dormaient"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + ions."
+        },
+        {
+          "sentence": "vous ___ (dormir)",
+          "options": [
+            "dormiez",
+            "dormions",
+            "dormais",
+            "dormaient"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (dormir)",
+          "options": [
+            "dormaient",
+            "dormait",
+            "dormais",
+            "dormions"
+          ],
+          "correct": 0,
+          "explanation": "dormir: imparfait stem dorm- + aient."
+        },
+        {
+          "sentence": "je ___ (servir)",
+          "options": [
+            "servais",
+            "servait",
+            "servions",
+            "serviez"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + ais."
+        },
+        {
+          "sentence": "tu ___ (servir)",
+          "options": [
+            "servais",
+            "servait",
+            "servions",
+            "serviez"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (servir)",
+          "options": [
+            "servait",
+            "servais",
+            "servaient",
+            "servions"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + ait."
+        },
+        {
+          "sentence": "nous ___ (servir)",
+          "options": [
+            "servions",
+            "servais",
+            "serviez",
+            "servaient"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + ions."
+        },
+        {
+          "sentence": "vous ___ (servir)",
+          "options": [
+            "serviez",
+            "servions",
+            "servais",
+            "servaient"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (servir)",
+          "options": [
+            "servaient",
+            "servait",
+            "servais",
+            "servions"
+          ],
+          "correct": 0,
+          "explanation": "servir: imparfait stem serv- + aient."
+        },
+        {
+          "sentence": "j’ ___ (ouvrir)",
+          "options": [
+            "ouvrais",
+            "ouvrait",
+            "ouvrions",
+            "ouvriez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + ais."
+        },
+        {
+          "sentence": "tu ___ (ouvrir)",
+          "options": [
+            "ouvrais",
+            "ouvrait",
+            "ouvrions",
+            "ouvriez"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (ouvrir)",
+          "options": [
+            "ouvrait",
+            "ouvrais",
+            "ouvraient",
+            "ouvrions"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + ait."
+        },
+        {
+          "sentence": "nous ___ (ouvrir)",
+          "options": [
+            "ouvrions",
+            "ouvrais",
+            "ouvriez",
+            "ouvraient"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + ions."
+        },
+        {
+          "sentence": "vous ___ (ouvrir)",
+          "options": [
+            "ouvriez",
+            "ouvrions",
+            "ouvrais",
+            "ouvraient"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (ouvrir)",
+          "options": [
+            "ouvraient",
+            "ouvrait",
+            "ouvrais",
+            "ouvrions"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir: imparfait stem ouvr- + aient."
+        },
+        {
+          "sentence": "je ___ (courir)",
+          "options": [
+            "courais",
+            "courait",
+            "courions",
+            "couriez"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + ais."
+        },
+        {
+          "sentence": "tu ___ (courir)",
+          "options": [
+            "courais",
+            "courait",
+            "courions",
+            "couriez"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (courir)",
+          "options": [
+            "courait",
+            "courais",
+            "couraient",
+            "courions"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + ait."
+        },
+        {
+          "sentence": "nous ___ (courir)",
+          "options": [
+            "courions",
+            "courais",
+            "couriez",
+            "couraient"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + ions."
+        },
+        {
+          "sentence": "vous ___ (courir)",
+          "options": [
+            "couriez",
+            "courions",
+            "courais",
+            "couraient"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (courir)",
+          "options": [
+            "couraient",
+            "courait",
+            "courais",
+            "courions"
+          ],
+          "correct": 0,
+          "explanation": "courir: imparfait stem cour- + aient."
+        },
+        {
+          "sentence": "je ___ (mourir)",
+          "options": [
+            "mourais",
+            "mourait",
+            "mourions",
+            "mouriez"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + ais."
+        },
+        {
+          "sentence": "tu ___ (mourir)",
+          "options": [
+            "mourais",
+            "mourait",
+            "mourions",
+            "mouriez"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (mourir)",
+          "options": [
+            "mourait",
+            "mourais",
+            "mouraient",
+            "mourions"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + ait."
+        },
+        {
+          "sentence": "nous ___ (mourir)",
+          "options": [
+            "mourions",
+            "mourais",
+            "mouriez",
+            "mouraient"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + ions."
+        },
+        {
+          "sentence": "vous ___ (mourir)",
+          "options": [
+            "mouriez",
+            "mourions",
+            "mourais",
+            "mouraient"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (mourir)",
+          "options": [
+            "mouraient",
+            "mourait",
+            "mourais",
+            "mourions"
+          ],
+          "correct": 0,
+          "explanation": "mourir: imparfait stem mour- + aient."
+        },
+        {
+          "sentence": "je ___ (fuir)",
+          "options": [
+            "fuyais",
+            "fuyait",
+            "fuyions",
+            "fuyiez"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + ais."
+        },
+        {
+          "sentence": "tu ___ (fuir)",
+          "options": [
+            "fuyais",
+            "fuyait",
+            "fuyions",
+            "fuyiez"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (fuir)",
+          "options": [
+            "fuyait",
+            "fuyions",
+            "fuait",
+            "fuyais"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + ait."
+        },
+        {
+          "sentence": "nous ___ (fuir)",
+          "options": [
+            "fuyions",
+            "fuyiez",
+            "fuions",
+            "fuyais"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + ions."
+        },
+        {
+          "sentence": "vous ___ (fuir)",
+          "options": [
+            "fuyiez",
+            "fuyaient",
+            "fuiez",
+            "fuyais"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (fuir)",
+          "options": [
+            "fuyaient",
+            "fuyait",
+            "fuyais",
+            "fuyions"
+          ],
+          "correct": 0,
+          "explanation": "fuir: imparfait stem fuy- + aient."
+        },
+        {
+          "sentence": "je ___ (mettre)",
+          "options": [
+            "mettais",
+            "mettait",
+            "mettions",
+            "mettiez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + ais."
+        },
+        {
+          "sentence": "tu ___ (mettre)",
+          "options": [
+            "mettais",
+            "mettait",
+            "mettions",
+            "mettiez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (mettre)",
+          "options": [
+            "mettait",
+            "mettais",
+            "mettaient",
+            "mettions"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + ait."
+        },
+        {
+          "sentence": "nous ___ (mettre)",
+          "options": [
+            "mettions",
+            "mettais",
+            "mettiez",
+            "mettaient"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + ions."
+        },
+        {
+          "sentence": "vous ___ (mettre)",
+          "options": [
+            "mettiez",
+            "mettions",
+            "mettais",
+            "mettaient"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (mettre)",
+          "options": [
+            "mettaient",
+            "mettait",
+            "mettais",
+            "mettions"
+          ],
+          "correct": 0,
+          "explanation": "mettre: imparfait stem mett- + aient."
+        },
+        {
+          "sentence": "j’ ___ (écrire)",
+          "options": [
+            "écrivais",
+            "écrivait",
+            "écrivions",
+            "écriviez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + ais."
+        },
+        {
+          "sentence": "tu ___ (écrire)",
+          "options": [
+            "écrivais",
+            "écrivait",
+            "écrivions",
+            "écriviez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (écrire)",
+          "options": [
+            "écrivait",
+            "écrivions",
+            "écriait",
+            "écrivais"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + ait."
+        },
+        {
+          "sentence": "nous ___ (écrire)",
+          "options": [
+            "écrivions",
+            "écriviez",
+            "écriions",
+            "écrivais"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + ions."
+        },
+        {
+          "sentence": "vous ___ (écrire)",
+          "options": [
+            "écriviez",
+            "écrivaient",
+            "écriiez",
+            "écrivais"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (écrire)",
+          "options": [
+            "écrivaient",
+            "écrivait",
+            "écrivais",
+            "écrivions"
+          ],
+          "correct": 0,
+          "explanation": "écrire: imparfait stem écriv- + aient."
+        },
+        {
+          "sentence": "je ___ (lire)",
+          "options": [
+            "lisais",
+            "lisait",
+            "lisions",
+            "lisiez"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + ais."
+        },
+        {
+          "sentence": "tu ___ (lire)",
+          "options": [
+            "lisais",
+            "lisait",
+            "lisions",
+            "lisiez"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (lire)",
+          "options": [
+            "lisait",
+            "lisions",
+            "liait",
+            "lisais"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + ait."
+        },
+        {
+          "sentence": "nous ___ (lire)",
+          "options": [
+            "lisions",
+            "lisiez",
+            "liions",
+            "lisais"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + ions."
+        },
+        {
+          "sentence": "vous ___ (lire)",
+          "options": [
+            "lisiez",
+            "lisaient",
+            "liiez",
+            "lisais"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (lire)",
+          "options": [
+            "lisaient",
+            "lisait",
+            "lisais",
+            "lisions"
+          ],
+          "correct": 0,
+          "explanation": "lire: imparfait stem lis- + aient."
+        },
+        {
+          "sentence": "je ___ (connaître)",
+          "options": [
+            "connaissais",
+            "connaissait",
+            "connaissions",
+            "connaissiez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + ais."
+        },
+        {
+          "sentence": "tu ___ (connaître)",
+          "options": [
+            "connaissais",
+            "connaissait",
+            "connaissions",
+            "connaissiez"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (connaître)",
+          "options": [
+            "connaissait",
+            "connaissions",
+            "connaîtait",
+            "connaissais"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + ait."
+        },
+        {
+          "sentence": "nous ___ (connaître)",
+          "options": [
+            "connaissions",
+            "connaissiez",
+            "connaîtions",
+            "connaissais"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + ions."
+        },
+        {
+          "sentence": "vous ___ (connaître)",
+          "options": [
+            "connaissiez",
+            "connaissaient",
+            "connaîtiez",
+            "connaissais"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (connaître)",
+          "options": [
+            "connaissaient",
+            "connaissait",
+            "connaissais",
+            "connaissions"
+          ],
+          "correct": 0,
+          "explanation": "connaître: imparfait stem connaiss- + aient."
+        },
+        {
+          "sentence": "je ___ (conduire)",
+          "options": [
+            "conduisais",
+            "conduisait",
+            "conduisions",
+            "conduisiez"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + ais."
+        },
+        {
+          "sentence": "tu ___ (conduire)",
+          "options": [
+            "conduisais",
+            "conduisait",
+            "conduisions",
+            "conduisiez"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (conduire)",
+          "options": [
+            "conduisait",
+            "conduisions",
+            "conduiait",
+            "conduisais"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + ait."
+        },
+        {
+          "sentence": "nous ___ (conduire)",
+          "options": [
+            "conduisions",
+            "conduisiez",
+            "conduiions",
+            "conduisais"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + ions."
+        },
+        {
+          "sentence": "vous ___ (conduire)",
+          "options": [
+            "conduisiez",
+            "conduisaient",
+            "conduiiez",
+            "conduisais"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (conduire)",
+          "options": [
+            "conduisaient",
+            "conduisait",
+            "conduisais",
+            "conduisions"
+          ],
+          "correct": 0,
+          "explanation": "conduire: imparfait stem conduis- + aient."
+        },
+        {
+          "sentence": "je ___ (traduire)",
+          "options": [
+            "traduisais",
+            "traduisait",
+            "traduisions",
+            "traduisiez"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + ais."
+        },
+        {
+          "sentence": "tu ___ (traduire)",
+          "options": [
+            "traduisais",
+            "traduisait",
+            "traduisions",
+            "traduisiez"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (traduire)",
+          "options": [
+            "traduisait",
+            "traduisions",
+            "traduiait",
+            "traduisais"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + ait."
+        },
+        {
+          "sentence": "nous ___ (traduire)",
+          "options": [
+            "traduisions",
+            "traduisiez",
+            "traduiions",
+            "traduisais"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + ions."
+        },
+        {
+          "sentence": "vous ___ (traduire)",
+          "options": [
+            "traduisiez",
+            "traduisaient",
+            "traduiiez",
+            "traduisais"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (traduire)",
+          "options": [
+            "traduisaient",
+            "traduisait",
+            "traduisais",
+            "traduisions"
+          ],
+          "correct": 0,
+          "explanation": "traduire: imparfait stem traduis- + aient."
+        },
+        {
+          "sentence": "je ___ (résoudre)",
+          "options": [
+            "résolvais",
+            "résolvait",
+            "résolvions",
+            "résolviez"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + ais."
+        },
+        {
+          "sentence": "tu ___ (résoudre)",
+          "options": [
+            "résolvais",
+            "résolvait",
+            "résolvions",
+            "résolviez"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (résoudre)",
+          "options": [
+            "résolvait",
+            "résolvions",
+            "résoudait",
+            "résolvais"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + ait."
+        },
+        {
+          "sentence": "nous ___ (résoudre)",
+          "options": [
+            "résolvions",
+            "résolviez",
+            "résoudions",
+            "résolvais"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + ions."
+        },
+        {
+          "sentence": "vous ___ (résoudre)",
+          "options": [
+            "résolviez",
+            "résolvaient",
+            "résoudiez",
+            "résolvais"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (résoudre)",
+          "options": [
+            "résolvaient",
+            "résolvait",
+            "résolvais",
+            "résolvions"
+          ],
+          "correct": 0,
+          "explanation": "résoudre: imparfait stem résolv- + aient."
         }
       ]
     },
@@ -479,6 +2098,54 @@
           "correct": "Elle voulait partir, mais elle ne pouvait pas.",
           "hint": "Use the elle ending -ait for both verbs.",
           "errorType": "vouloir/pouvoir with elle → voulait / pouvait."
+        },
+        {
+          "sentence": "Je boiais du café.",
+          "correct": "Je buvais du café.",
+          "hint": "boire uses nous buvons → buv-.",
+          "errorType": "boire → je buvais."
+        },
+        {
+          "sentence": "Nous voions souvent nos cousins.",
+          "correct": "Nous voyions souvent nos cousins.",
+          "hint": "voir uses nous voyons → voy-.",
+          "errorType": "voir → nous voyions."
+        },
+        {
+          "sentence": "Tu recevois un message chaque semaine.",
+          "correct": "Tu recevais un message chaque semaine.",
+          "hint": "recevoir uses recev-.",
+          "errorType": "recevoir → tu recevais."
+        },
+        {
+          "sentence": "Ils ouvrissaient la porte tous les matins.",
+          "correct": "Ils ouvraient la porte tous les matins.",
+          "hint": "ouvrir stem is ouvr-.",
+          "errorType": "ouvrir → ils ouvraient."
+        },
+        {
+          "sentence": "Elle courrait au parc chaque jour.",
+          "correct": "Elle courait au parc chaque jour.",
+          "hint": "courir imparfait stem is cour-.",
+          "errorType": "courir → elle courait."
+        },
+        {
+          "sentence": "Nous fuions le bruit.",
+          "correct": "Nous fuyions le bruit.",
+          "hint": "fuir uses fuy- in imparfait.",
+          "errorType": "fuir → nous fuyions."
+        },
+        {
+          "sentence": "Vous écrisiez souvent.",
+          "correct": "Vous écriviez souvent.",
+          "hint": "écrire uses écriv-.",
+          "errorType": "écrire → vous écriviez."
+        },
+        {
+          "sentence": "Ils connaissait la ville.",
+          "correct": "Ils connaissaient la ville.",
+          "hint": "connaître stem connaiss- + aient.",
+          "errorType": "connaître → ils connaissaient."
         }
       ]
     }

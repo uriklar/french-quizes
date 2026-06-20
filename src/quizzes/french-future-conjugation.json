@@ -1,8 +1,8 @@
 {
   "slug": "french-future-conjugation",
   "title": "French Futur Simple Conjugation",
-  "description": "Future endings, regular stems, -re stems, and common irregular future stems",
-  "questionCount": 48,
+  "description": "Regular future endings, regular stems, spelling-change stems, and a broad set of irregular future stems",
+  "questionCount": 166,
   "crashCourse": {
     "title": "Futur simple",
     "subtitle": "One set of endings for every verb; some verbs use an irregular stem.",
@@ -26,6 +26,11 @@
         "title": "Irregular stems",
         "content": "The endings stay regular, but the stem changes.",
         "tip": "être → ser-, avoir → aur-, aller → ir-, faire → fer-, voir → verr-, pouvoir → pourr-, vouloir → voudr-, venir → viendr-."
+      },
+      {
+        "title": "More irregular stems to know",
+        "content": "Some common future stems are not obvious but remain stable for every subject.",
+        "tip": "recevoir → recevr-, courir → courr-, mourir → mourr-, envoyer → enverr-, falloir → faudr-, pleuvoir → pleuvr-, valoir → vaudr-, acquérir → acquerr-."
       }
     ]
   },
@@ -430,6 +435,1216 @@
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + ont."
+        },
+        {
+          "sentence": "je ___ (revenir)",
+          "options": [
+            "reviendrai",
+            "revenirai",
+            "reviendras",
+            "reviendai"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + ai."
+        },
+        {
+          "sentence": "tu ___ (revenir)",
+          "options": [
+            "reviendras",
+            "reveniras",
+            "reviendra",
+            "reviendas"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (revenir)",
+          "options": [
+            "reviendra",
+            "revenira",
+            "reviendrons",
+            "revienda"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + a."
+        },
+        {
+          "sentence": "nous ___ (revenir)",
+          "options": [
+            "reviendrons",
+            "revenirons",
+            "reviendrez",
+            "reviendons"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (revenir)",
+          "options": [
+            "reviendrez",
+            "revenirez",
+            "reviendront",
+            "reviendez"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (revenir)",
+          "options": [
+            "reviendront",
+            "reveniront",
+            "reviendrai",
+            "reviendont"
+          ],
+          "correct": 0,
+          "explanation": "revenir: future stem reviendr- + ont."
+        },
+        {
+          "sentence": "je ___ (devenir)",
+          "options": [
+            "deviendrai",
+            "devenirai",
+            "deviendras",
+            "deviendai"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + ai."
+        },
+        {
+          "sentence": "tu ___ (devenir)",
+          "options": [
+            "deviendras",
+            "deveniras",
+            "deviendra",
+            "deviendas"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (devenir)",
+          "options": [
+            "deviendra",
+            "devenira",
+            "deviendrons",
+            "devienda"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + a."
+        },
+        {
+          "sentence": "nous ___ (devenir)",
+          "options": [
+            "deviendrons",
+            "devenirons",
+            "deviendrez",
+            "deviendons"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (devenir)",
+          "options": [
+            "deviendrez",
+            "devenirez",
+            "deviendront",
+            "deviendez"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (devenir)",
+          "options": [
+            "deviendront",
+            "deveniront",
+            "deviendrai",
+            "deviendont"
+          ],
+          "correct": 0,
+          "explanation": "devenir: future stem deviendr- + ont."
+        },
+        {
+          "sentence": "j’ ___ (obtenir)",
+          "options": [
+            "obtiendrai",
+            "obtenirai",
+            "obtiendras",
+            "obtiendai"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + ai."
+        },
+        {
+          "sentence": "tu ___ (obtenir)",
+          "options": [
+            "obtiendras",
+            "obteniras",
+            "obtiendra",
+            "obtiendas"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (obtenir)",
+          "options": [
+            "obtiendra",
+            "obtenira",
+            "obtiendrons",
+            "obtienda"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + a."
+        },
+        {
+          "sentence": "nous ___ (obtenir)",
+          "options": [
+            "obtiendrons",
+            "obtenirons",
+            "obtiendrez",
+            "obtiendons"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (obtenir)",
+          "options": [
+            "obtiendrez",
+            "obtenirez",
+            "obtiendront",
+            "obtiendez"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (obtenir)",
+          "options": [
+            "obtiendront",
+            "obteniront",
+            "obtiendrai",
+            "obtiendont"
+          ],
+          "correct": 0,
+          "explanation": "obtenir: future stem obtiendr- + ont."
+        },
+        {
+          "sentence": "je ___ (recevoir)",
+          "options": [
+            "recevrai",
+            "recevoirai",
+            "recevras",
+            "recevai"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + ai."
+        },
+        {
+          "sentence": "tu ___ (recevoir)",
+          "options": [
+            "recevras",
+            "recevoiras",
+            "recevra",
+            "recevas"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (recevoir)",
+          "options": [
+            "recevra",
+            "recevoira",
+            "recevrons",
+            "receva"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + a."
+        },
+        {
+          "sentence": "nous ___ (recevoir)",
+          "options": [
+            "recevrons",
+            "recevoirons",
+            "recevrez",
+            "recevons"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + ons."
+        },
+        {
+          "sentence": "vous ___ (recevoir)",
+          "options": [
+            "recevrez",
+            "recevoirez",
+            "recevront",
+            "recevez"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (recevoir)",
+          "options": [
+            "recevront",
+            "recevoiront",
+            "recevrai",
+            "recevont"
+          ],
+          "correct": 0,
+          "explanation": "recevoir: future stem recevr- + ont."
+        },
+        {
+          "sentence": "je ___ (décevoir)",
+          "options": [
+            "décevrai",
+            "décevoirai",
+            "décevras",
+            "décevai"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + ai."
+        },
+        {
+          "sentence": "tu ___ (décevoir)",
+          "options": [
+            "décevras",
+            "décevoiras",
+            "décevra",
+            "décevas"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (décevoir)",
+          "options": [
+            "décevra",
+            "décevoira",
+            "décevrons",
+            "déceva"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + a."
+        },
+        {
+          "sentence": "nous ___ (décevoir)",
+          "options": [
+            "décevrons",
+            "décevoirons",
+            "décevrez",
+            "décevons"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + ons."
+        },
+        {
+          "sentence": "vous ___ (décevoir)",
+          "options": [
+            "décevrez",
+            "décevoirez",
+            "décevront",
+            "décevez"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (décevoir)",
+          "options": [
+            "décevront",
+            "décevoiront",
+            "décevrai",
+            "décevont"
+          ],
+          "correct": 0,
+          "explanation": "décevoir: future stem décevr- + ont."
+        },
+        {
+          "sentence": "je ___ (courir)",
+          "options": [
+            "courrai",
+            "courirai",
+            "courras",
+            "courai"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + ai."
+        },
+        {
+          "sentence": "tu ___ (courir)",
+          "options": [
+            "courras",
+            "couriras",
+            "courra",
+            "couras"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (courir)",
+          "options": [
+            "courra",
+            "courira",
+            "courrons",
+            "coura"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + a."
+        },
+        {
+          "sentence": "nous ___ (courir)",
+          "options": [
+            "courrons",
+            "courirons",
+            "courrez",
+            "courons"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + ons."
+        },
+        {
+          "sentence": "vous ___ (courir)",
+          "options": [
+            "courrez",
+            "courirez",
+            "courront",
+            "courez"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (courir)",
+          "options": [
+            "courront",
+            "couriront",
+            "courrai",
+            "couront"
+          ],
+          "correct": 0,
+          "explanation": "courir: future stem courr- + ont."
+        },
+        {
+          "sentence": "je ___ (mourir)",
+          "options": [
+            "mourrai",
+            "mourirai",
+            "mourras",
+            "mourai"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + ai."
+        },
+        {
+          "sentence": "tu ___ (mourir)",
+          "options": [
+            "mourras",
+            "mouriras",
+            "mourra",
+            "mouras"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (mourir)",
+          "options": [
+            "mourra",
+            "mourira",
+            "mourrons",
+            "moura"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + a."
+        },
+        {
+          "sentence": "nous ___ (mourir)",
+          "options": [
+            "mourrons",
+            "mourirons",
+            "mourrez",
+            "mourons"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + ons."
+        },
+        {
+          "sentence": "vous ___ (mourir)",
+          "options": [
+            "mourrez",
+            "mourirez",
+            "mourront",
+            "mourez"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (mourir)",
+          "options": [
+            "mourront",
+            "mouriront",
+            "mourrai",
+            "mouront"
+          ],
+          "correct": 0,
+          "explanation": "mourir: future stem mourr- + ont."
+        },
+        {
+          "sentence": "j’ ___ (envoyer)",
+          "options": [
+            "enverrai",
+            "envoyerai",
+            "enverras",
+            "enverai"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + ai."
+        },
+        {
+          "sentence": "tu ___ (envoyer)",
+          "options": [
+            "enverras",
+            "envoyeras",
+            "enverra",
+            "enveras"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (envoyer)",
+          "options": [
+            "enverra",
+            "envoyera",
+            "enverrons",
+            "envera"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + a."
+        },
+        {
+          "sentence": "nous ___ (envoyer)",
+          "options": [
+            "enverrons",
+            "envoyerons",
+            "enverrez",
+            "enverons"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + ons."
+        },
+        {
+          "sentence": "vous ___ (envoyer)",
+          "options": [
+            "enverrez",
+            "envoyerez",
+            "enverront",
+            "enverez"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (envoyer)",
+          "options": [
+            "enverront",
+            "envoyeront",
+            "enverrai",
+            "enveront"
+          ],
+          "correct": 0,
+          "explanation": "envoyer: future stem enverr- + ont."
+        },
+        {
+          "sentence": "je ___ (renvoyer)",
+          "options": [
+            "renverrai",
+            "renvoyerai",
+            "renverras",
+            "renverai"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + ai."
+        },
+        {
+          "sentence": "tu ___ (renvoyer)",
+          "options": [
+            "renverras",
+            "renvoyeras",
+            "renverra",
+            "renveras"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (renvoyer)",
+          "options": [
+            "renverra",
+            "renvoyera",
+            "renverrons",
+            "renvera"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + a."
+        },
+        {
+          "sentence": "nous ___ (renvoyer)",
+          "options": [
+            "renverrons",
+            "renvoyerons",
+            "renverrez",
+            "renverons"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + ons."
+        },
+        {
+          "sentence": "vous ___ (renvoyer)",
+          "options": [
+            "renverrez",
+            "renvoyerez",
+            "renverront",
+            "renverez"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (renvoyer)",
+          "options": [
+            "renverront",
+            "renvoyeront",
+            "renverrai",
+            "renveront"
+          ],
+          "correct": 0,
+          "explanation": "renvoyer: future stem renverr- + ont."
+        },
+        {
+          "sentence": "il/elle/on ___ (falloir)",
+          "options": [
+            "faudra",
+            "falloira",
+            "faudrons",
+            "fauda"
+          ],
+          "correct": 0,
+          "explanation": "falloir: future stem faudr- + a."
+        },
+        {
+          "sentence": "il/elle/on ___ (pleuvoir)",
+          "options": [
+            "pleuvra",
+            "pleuvoira",
+            "pleuvrons",
+            "pleuva"
+          ],
+          "correct": 0,
+          "explanation": "pleuvoir: future stem pleuvr- + a."
+        },
+        {
+          "sentence": "je ___ (valoir)",
+          "options": [
+            "vaudrai",
+            "valoirai",
+            "vaudras",
+            "vaudai"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + ai."
+        },
+        {
+          "sentence": "tu ___ (valoir)",
+          "options": [
+            "vaudras",
+            "valoiras",
+            "vaudra",
+            "vaudas"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (valoir)",
+          "options": [
+            "vaudra",
+            "valoira",
+            "vaudrons",
+            "vauda"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + a."
+        },
+        {
+          "sentence": "nous ___ (valoir)",
+          "options": [
+            "vaudrons",
+            "valoirons",
+            "vaudrez",
+            "vaudons"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + ons."
+        },
+        {
+          "sentence": "vous ___ (valoir)",
+          "options": [
+            "vaudrez",
+            "valoirez",
+            "vaudront",
+            "vaudez"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (valoir)",
+          "options": [
+            "vaudront",
+            "valoiront",
+            "vaudrai",
+            "vaudont"
+          ],
+          "correct": 0,
+          "explanation": "valoir: future stem vaudr- + ont."
+        },
+        {
+          "sentence": "j’ ___ (acquérir)",
+          "options": [
+            "acquerrai",
+            "acquérirai",
+            "acquerras",
+            "acquerai"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + ai."
+        },
+        {
+          "sentence": "tu ___ (acquérir)",
+          "options": [
+            "acquerras",
+            "acquériras",
+            "acquerra",
+            "acqueras"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (acquérir)",
+          "options": [
+            "acquerra",
+            "acquérira",
+            "acquerrons",
+            "acquera"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + a."
+        },
+        {
+          "sentence": "nous ___ (acquérir)",
+          "options": [
+            "acquerrons",
+            "acquérirons",
+            "acquerrez",
+            "acquerons"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + ons."
+        },
+        {
+          "sentence": "vous ___ (acquérir)",
+          "options": [
+            "acquerrez",
+            "acquérirez",
+            "acquerront",
+            "acquerez"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (acquérir)",
+          "options": [
+            "acquerront",
+            "acquériront",
+            "acquerrai",
+            "acqueront"
+          ],
+          "correct": 0,
+          "explanation": "acquérir: future stem acquerr- + ont."
+        },
+        {
+          "sentence": "je ___ (cueillir)",
+          "options": [
+            "cueillerai",
+            "cueillirai",
+            "cueilleras",
+            "cueilleai"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + ai."
+        },
+        {
+          "sentence": "tu ___ (cueillir)",
+          "options": [
+            "cueilleras",
+            "cueilliras",
+            "cueillera",
+            "cueilleas"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (cueillir)",
+          "options": [
+            "cueillera",
+            "cueillira",
+            "cueillerons",
+            "cueillea"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + a."
+        },
+        {
+          "sentence": "nous ___ (cueillir)",
+          "options": [
+            "cueillerons",
+            "cueillirons",
+            "cueillerez",
+            "cueilleons"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + ons."
+        },
+        {
+          "sentence": "vous ___ (cueillir)",
+          "options": [
+            "cueillerez",
+            "cueillirez",
+            "cueilleront",
+            "cueilleez"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (cueillir)",
+          "options": [
+            "cueilleront",
+            "cueilliront",
+            "cueillerai",
+            "cueilleont"
+          ],
+          "correct": 0,
+          "explanation": "cueillir: future stem cueiller- + ont."
+        },
+        {
+          "sentence": "j’ ___ (apercevoir)",
+          "options": [
+            "apercevrai",
+            "apercevoirai",
+            "apercevras",
+            "apercevai"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + ai."
+        },
+        {
+          "sentence": "tu ___ (apercevoir)",
+          "options": [
+            "apercevras",
+            "apercevoiras",
+            "apercevra",
+            "apercevas"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (apercevoir)",
+          "options": [
+            "apercevra",
+            "apercevoira",
+            "apercevrons",
+            "aperceva"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + a."
+        },
+        {
+          "sentence": "nous ___ (apercevoir)",
+          "options": [
+            "apercevrons",
+            "apercevoirons",
+            "apercevrez",
+            "apercevons"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + ons."
+        },
+        {
+          "sentence": "vous ___ (apercevoir)",
+          "options": [
+            "apercevrez",
+            "apercevoirez",
+            "apercevront",
+            "apercevez"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (apercevoir)",
+          "options": [
+            "apercevront",
+            "apercevoiront",
+            "apercevrai",
+            "apercevont"
+          ],
+          "correct": 0,
+          "explanation": "apercevoir: future stem apercevr- + ont."
+        },
+        {
+          "sentence": "je ___ (prévoir)",
+          "options": [
+            "prévoirai",
+            "prévoiras",
+            "prévoira",
+            "prévoirons"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + ai."
+        },
+        {
+          "sentence": "tu ___ (prévoir)",
+          "options": [
+            "prévoiras",
+            "prévoirai",
+            "prévoira",
+            "prévoirez"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (prévoir)",
+          "options": [
+            "prévoira",
+            "prévoiras",
+            "prévoirai",
+            "prévoiront"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + a."
+        },
+        {
+          "sentence": "nous ___ (prévoir)",
+          "options": [
+            "prévoirons",
+            "prévoirez",
+            "prévoirent",
+            "prévoirais"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + ons."
+        },
+        {
+          "sentence": "vous ___ (prévoir)",
+          "options": [
+            "prévoirez",
+            "prévoirons",
+            "prévoirent",
+            "prévoiriez"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (prévoir)",
+          "options": [
+            "prévoiront",
+            "prévoira",
+            "prévoirons",
+            "prévoirez"
+          ],
+          "correct": 0,
+          "explanation": "prévoir: future stem prévoir- + ont."
+        },
+        {
+          "sentence": "je ___ (vivre)",
+          "options": [
+            "vivrai",
+            "vivreai",
+            "vivras",
+            "vivai"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + ai."
+        },
+        {
+          "sentence": "tu ___ (vivre)",
+          "options": [
+            "vivras",
+            "vivreas",
+            "vivra",
+            "vivas"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (vivre)",
+          "options": [
+            "vivra",
+            "vivrea",
+            "vivrons",
+            "viva"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + a."
+        },
+        {
+          "sentence": "nous ___ (vivre)",
+          "options": [
+            "vivrons",
+            "vivreons",
+            "vivrez",
+            "vivons"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + ons."
+        },
+        {
+          "sentence": "vous ___ (vivre)",
+          "options": [
+            "vivrez",
+            "vivreez",
+            "vivront",
+            "vivez"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (vivre)",
+          "options": [
+            "vivront",
+            "vivreont",
+            "vivrai",
+            "vivont"
+          ],
+          "correct": 0,
+          "explanation": "vivre: future stem vivr- + ont."
+        },
+        {
+          "sentence": "je ___ (mettre)",
+          "options": [
+            "mettrai",
+            "mettreai",
+            "mettras",
+            "mettai"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + ai."
+        },
+        {
+          "sentence": "tu ___ (mettre)",
+          "options": [
+            "mettras",
+            "mettreas",
+            "mettra",
+            "mettas"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (mettre)",
+          "options": [
+            "mettra",
+            "mettrea",
+            "mettrons",
+            "metta"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + a."
+        },
+        {
+          "sentence": "nous ___ (mettre)",
+          "options": [
+            "mettrons",
+            "mettreons",
+            "mettrez",
+            "mettons"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + ons."
+        },
+        {
+          "sentence": "vous ___ (mettre)",
+          "options": [
+            "mettrez",
+            "mettreez",
+            "mettront",
+            "mettez"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (mettre)",
+          "options": [
+            "mettront",
+            "mettreont",
+            "mettrai",
+            "mettont"
+          ],
+          "correct": 0,
+          "explanation": "mettre: future stem mettr- + ont."
+        },
+        {
+          "sentence": "je ___ (prendre)",
+          "options": [
+            "prendrai",
+            "prendreai",
+            "prendras",
+            "prendai"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + ai."
+        },
+        {
+          "sentence": "tu ___ (prendre)",
+          "options": [
+            "prendras",
+            "prendreas",
+            "prendra",
+            "prendas"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (prendre)",
+          "options": [
+            "prendra",
+            "prendrea",
+            "prendrons",
+            "prenda"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + a."
+        },
+        {
+          "sentence": "nous ___ (prendre)",
+          "options": [
+            "prendrons",
+            "prendreons",
+            "prendrez",
+            "prendons"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (prendre)",
+          "options": [
+            "prendrez",
+            "prendreez",
+            "prendront",
+            "prendez"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (prendre)",
+          "options": [
+            "prendront",
+            "prendreont",
+            "prendrai",
+            "prendont"
+          ],
+          "correct": 0,
+          "explanation": "prendre: future stem prendr- + ont."
+        },
+        {
+          "sentence": "j’ ___ (écrire)",
+          "options": [
+            "écrirai",
+            "écrireai",
+            "écriras",
+            "écriai"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + ai."
+        },
+        {
+          "sentence": "tu ___ (écrire)",
+          "options": [
+            "écriras",
+            "écrireas",
+            "écrira",
+            "écrias"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (écrire)",
+          "options": [
+            "écrira",
+            "écrirea",
+            "écrirons",
+            "écria"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + a."
+        },
+        {
+          "sentence": "nous ___ (écrire)",
+          "options": [
+            "écrirons",
+            "écrireons",
+            "écrirez",
+            "écrions"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + ons."
+        },
+        {
+          "sentence": "vous ___ (écrire)",
+          "options": [
+            "écrirez",
+            "écrireez",
+            "écriront",
+            "écriez"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (écrire)",
+          "options": [
+            "écriront",
+            "écrireont",
+            "écrirai",
+            "écriont"
+          ],
+          "correct": 0,
+          "explanation": "écrire: future stem écrir- + ont."
         }
       ]
     },
@@ -509,6 +1724,54 @@
           "correct": "Nous saurons bientôt.",
           "hint": "savoir has future stem saur-.",
           "errorType": "savoir → nous saurons."
+        },
+        {
+          "sentence": "Je receverai la lettre.",
+          "correct": "Je recevrai la lettre.",
+          "hint": "recevoir has future stem recevr-.",
+          "errorType": "recevoir → je recevrai."
+        },
+        {
+          "sentence": "Il pleuera demain.",
+          "correct": "Il pleuvra demain.",
+          "hint": "pleuvoir has future stem pleuvr-.",
+          "errorType": "pleuvoir → il pleuvra."
+        },
+        {
+          "sentence": "Il fallera partir tôt.",
+          "correct": "Il faudra partir tôt.",
+          "hint": "falloir has future stem faudr-.",
+          "errorType": "falloir → il faudra."
+        },
+        {
+          "sentence": "Elles couriront demain.",
+          "correct": "Elles courront demain.",
+          "hint": "courir future has double r: courr-.",
+          "errorType": "courir → elles courront."
+        },
+        {
+          "sentence": "Nous mourerons un jour.",
+          "correct": "Nous mourrons un jour.",
+          "hint": "mourir future has stem mourr-.",
+          "errorType": "mourir → nous mourrons."
+        },
+        {
+          "sentence": "Tu envoyeras le document.",
+          "correct": "Tu enverras le document.",
+          "hint": "envoyer has future stem enverr-.",
+          "errorType": "envoyer → tu enverras."
+        },
+        {
+          "sentence": "Ce livre valerait cher demain.",
+          "correct": "Ce livre vaudra cher demain.",
+          "hint": "valoir has future stem vaudr-.",
+          "errorType": "valoir → il/ce livre vaudra."
+        },
+        {
+          "sentence": "J’acquérirai cette compétence.",
+          "correct": "J’acquerrai cette compétence.",
+          "hint": "acquérir future stem is acquerr-.",
+          "errorType": "acquérir → j’acquerrai."
         }
       ]
     }
