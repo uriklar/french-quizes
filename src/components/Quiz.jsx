@@ -140,15 +140,26 @@ export default function Quiz() {
     <div className="card">
       <div style={{ marginBottom: 16, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Link to="/" style={{ color: '#4a6cf7', fontSize: 13, textDecoration: 'none' }}>&larr; All quizzes</Link>
-        {Object.keys(answers).length > 0 && (
-          <button
-            className="btn"
-            onClick={handleReset}
-            style={{ fontSize: 12, padding: '4px 12px' }}
-          >
-            Reset progress
-          </button>
-        )}
+        <div style={{ display: 'flex', gap: 8 }}>
+          {quiz.crashCourse && (
+            <button
+              className="btn"
+              onClick={() => setShowCrashCourse(true)}
+              style={{ fontSize: 12, padding: '4px 12px' }}
+            >
+              Review lesson
+            </button>
+          )}
+          {Object.keys(answers).length > 0 && (
+            <button
+              className="btn"
+              onClick={handleReset}
+              style={{ fontSize: 12, padding: '4px 12px' }}
+            >
+              Reset progress
+            </button>
+          )}
+        </div>
       </div>
       <h1>{quiz.title}</h1>
       <p className="subtitle">{quiz.description} — {totalQuestions} questions across {sections.length} exercise types</p>

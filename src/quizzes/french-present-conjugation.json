@@ -4,33 +4,334 @@
   "description": "Regular -er/-ir/-re endings, real -ir families, spelling changes, and high-frequency irregular verbs",
   "questionCount": 252,
   "crashCourse": {
-    "title": "Present tense conjugation",
-    "subtitle": "Build the present tense from regular endings, then memorize the high-frequency irregulars.",
+    "title": "Present tense conjugation — quick lesson",
+    "subtitle": "The present tense is not just “regular endings.” Learn the main verb families first, especially the different -ir patterns.",
     "sections": [
       {
-        "title": "1) Regular -er verbs",
-        "content": "Drop -er and add -e, -es, -e, -ons, -ez, -ent.",
-        "tip": "parler → je parle, nous parlons, ils parlent. Spelling-change verbs still use these endings."
+        "title": "Step 1 — Start with the subject",
+        "content": "French endings change with the subject: je, tu, il/elle/on, nous, vous, ils/elles. The silent endings are the trap: parle, parles, parlent sound similar but are written differently.",
+        "tip": "Always ask: who is doing the action? Then choose the matching ending.",
+        "table": {
+          "headers": [
+            "Subject",
+            "parler",
+            "finir",
+            "vendre"
+          ],
+          "rows": [
+            [
+              "je",
+              "parle",
+              "finis",
+              "vends"
+            ],
+            [
+              "tu",
+              "parles",
+              "finis",
+              "vends"
+            ],
+            [
+              "il/elle/on",
+              "parle",
+              "finit",
+              "vend"
+            ],
+            [
+              "nous",
+              "parlons",
+              "finissons",
+              "vendons"
+            ],
+            [
+              "vous",
+              "parlez",
+              "finissez",
+              "vendez"
+            ],
+            [
+              "ils/elles",
+              "parlent",
+              "finissent",
+              "vendent"
+            ]
+          ]
+        }
       },
       {
-        "title": "2) Regular 2nd-group -ir verbs",
-        "content": "Only verbs like finir use -is, -is, -it, -issons, -issez, -issent.",
-        "tip": "finir, choisir, réussir, remplir, réfléchir, obéir → nous finissons / ils finissent. This does NOT cover all -ir verbs."
+        "title": "Step 2 — Regular -er verbs",
+        "content": "Most French verbs are regular -er verbs. Drop -er, then add -e, -es, -e, -ons, -ez, -ent.",
+        "tip": "parler → je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.",
+        "examples": [
+          {
+            "french": "Je regarde la télé.",
+            "english": "regarder → je regarde"
+          },
+          {
+            "french": "Nous travaillons demain.",
+            "english": "travailler → nous travaillons"
+          },
+          {
+            "french": "Ils habitent à Toronto.",
+            "english": "habiter → ils habitent"
+          }
+        ]
       },
       {
-        "title": "3) Irregular 3rd-group -ir families",
-        "content": "Common -ir verbs split into families: partir/dormir/sortir; ouvrir/offrir/couvrir; venir/tenir; plus courir, mourir, fuir.",
-        "tip": "je dors / nous dormons; j’ouvre / nous ouvrons; je viens / nous venons / ils viennent."
+        "title": "Step 3 — Spelling-change -er verbs",
+        "content": "These still use regular -er endings, but spelling changes preserve pronunciation.",
+        "tip": "-ger: nous mangeons. -cer: nous commençons. acheter/préférer: j’achète, je préfère. appeler: j’appelle. -yer: je nettoie, je paie.",
+        "table": {
+          "headers": [
+            "Pattern",
+            "Why it changes",
+            "Examples"
+          ],
+          "rows": [
+            [
+              "-ger",
+              "keep soft g before -ons",
+              "manger → nous mangeons"
+            ],
+            [
+              "-cer",
+              "keep soft c before -ons",
+              "commencer → nous commençons"
+            ],
+            [
+              "e/é → è",
+              "before silent endings",
+              "acheter → j’achète; préférer → ils préfèrent"
+            ],
+            [
+              "double consonant",
+              "before silent endings",
+              "appeler → j’appelle"
+            ],
+            [
+              "y → i",
+              "before silent endings",
+              "nettoyer → je nettoie"
+            ]
+          ]
+        }
       },
       {
-        "title": "4) Regular -re verbs",
-        "content": "Drop -re and add -s, -s, nothing, -ons, -ez, -ent.",
-        "tip": "vendre → je vends, il vend, nous vendons."
+        "title": "Step 4 — Regular 2nd-group -ir verbs",
+        "content": "This is the “finir” family. It is regular, but it does NOT include all -ir verbs. Drop -ir and add -is, -is, -it, -issons, -issez, -issent.",
+        "tip": "If the plural has -iss- — nous finissons, vous choisissez, ils réussissent — it is this regular 2nd-group pattern.",
+        "examples": [
+          {
+            "french": "Je finis.",
+            "english": "finir → je finis"
+          },
+          {
+            "french": "Nous choisissons.",
+            "english": "choisir → nous choisissons"
+          },
+          {
+            "french": "Ils réussissent.",
+            "english": "réussir → ils réussissent"
+          },
+          {
+            "french": "Vous réfléchissez.",
+            "english": "réfléchir → vous réfléchissez"
+          }
+        ]
       },
       {
-        "title": "5) Other irregular essentials",
-        "content": "être, avoir, aller, faire, prendre, mettre, dire, lire, écrire, voir, boire, croire, recevoir, devoir, pouvoir, vouloir, savoir appear constantly.",
-        "tip": "Pay special attention to vous faites, vous dites, ils vont, ils font, nous buvons, ils reçoivent."
+        "title": "Step 5 — The other -ir verbs: partir / dormir / sortir family",
+        "content": "Many common -ir verbs are 3rd-group verbs, not regular finir-style verbs. A major family is partir, sortir, dormir, servir, sentir, mentir.",
+        "tip": "Singular often drops the final stem consonant: je pars, tu dors, il sort. Plural keeps it: nous partons, vous dormez, ils sortent.",
+        "table": {
+          "headers": [
+            "Verb",
+            "je",
+            "nous",
+            "ils/elles"
+          ],
+          "rows": [
+            [
+              "partir",
+              "pars",
+              "partons",
+              "partent"
+            ],
+            [
+              "sortir",
+              "sors",
+              "sortons",
+              "sortent"
+            ],
+            [
+              "dormir",
+              "dors",
+              "dormons",
+              "dorment"
+            ],
+            [
+              "servir",
+              "sers",
+              "servons",
+              "servent"
+            ],
+            [
+              "sentir",
+              "sens",
+              "sentons",
+              "sentent"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Step 6 — The -ir verbs that behave like -er: ouvrir / offrir / couvrir",
+        "content": "Ouvrir, offrir, couvrir, souffrir, découvrir are -ir verbs, but in the present they mostly take -er-style endings.",
+        "tip": "j’ouvre, tu offres, il couvre, nous ouvrons, vous offrez, ils découvrent — NOT j’ouvris or nous ouvrissons.",
+        "examples": [
+          {
+            "french": "J’ouvre la porte.",
+            "english": "ouvrir → j’ouvre"
+          },
+          {
+            "french": "Elle offre un cadeau.",
+            "english": "offrir → elle offre"
+          },
+          {
+            "french": "Ils découvrent la ville.",
+            "english": "découvrir → ils découvrent"
+          }
+        ]
+      },
+      {
+        "title": "Step 7 — Venir / tenir family",
+        "content": "Venir and tenir, plus compounds like devenir, revenir, obtenir, have their own pattern.",
+        "tip": "je viens, tu viens, il vient, nous venons, vous venez, ils viennent. tenir → je tiens, nous tenons, ils tiennent.",
+        "table": {
+          "headers": [
+            "Verb",
+            "je",
+            "nous",
+            "ils/elles"
+          ],
+          "rows": [
+            [
+              "venir",
+              "viens",
+              "venons",
+              "viennent"
+            ],
+            [
+              "tenir",
+              "tiens",
+              "tenons",
+              "tiennent"
+            ],
+            [
+              "devenir",
+              "deviens",
+              "devenons",
+              "deviennent"
+            ],
+            [
+              "revenir",
+              "reviens",
+              "revenons",
+              "reviennent"
+            ],
+            [
+              "obtenir",
+              "obtiens",
+              "obtenons",
+              "obtiennent"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Step 8 — Regular -re verbs",
+        "content": "For regular -re verbs, drop -re and add -s, -s, nothing, -ons, -ez, -ent.",
+        "tip": "vendre → je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent.",
+        "examples": [
+          {
+            "french": "Je réponds.",
+            "english": "répondre → je réponds"
+          },
+          {
+            "french": "Il attend.",
+            "english": "attendre → il attend"
+          },
+          {
+            "french": "Nous perdons.",
+            "english": "perdre → nous perdons"
+          }
+        ]
+      },
+      {
+        "title": "Step 9 — High-frequency irregular verbs",
+        "content": "These appear constantly and need memorization. Focus on the forms that break expectations.",
+        "tip": "être, avoir, aller, faire, prendre, mettre, dire, lire, écrire, voir, boire, recevoir, devoir, pouvoir, vouloir, savoir.",
+        "table": {
+          "headers": [
+            "Verb",
+            "Key forms to memorize"
+          ],
+          "rows": [
+            [
+              "être",
+              "je suis, tu es, il est, nous sommes, vous êtes, ils sont"
+            ],
+            [
+              "avoir",
+              "j’ai, tu as, il a, nous avons, vous avez, ils ont"
+            ],
+            [
+              "aller",
+              "je vais, nous allons, ils vont"
+            ],
+            [
+              "faire",
+              "je fais, vous faites, ils font"
+            ],
+            [
+              "prendre",
+              "je prends, nous prenons, ils prennent"
+            ],
+            [
+              "mettre",
+              "je mets, nous mettons, ils mettent"
+            ],
+            [
+              "dire",
+              "je dis, vous dites, ils disent"
+            ],
+            [
+              "voir",
+              "je vois, nous voyons, ils voient"
+            ],
+            [
+              "boire",
+              "je bois, nous buvons, ils boivent"
+            ],
+            [
+              "recevoir",
+              "je reçois, nous recevons, ils reçoivent"
+            ],
+            [
+              "pouvoir",
+              "je peux, nous pouvons, ils peuvent"
+            ],
+            [
+              "vouloir",
+              "je veux, nous voulons, ils veulent"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Step 10 — How to approach the quiz",
+        "content": "Do not rely only on the infinitive ending. First identify the family: regular -er, spelling-change -er, regular finir-style -ir, irregular -ir family, regular -re, or memorized irregular.",
+        "tip": "The biggest trap: “-ir” does not mean one rule. finir, dormir, ouvrir, venir, courir, mourir, and fuir all behave differently."
       }
     ]
   },
