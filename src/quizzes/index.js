@@ -9,6 +9,7 @@ import frenchPresentConjugation from './french-present-conjugation.json';
 import frenchPasseComposeParticiples from './french-passe-compose-participles.json';
 import frenchFutureConjugation from './french-future-conjugation.json';
 import frenchImparfaitConjugation from './french-imparfait-conjugation.json';
+import frenchSubjunctiveConjugation from './french-subjunctive-conjugation.json';
 
 const quizzes = [
   frenchPronouns,
@@ -21,6 +22,7 @@ const quizzes = [
   frenchPasseComposeParticiples,
   frenchFutureConjugation,
   frenchImparfaitConjugation,
+  frenchSubjunctiveConjugation,
 ];
 
 export function getAllQuizzes() {

@@ -1,0 +1,748 @@
+{
+  "slug": "french-subjunctive-conjugation",
+  "title": "French Subjunctive Conjugation",
+  "description": "Subjonctif présent formation, triggers, irregulars, and indicatif vs subjonctif traps",
+  "questionCount": 68,
+  "crashCourse": {
+    "title": "Subjonctif présent",
+    "subtitle": "Use it after many expressions of need, emotion, doubt, will, and uncertainty — especially after que.",
+    "sections": [
+      {
+        "title": "1) When to use it",
+        "content": "The subjunctive usually appears in a dependent clause after que when the main clause expresses necessity, will, emotion, doubt, possibility, or judgment.",
+        "tip": "Il faut que…, Je veux que…, Je suis content que…, Je doute que…, Il est possible que…"
+      },
+      {
+        "title": "2) When NOT to use it",
+        "content": "Certainty and facts normally take the indicatif, not the subjonctif.",
+        "tip": "Je pense qu’il vient. Je crois qu’elle a raison. Il est clair que nous devons partir."
+      },
+      {
+        "title": "3) Regular formation",
+        "content": "Start from the present ils/elles form, remove -ent, then add -e, -es, -e, -ions, -iez, -ent.",
+        "tip": "ils parlent → que je parle; ils finissent → que nous finissions; ils vendent → qu’ils vendent."
+      },
+      {
+        "title": "4) Nous/vous stem changes",
+        "content": "Some verbs use a different stem for nous/vous because their present nous/vous forms differ.",
+        "tip": "venir → que je vienne, que nous venions; prendre → que je prenne, que nous prenions; boire → que je boive, que nous buvions."
+      },
+      {
+        "title": "5) Must-know irregulars",
+        "content": "Some verbs are irregular and very common.",
+        "tip": "être → sois/soyons/soyez; avoir → aie/ayons/ayez; aller → aille/allions/alliez; faire → fasse/fassions; pouvoir → puisse/puissions; savoir → sache/sachions; vouloir → veuille/voulions/vouliez."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Choose the subjunctive form",
+      "instructions": "Pick the correct subjonctif présent form.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "Il faut que je ___ plus souvent. (parler)",
+          "options": [
+            "parle",
+            "parles",
+            "parlais",
+            "parlerai"
+          ],
+          "correct": 0,
+          "explanation": "Subjunctive of parler: que je parle."
+        },
+        {
+          "sentence": "Je veux que tu ___ à l’heure. (arriver)",
+          "options": [
+            "arrives",
+            "arrive",
+            "arrivais",
+            "arriveras"
+          ],
+          "correct": 0,
+          "explanation": "Subjunctive tu ending: -es → que tu arrives."
+        },
+        {
+          "sentence": "Il est important qu’elle ___ la vérité. (dire)",
+          "options": [
+            "dise",
+            "dit",
+            "dira",
+            "dis"
+          ],
+          "correct": 0,
+          "explanation": "dire uses the stem dis- in subjunctive: qu’elle dise."
+        },
+        {
+          "sentence": "Nous sommes contents que vous ___ avec nous. (venir)",
+          "options": [
+            "venez",
+            "veniez",
+            "venions",
+            "viennez"
+          ],
+          "correct": 1,
+          "explanation": "venir has ven- for nous/vous: que vous veniez."
+        },
+        {
+          "sentence": "Je doute qu’ils ___ la réponse. (savoir)",
+          "options": [
+            "savent",
+            "sachent",
+            "sauront",
+            "savaient"
+          ],
+          "correct": 1,
+          "explanation": "savoir is irregular: qu’ils sachent."
+        },
+        {
+          "sentence": "Il faut que nous ___ maintenant. (partir)",
+          "options": [
+            "partions",
+            "partons",
+            "partirons",
+            "partent"
+          ],
+          "correct": 0,
+          "explanation": "Regular subjunctive nous ending: -ions → que nous partions."
+        },
+        {
+          "sentence": "Elle préfère que je ___ ici. (rester)",
+          "options": [
+            "reste",
+            "restes",
+            "restais",
+            "resterai"
+          ],
+          "correct": 0,
+          "explanation": "Subjunctive after préférer que: que je reste."
+        },
+        {
+          "sentence": "Il est possible qu’il ___ demain. (pleuvoir)",
+          "options": [
+            "pleut",
+            "pleuve",
+            "pleuvra",
+            "pleuvait"
+          ],
+          "correct": 1,
+          "explanation": "pleuvoir is impersonal and irregular: qu’il pleuve."
+        },
+        {
+          "sentence": "Je suis surpris que tu ___ si vite. (comprendre)",
+          "options": [
+            "comprennes",
+            "comprends",
+            "comprendras",
+            "comprenais"
+          ],
+          "correct": 0,
+          "explanation": "prendre-family verbs: que tu comprennes."
+        },
+        {
+          "sentence": "Il faut que vous ___ attention. (faire)",
+          "options": [
+            "faites",
+            "fassiez",
+            "faisiez",
+            "fassent"
+          ],
+          "correct": 1,
+          "explanation": "faire is irregular: que vous fassiez."
+        },
+        {
+          "sentence": "Je veux qu’elle ___ heureuse. (être)",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "sois"
+          ],
+          "correct": 1,
+          "explanation": "être is irregular: qu’elle soit."
+        },
+        {
+          "sentence": "Il faut que j’___ du courage. (avoir)",
+          "options": [
+            "ai",
+            "aie",
+            "aurai",
+            "avais"
+          ],
+          "correct": 1,
+          "explanation": "avoir is irregular: que j’aie."
+        },
+        {
+          "sentence": "Je préfère que nous ___ ensemble. (aller)",
+          "options": [
+            "allons",
+            "allions",
+            "aillions",
+            "aille"
+          ],
+          "correct": 1,
+          "explanation": "aller has all- for nous/vous: que nous allions."
+        },
+        {
+          "sentence": "Il est nécessaire qu’ils ___ le formulaire. (remplir)",
+          "options": [
+            "remplissent",
+            "remplissentent",
+            "rempliront",
+            "remplissaient"
+          ],
+          "correct": 0,
+          "explanation": "For -ir verbs like remplir: qu’ils remplissent."
+        },
+        {
+          "sentence": "Je crains qu’elle ___ malade. (être)",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "était"
+          ],
+          "correct": 1,
+          "explanation": "Fear/emotion trigger subjunctive: qu’elle soit."
+        },
+        {
+          "sentence": "Il faut que tu ___ ce livre. (lire)",
+          "options": [
+            "lis",
+            "lises",
+            "liras",
+            "lisais"
+          ],
+          "correct": 1,
+          "explanation": "lire: que tu lises."
+        },
+        {
+          "sentence": "Je souhaite que vous ___ réussir. (pouvoir)",
+          "options": [
+            "pouvez",
+            "puissiez",
+            "pourrez",
+            "pouviez"
+          ],
+          "correct": 1,
+          "explanation": "pouvoir is irregular: que vous puissiez."
+        },
+        {
+          "sentence": "Il est dommage que nous ne ___ pas venir. (pouvoir)",
+          "options": [
+            "pouvons",
+            "puissions",
+            "pourrons",
+            "pouvions"
+          ],
+          "correct": 1,
+          "explanation": "Subjunctive after il est dommage que: que nous puissions."
+        },
+        {
+          "sentence": "Elle veut que je ___ plus prudent. (être)",
+          "options": [
+            "suis",
+            "sois",
+            "serai",
+            "étais"
+          ],
+          "correct": 1,
+          "explanation": "être: que je sois."
+        },
+        {
+          "sentence": "Il faut que vous ___ la priorité. (choisir)",
+          "options": [
+            "choisissez",
+            "choisissiez",
+            "choisirez",
+            "choisissent"
+          ],
+          "correct": 1,
+          "explanation": "choisir: que vous choisissiez."
+        },
+        {
+          "sentence": "Je doute qu’il ___ raison. (avoir)",
+          "options": [
+            "a",
+            "ait",
+            "aura",
+            "avait"
+          ],
+          "correct": 1,
+          "explanation": "avoir: qu’il ait."
+        },
+        {
+          "sentence": "Il est possible que nous ___ en retard. (être)",
+          "options": [
+            "sommes",
+            "soyons",
+            "serons",
+            "étions"
+          ],
+          "correct": 1,
+          "explanation": "être: que nous soyons."
+        },
+        {
+          "sentence": "Je veux qu’ils ___ plus tôt. (finir)",
+          "options": [
+            "finissent",
+            "finissentent",
+            "finiront",
+            "finissaient"
+          ],
+          "correct": 0,
+          "explanation": "finir: qu’ils finissent."
+        },
+        {
+          "sentence": "Il faut que tu ___ tes clés. (prendre)",
+          "options": [
+            "prends",
+            "prennes",
+            "prendras",
+            "prenais"
+          ],
+          "correct": 1,
+          "explanation": "prendre: que tu prennes."
+        },
+        {
+          "sentence": "Je suis heureux que vous ___ là. (être)",
+          "options": [
+            "êtes",
+            "soyez",
+            "serez",
+            "étiez"
+          ],
+          "correct": 1,
+          "explanation": "être: que vous soyez."
+        },
+        {
+          "sentence": "Il faut qu’elle ___ son travail. (envoyer)",
+          "options": [
+            "envoie",
+            "envoiee",
+            "enverra",
+            "envoyait"
+          ],
+          "correct": 0,
+          "explanation": "envoyer in subjunctive: qu’elle envoie."
+        },
+        {
+          "sentence": "Je veux que nous ___ ce problème. (résoudre)",
+          "options": [
+            "résolvons",
+            "résolvions",
+            "résoudrons",
+            "résolvent"
+          ],
+          "correct": 1,
+          "explanation": "résoudre: que nous résolvions."
+        },
+        {
+          "sentence": "Il est essentiel que chacun ___ son rôle. (connaître)",
+          "options": [
+            "connaît",
+            "connaisse",
+            "connaîtra",
+            "connaissait"
+          ],
+          "correct": 1,
+          "explanation": "connaître: que chacun connaisse."
+        },
+        {
+          "sentence": "Je préfère que tu ne ___ rien. (dire)",
+          "options": [
+            "dis",
+            "dise",
+            "diras",
+            "disais"
+          ],
+          "correct": 1,
+          "explanation": "dire: que tu dises."
+        },
+        {
+          "sentence": "Il faut qu’ils ___ le train. (prendre)",
+          "options": [
+            "prennent",
+            "prends",
+            "prendront",
+            "prenaient"
+          ],
+          "correct": 0,
+          "explanation": "prendre: qu’ils prennent."
+        },
+        {
+          "sentence": "Je souhaite qu’elle ___ ses examens. (réussir)",
+          "options": [
+            "réussit",
+            "réussisse",
+            "réussira",
+            "réussissait"
+          ],
+          "correct": 1,
+          "explanation": "réussir: qu’elle réussisse."
+        },
+        {
+          "sentence": "Il est urgent que nous ___ une solution. (trouver)",
+          "options": [
+            "trouvons",
+            "trouvions",
+            "trouverons",
+            "trouvaient"
+          ],
+          "correct": 1,
+          "explanation": "trouver: que nous trouvions."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Subjunctive or indicative?",
+      "instructions": "Choose the form that fits the trigger. Some sentences need indicatif because they express certainty/fact.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "Je pense qu’il ___ raison.",
+          "options": [
+            "a",
+            "ait",
+            "aie",
+            "aient"
+          ],
+          "correct": 0,
+          "explanation": "penser que in the affirmative expresses belief/certainty → indicatif."
+        },
+        {
+          "sentence": "Je ne pense pas qu’il ___ raison.",
+          "options": [
+            "a",
+            "ait",
+            "aura",
+            "avait"
+          ],
+          "correct": 1,
+          "explanation": "Negative penser que often triggers subjunctive: je ne pense pas qu’il ait raison."
+        },
+        {
+          "sentence": "Il est clair que nous ___ partir.",
+          "options": [
+            "devons",
+            "devions",
+            "devrions",
+            "devions"
+          ],
+          "correct": 0,
+          "explanation": "Il est clair que expresses certainty → indicatif."
+        },
+        {
+          "sentence": "Il est possible que nous ___ partir.",
+          "options": [
+            "devons",
+            "devions",
+            "devrons",
+            "devions"
+          ],
+          "correct": 1,
+          "explanation": "Il est possible que triggers subjunctive: que nous devions."
+        },
+        {
+          "sentence": "Je crois qu’elle ___ à Toronto.",
+          "options": [
+            "habite",
+            "habites",
+            "habite subj.",
+            "habiterait"
+          ],
+          "correct": 0,
+          "explanation": "Croire que affirmative usually takes indicatif."
+        },
+        {
+          "sentence": "Je ne crois pas qu’elle ___ à Toronto.",
+          "options": [
+            "habite",
+            "habites",
+            "habitera",
+            "habitait"
+          ],
+          "correct": 0,
+          "explanation": "For regular -er verbs, je/il present indicative and subjunctive look identical: qu’elle habite."
+        },
+        {
+          "sentence": "Il faut que tu ___ plus.",
+          "options": [
+            "étudies",
+            "étudie",
+            "étudieras",
+            "étudiais"
+          ],
+          "correct": 0,
+          "explanation": "Il faut que triggers subjunctive: que tu étudies."
+        },
+        {
+          "sentence": "J’espère que vous ___ demain.",
+          "options": [
+            "venez",
+            "veniez",
+            "viendrez",
+            "veniez"
+          ],
+          "correct": 2,
+          "explanation": "Espérer que usually takes indicatif/future, not subjunctive."
+        },
+        {
+          "sentence": "Je suis content que tu ___ ici.",
+          "options": [
+            "es",
+            "sois",
+            "seras",
+            "étais"
+          ],
+          "correct": 1,
+          "explanation": "Emotion trigger → subjunctive: que tu sois."
+        },
+        {
+          "sentence": "Je sais qu’il ___ français.",
+          "options": [
+            "parle",
+            "parles",
+            "parlera",
+            "parlait"
+          ],
+          "correct": 0,
+          "explanation": "Savoir que expresses knowledge/fact → indicatif."
+        },
+        {
+          "sentence": "Je doute qu’elle ___ prête.",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "était"
+          ],
+          "correct": 1,
+          "explanation": "Doubt triggers subjunctive."
+        },
+        {
+          "sentence": "Il semble qu’il ___ fatigué.",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "était"
+          ],
+          "correct": 1,
+          "explanation": "Il semble que often introduces uncertainty → subjunctive."
+        },
+        {
+          "sentence": "Il me semble qu’il ___ fatigué.",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "sois"
+          ],
+          "correct": 0,
+          "explanation": "Il me semble que usually expresses a personal impression treated as indicative."
+        },
+        {
+          "sentence": "Après que nous ___ fini, nous partirons.",
+          "options": [
+            "avons",
+            "ayons",
+            "avions",
+            "aurons"
+          ],
+          "correct": 3,
+          "explanation": "Après que takes indicative; with future context, use futur antérieur: après que nous aurons fini."
+        },
+        {
+          "sentence": "Avant que nous ___, vérifie les billets.",
+          "options": [
+            "partons",
+            "partions",
+            "partirons",
+            "sommes partis"
+          ],
+          "correct": 1,
+          "explanation": "Avant que triggers subjunctive."
+        },
+        {
+          "sentence": "Bien qu’il ___ malade, il travaille.",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "était"
+          ],
+          "correct": 1,
+          "explanation": "Bien que triggers subjunctive."
+        },
+        {
+          "sentence": "Parce qu’il ___ malade, il reste chez lui.",
+          "options": [
+            "est",
+            "soit",
+            "sera",
+            "sois"
+          ],
+          "correct": 0,
+          "explanation": "Parce que states a cause/fact → indicatif."
+        },
+        {
+          "sentence": "Pour que vous ___ comprendre, je vais répéter.",
+          "options": [
+            "pouvez",
+            "puissiez",
+            "pourrez",
+            "pouviez"
+          ],
+          "correct": 1,
+          "explanation": "Pour que triggers subjunctive: que vous puissiez."
+        },
+        {
+          "sentence": "Quand vous ___ prêts, appelez-moi.",
+          "options": [
+            "êtes",
+            "soyez",
+            "serez",
+            "étiez"
+          ],
+          "correct": 2,
+          "explanation": "Quand referring to future takes future indicative, not subjunctive."
+        },
+        {
+          "sentence": "Quoi que tu ___, reste calme.",
+          "options": [
+            "fais",
+            "fasses",
+            "feras",
+            "faisais"
+          ],
+          "correct": 1,
+          "explanation": "Quoi que triggers subjunctive."
+        },
+        {
+          "sentence": "Je cherche quelqu’un qui ___ réparer ça.",
+          "options": [
+            "peut",
+            "puisse",
+            "pourra",
+            "pouvait"
+          ],
+          "correct": 1,
+          "explanation": "Unknown/desired person → subjunctive in relative clause."
+        },
+        {
+          "sentence": "Je connais quelqu’un qui ___ réparer ça.",
+          "options": [
+            "peut",
+            "puisse",
+            "pourra",
+            "pouvait"
+          ],
+          "correct": 0,
+          "explanation": "Known real person → indicatif."
+        },
+        {
+          "sentence": "Le seul ami qui ___ m’aider est Marc.",
+          "options": [
+            "peut",
+            "puisse",
+            "pourra",
+            "pouvait"
+          ],
+          "correct": 1,
+          "explanation": "Superlative/unique expressions often trigger subjunctive."
+        },
+        {
+          "sentence": "Je suis sûr qu’elle ___ venir.",
+          "options": [
+            "peut",
+            "puisse",
+            "pourra",
+            "pouvait"
+          ],
+          "correct": 0,
+          "explanation": "Certainty → indicatif."
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Spot and fix the subjunctive error",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Il faut que tu fais tes devoirs.",
+          "correct": "Il faut que tu fasses tes devoirs.",
+          "hint": "Il faut que triggers subjunctive; faire is irregular.",
+          "errorType": "faire → que tu fasses."
+        },
+        {
+          "sentence": "Je veux qu’elle est heureuse.",
+          "correct": "Je veux qu’elle soit heureuse.",
+          "hint": "vouloir que triggers subjunctive; être is irregular.",
+          "errorType": "être → qu’elle soit."
+        },
+        {
+          "sentence": "Nous sommes contents que vous êtes ici.",
+          "correct": "Nous sommes contents que vous soyez ici.",
+          "hint": "Emotion triggers subjunctive.",
+          "errorType": "être → que vous soyez."
+        },
+        {
+          "sentence": "Je doute qu’ils savent la réponse.",
+          "correct": "Je doute qu’ils sachent la réponse.",
+          "hint": "Doubt triggers subjunctive; savoir is irregular.",
+          "errorType": "savoir → qu’ils sachent."
+        },
+        {
+          "sentence": "Il est possible que nous sommes en retard.",
+          "correct": "Il est possible que nous soyons en retard.",
+          "hint": "Possibility triggers subjunctive.",
+          "errorType": "être → que nous soyons."
+        },
+        {
+          "sentence": "Je pense qu’il ait raison.",
+          "correct": "Je pense qu’il a raison.",
+          "hint": "Affirmative penser que normally takes indicatif.",
+          "errorType": "certainty/belief → indicatif: il a."
+        },
+        {
+          "sentence": "Il faut que je vais au bureau.",
+          "correct": "Il faut que j’aille au bureau.",
+          "hint": "Il faut que triggers subjunctive; aller is irregular.",
+          "errorType": "aller → que j’aille."
+        },
+        {
+          "sentence": "Avant que tu pars, appelle-moi.",
+          "correct": "Avant que tu partes, appelle-moi.",
+          "hint": "Avant que triggers subjunctive.",
+          "errorType": "partir → que tu partes."
+        },
+        {
+          "sentence": "Bien qu’il est fatigué, il continue.",
+          "correct": "Bien qu’il soit fatigué, il continue.",
+          "hint": "Bien que triggers subjunctive.",
+          "errorType": "être → qu’il soit."
+        },
+        {
+          "sentence": "J’espère que tu sois là demain.",
+          "correct": "J’espère que tu seras là demain.",
+          "hint": "Espérer que usually takes indicative/future.",
+          "errorType": "espérer que → futur/indicatif: tu seras."
+        },
+        {
+          "sentence": "Je cherche quelqu’un qui peut m’aider.",
+          "correct": "Je cherche quelqu’un qui puisse m’aider.",
+          "hint": "Unknown/desired person triggers subjunctive.",
+          "errorType": "chercher quelqu’un qui… → puisse."
+        },
+        {
+          "sentence": "Il est nécessaire que vous prenez une décision.",
+          "correct": "Il est nécessaire que vous preniez une décision.",
+          "hint": "Necessity triggers subjunctive; prendre has pren- for nous/vous.",
+          "errorType": "prendre → que vous preniez."
+        }
+      ]
+    }
+  ]
+}
