@@ -1,0 +1,516 @@
+{
+  "slug": "french-future-conjugation",
+  "title": "French Futur Simple Conjugation",
+  "description": "Future endings, regular stems, -re stems, and common irregular future stems",
+  "questionCount": 48,
+  "crashCourse": {
+    "title": "Futur simple",
+    "subtitle": "One set of endings for every verb; some verbs use an irregular stem.",
+    "sections": [
+      {
+        "title": "Endings",
+        "content": "The futur simple endings are always -ai, -as, -a, -ons, -ez, -ont.",
+        "tip": "They look like avoir in the present: ai, as, a, avons/ons, avez/ez, ont."
+      },
+      {
+        "title": "Regular stems",
+        "content": "For -er and -ir verbs, add the ending to the infinitive.",
+        "tip": "parler → je parlerai; finir → nous finirons."
+      },
+      {
+        "title": "-re verbs",
+        "content": "For regular -re verbs, drop the final e, then add the future endings.",
+        "tip": "vendre → je vendrai; attendre → ils attendront."
+      },
+      {
+        "title": "Irregular stems",
+        "content": "The endings stay regular, but the stem changes.",
+        "tip": "être → ser-, avoir → aur-, aller → ir-, faire → fer-, voir → verr-, pouvoir → pourr-, vouloir → voudr-, venir → viendr-."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Choose the future form",
+      "instructions": "Pick the correct futur simple conjugation.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "je ___ (parler)",
+          "options": [
+            "parlerai",
+            "parleras",
+            "parlera",
+            "parlai"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + ai."
+        },
+        {
+          "sentence": "tu ___ (finir)",
+          "options": [
+            "finiras",
+            "finira",
+            "finirons",
+            "finas"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (vendre)",
+          "options": [
+            "vendra",
+            "vendrons",
+            "vendrez",
+            "vendrea"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + a."
+        },
+        {
+          "sentence": "nous ___ (parler)",
+          "options": [
+            "parlerons",
+            "parlerez",
+            "parleront",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + ons."
+        },
+        {
+          "sentence": "vous ___ (finir)",
+          "options": [
+            "finirez",
+            "finiront",
+            "finirai",
+            "finez"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (vendre)",
+          "options": [
+            "vendront",
+            "vendrai",
+            "vendras",
+            "vendreont"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + ont."
+        },
+        {
+          "sentence": "tu ___ (parler)",
+          "options": [
+            "parleras",
+            "parlera",
+            "parlerons",
+            "parlas"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (finir)",
+          "options": [
+            "finira",
+            "finirons",
+            "finirez",
+            "fina"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + a."
+        },
+        {
+          "sentence": "nous ___ (vendre)",
+          "options": [
+            "vendrons",
+            "vendrez",
+            "vendront",
+            "vendreons"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (parler)",
+          "options": [
+            "parlerez",
+            "parleront",
+            "parlerai",
+            "parlez"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (finir)",
+          "options": [
+            "finiront",
+            "finirai",
+            "finiras",
+            "finont"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + ont."
+        },
+        {
+          "sentence": "je ___ (attendre)",
+          "options": [
+            "attendrai",
+            "attendras",
+            "attendra",
+            "attendreai"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + ai."
+        },
+        {
+          "sentence": "il/elle/on ___ (parler)",
+          "options": [
+            "parlera",
+            "parlerons",
+            "parlerez",
+            "parla"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + a."
+        },
+        {
+          "sentence": "nous ___ (finir)",
+          "options": [
+            "finirons",
+            "finirez",
+            "finiront",
+            "finons"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + ons."
+        },
+        {
+          "sentence": "vous ___ (vendre)",
+          "options": [
+            "vendrez",
+            "vendront",
+            "vendrai",
+            "vendreez"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (parler)",
+          "options": [
+            "parleront",
+            "parlerai",
+            "parleras",
+            "parlont"
+          ],
+          "correct": 0,
+          "explanation": "parler in the futur simple: stem parler- + ont."
+        },
+        {
+          "sentence": "je ___ (vendre)",
+          "options": [
+            "vendrai",
+            "vendras",
+            "vendra",
+            "vendreai"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + ai."
+        },
+        {
+          "sentence": "tu ___ (attendre)",
+          "options": [
+            "attendras",
+            "attendra",
+            "attendrons",
+            "attendreas"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + as."
+        },
+        {
+          "sentence": "je ___ (finir)",
+          "options": [
+            "finirai",
+            "finiras",
+            "finira",
+            "finai"
+          ],
+          "correct": 0,
+          "explanation": "finir in the futur simple: stem finir- + ai."
+        },
+        {
+          "sentence": "tu ___ (vendre)",
+          "options": [
+            "vendras",
+            "vendra",
+            "vendrons",
+            "vendreas"
+          ],
+          "correct": 0,
+          "explanation": "vendre in the futur simple: stem vendr- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (attendre)",
+          "options": [
+            "attendra",
+            "attendrons",
+            "attendrez",
+            "attendrea"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + a."
+        },
+        {
+          "sentence": "nous ___ (attendre)",
+          "options": [
+            "attendrons",
+            "attendrez",
+            "attendront",
+            "attendreons"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + ons."
+        },
+        {
+          "sentence": "vous ___ (attendre)",
+          "options": [
+            "attendrez",
+            "attendront",
+            "attendrai",
+            "attendreez"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (attendre)",
+          "options": [
+            "attendront",
+            "attendrai",
+            "attendras",
+            "attendreont"
+          ],
+          "correct": 0,
+          "explanation": "attendre in the futur simple: stem attendr- + ont."
+        },
+        {
+          "sentence": "je ___ (être)",
+          "options": [
+            "serai",
+            "seras",
+            "sera",
+            "êtreai"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + ai."
+        },
+        {
+          "sentence": "tu ___ (être)",
+          "options": [
+            "seras",
+            "sera",
+            "serons",
+            "êtreas"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (être)",
+          "options": [
+            "sera",
+            "serons",
+            "serez",
+            "êtrea"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + a."
+        },
+        {
+          "sentence": "nous ___ (être)",
+          "options": [
+            "serons",
+            "serez",
+            "seront",
+            "êtreons"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + ons."
+        },
+        {
+          "sentence": "vous ___ (être)",
+          "options": [
+            "serez",
+            "seront",
+            "serai",
+            "êtreez"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (être)",
+          "options": [
+            "seront",
+            "serai",
+            "seras",
+            "êtreont"
+          ],
+          "correct": 0,
+          "explanation": "être in the futur simple: stem ser- + ont."
+        },
+        {
+          "sentence": "je ___ (avoir)",
+          "options": [
+            "aurai",
+            "auras",
+            "aura",
+            "avoai"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + ai."
+        },
+        {
+          "sentence": "tu ___ (avoir)",
+          "options": [
+            "auras",
+            "aura",
+            "aurons",
+            "avoas"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + as."
+        },
+        {
+          "sentence": "il/elle/on ___ (avoir)",
+          "options": [
+            "aura",
+            "aurons",
+            "aurez",
+            "avoa"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + a."
+        },
+        {
+          "sentence": "nous ___ (avoir)",
+          "options": [
+            "aurons",
+            "aurez",
+            "auront",
+            "avoons"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + ons."
+        },
+        {
+          "sentence": "vous ___ (avoir)",
+          "options": [
+            "aurez",
+            "auront",
+            "aurai",
+            "avoez"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + ez."
+        },
+        {
+          "sentence": "ils/elles ___ (avoir)",
+          "options": [
+            "auront",
+            "aurai",
+            "auras",
+            "avoont"
+          ],
+          "correct": 0,
+          "explanation": "avoir in the futur simple: stem aur- + ont."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Spot and fix the future-tense error",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Je parlerais demain avec mon professeur.",
+          "correct": "Je parlerai demain avec mon professeur.",
+          "hint": "Future je ending is -ai, not conditional -ais.",
+          "errorType": "futur simple → je parlerai."
+        },
+        {
+          "sentence": "Nous vendrerons la voiture.",
+          "correct": "Nous vendrons la voiture.",
+          "hint": "For -re verbs, drop final e.",
+          "errorType": "vendre → nous vendrons."
+        },
+        {
+          "sentence": "Ils alleront au cinéma.",
+          "correct": "Ils iront au cinéma.",
+          "hint": "aller has irregular future stem ir-.",
+          "errorType": "aller → ils iront."
+        },
+        {
+          "sentence": "Tu êtreas prêt ?",
+          "correct": "Tu seras prêt ?",
+          "hint": "être has irregular future stem ser-.",
+          "errorType": "être → tu seras."
+        },
+        {
+          "sentence": "Elle voirra ses amis.",
+          "correct": "Elle verra ses amis.",
+          "hint": "voir has future stem verr-.",
+          "errorType": "voir → elle verra."
+        },
+        {
+          "sentence": "Vous fairez attention.",
+          "correct": "Vous ferez attention.",
+          "hint": "faire has future stem fer-.",
+          "errorType": "faire → vous ferez."
+        },
+        {
+          "sentence": "Je venirai demain.",
+          "correct": "Je viendrai demain.",
+          "hint": "venir has future stem viendr-.",
+          "errorType": "venir → je viendrai."
+        },
+        {
+          "sentence": "Nous pouvons partir plus tôt demain.",
+          "correct": "Nous pourrons partir plus tôt demain.",
+          "hint": "Use futur simple of pouvoir.",
+          "errorType": "pouvoir → nous pourrons."
+        },
+        {
+          "sentence": "Ils envoyeront un message.",
+          "correct": "Ils enverront un message.",
+          "hint": "envoyer has future stem enverr-.",
+          "errorType": "envoyer → ils enverront."
+        },
+        {
+          "sentence": "Tu vouleras du café demain ?",
+          "correct": "Tu voudras du café demain ?",
+          "hint": "vouloir has future stem voudr-.",
+          "errorType": "vouloir → tu voudras."
+        },
+        {
+          "sentence": "Il recevera une réponse.",
+          "correct": "Il recevra une réponse.",
+          "hint": "recevoir has future stem recevr-.",
+          "errorType": "recevoir → il recevra."
+        },
+        {
+          "sentence": "Nous savrons bientôt.",
+          "correct": "Nous saurons bientôt.",
+          "hint": "savoir has future stem saur-.",
+          "errorType": "savoir → nous saurons."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "slug": "french-passe-compose-participles",
+  "title": "French Passé Composé: Past Participles",
+  "description": "Past participle endings, irregular participles, avoir/être, and agreement basics",
+  "questionCount": 50,
+  "crashCourse": {
+    "title": "Passé composé and past participles",
+    "subtitle": "The core formula is present-tense auxiliary + past participle.",
+    "sections": [
+      {
+        "title": "Formula",
+        "content": "Use avoir or être in the present + the past participle.",
+        "tip": "j’ai parlé, elle est partie, nous avons fini."
+      },
+      {
+        "title": "Regular participles",
+        "content": "-er → -é, regular -ir → -i, many -re verbs → -u.",
+        "tip": "parler → parlé; finir → fini; vendre → vendu."
+      },
+      {
+        "title": "Irregular participles",
+        "content": "Common forms must be memorized.",
+        "tip": "avoir → eu, être → été, faire → fait, voir → vu, prendre → pris, mettre → mis, écrire → écrit, dire → dit."
+      },
+      {
+        "title": "Avoir vs être",
+        "content": "Most verbs use avoir. Movement/change-of-state verbs and all pronominal verbs use être.",
+        "tip": "je suis allé, elle est née, nous nous sommes levés."
+      },
+      {
+        "title": "Agreement basics",
+        "content": "With être, the participle agrees with the subject. With avoir, it usually does not agree unless a direct object comes before.",
+        "tip": "elle est allée; ils sont partis; les lettres que j’ai écrites."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Choose the past participle",
+      "instructions": "Pick the correct past participle.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "Past participle of parler: ___",
+          "options": [
+            "parler",
+            "parlé",
+            "parlu",
+            "parli"
+          ],
+          "correct": 1,
+          "explanation": "parler → parlé."
+        },
+        {
+          "sentence": "Past participle of finir: ___",
+          "options": [
+            "finu",
+            "fini",
+            "finé",
+            "finis"
+          ],
+          "correct": 1,
+          "explanation": "finir → fini."
+        },
+        {
+          "sentence": "Past participle of vendre: ___",
+          "options": [
+            "vendu",
+            "vendé",
+            "vendit",
+            "vendre"
+          ],
+          "correct": 0,
+          "explanation": "vendre → vendu."
+        },
+        {
+          "sentence": "Past participle of attendre: ___",
+          "options": [
+            "attendu",
+            "attendé",
+            "attendi",
+            "attens"
+          ],
+          "correct": 0,
+          "explanation": "attendre → attendu."
+        },
+        {
+          "sentence": "Past participle of choisir: ___",
+          "options": [
+            "choisi",
+            "choisu",
+            "chois",
+            "choisé"
+          ],
+          "correct": 0,
+          "explanation": "choisir → choisi."
+        },
+        {
+          "sentence": "Past participle of répondre: ___",
+          "options": [
+            "répondu",
+            "répondi",
+            "répondé",
+            "réponse"
+          ],
+          "correct": 0,
+          "explanation": "répondre → répondu."
+        },
+        {
+          "sentence": "Past participle of avoir: ___",
+          "options": [
+            "eu",
+            "été",
+            "avu",
+            "a eu"
+          ],
+          "correct": 0,
+          "explanation": "avoir → eu."
+        },
+        {
+          "sentence": "Past participle of être: ___",
+          "options": [
+            "été",
+            "eu",
+            "être",
+            "étu"
+          ],
+          "correct": 0,
+          "explanation": "être → été."
+        },
+        {
+          "sentence": "Past participle of faire: ___",
+          "options": [
+            "fait",
+            "fais",
+            "faité",
+            "fu"
+          ],
+          "correct": 0,
+          "explanation": "faire → fait."
+        },
+        {
+          "sentence": "Past participle of dire: ___",
+          "options": [
+            "dit",
+            "dis",
+            "du",
+            "dire"
+          ],
+          "correct": 0,
+          "explanation": "dire → dit."
+        },
+        {
+          "sentence": "Past participle of voir: ___",
+          "options": [
+            "vu",
+            "voi",
+            "vué",
+            "voit"
+          ],
+          "correct": 0,
+          "explanation": "voir → vu."
+        },
+        {
+          "sentence": "Past participle of prendre: ___",
+          "options": [
+            "pris",
+            "prendu",
+            "prendé",
+            "prit"
+          ],
+          "correct": 0,
+          "explanation": "prendre → pris."
+        },
+        {
+          "sentence": "Past participle of mettre: ___",
+          "options": [
+            "mis",
+            "mettu",
+            "met",
+            "mit"
+          ],
+          "correct": 0,
+          "explanation": "mettre → mis."
+        },
+        {
+          "sentence": "Past participle of écrire: ___",
+          "options": [
+            "écrit",
+            "écrivé",
+            "écru",
+            "écris"
+          ],
+          "correct": 0,
+          "explanation": "écrire → écrit."
+        },
+        {
+          "sentence": "Past participle of ouvrir: ___",
+          "options": [
+            "ouvert",
+            "ouvri",
+            "ouvré",
+            "ouvru"
+          ],
+          "correct": 0,
+          "explanation": "ouvrir → ouvert."
+        },
+        {
+          "sentence": "Past participle of offrir: ___",
+          "options": [
+            "offert",
+            "offri",
+            "offré",
+            "offru"
+          ],
+          "correct": 0,
+          "explanation": "offrir → offert."
+        },
+        {
+          "sentence": "Past participle of venir: ___",
+          "options": [
+            "venu",
+            "vené",
+            "vint",
+            "vient"
+          ],
+          "correct": 0,
+          "explanation": "venir → venu."
+        },
+        {
+          "sentence": "Past participle of naître: ___",
+          "options": [
+            "né",
+            "naissu",
+            "nait",
+            "naît"
+          ],
+          "correct": 0,
+          "explanation": "naître → né."
+        },
+        {
+          "sentence": "Past participle of mourir: ___",
+          "options": [
+            "mort",
+            "mouru",
+            "meurt",
+            "mouri"
+          ],
+          "correct": 0,
+          "explanation": "mourir → mort."
+        },
+        {
+          "sentence": "Past participle of devoir: ___",
+          "options": [
+            "dû",
+            "devoir",
+            "deu",
+            "du"
+          ],
+          "correct": 0,
+          "explanation": "devoir → dû."
+        },
+        {
+          "sentence": "Past participle of pouvoir: ___",
+          "options": [
+            "pu",
+            "pouvu",
+            "peu",
+            "pouvoir"
+          ],
+          "correct": 0,
+          "explanation": "pouvoir → pu."
+        },
+        {
+          "sentence": "Past participle of vouloir: ___",
+          "options": [
+            "voulu",
+            "voulué",
+            "veut",
+            "voulé"
+          ],
+          "correct": 0,
+          "explanation": "vouloir → voulu."
+        },
+        {
+          "sentence": "Past participle of savoir: ___",
+          "options": [
+            "su",
+            "savu",
+            "sait",
+            "savoir"
+          ],
+          "correct": 0,
+          "explanation": "savoir → su."
+        },
+        {
+          "sentence": "Past participle of boire: ___",
+          "options": [
+            "bu",
+            "boit",
+            "boivu",
+            "buvé"
+          ],
+          "correct": 0,
+          "explanation": "boire → bu."
+        },
+        {
+          "sentence": "Past participle of lire: ___",
+          "options": [
+            "lu",
+            "lisé",
+            "lit",
+            "liru"
+          ],
+          "correct": 0,
+          "explanation": "lire → lu."
+        },
+        {
+          "sentence": "Past participle of vivre: ___",
+          "options": [
+            "vécu",
+            "vivu",
+            "vit",
+            "vivé"
+          ],
+          "correct": 0,
+          "explanation": "vivre → vécu."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Complete the passé composé",
+      "instructions": "Choose the correct auxiliary + participle.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "Hier, j’___ français pendant une heure. (parler)",
+          "options": [
+            "ai parlé",
+            "suis parlé",
+            "ai parler",
+            "as parlé"
+          ],
+          "correct": 0,
+          "explanation": "parler uses avoir: j’ai parlé."
+        },
+        {
+          "sentence": "Elle ___ à Montréal en 2023. (aller)",
+          "options": [
+            "a allé",
+            "est allée",
+            "est allé",
+            "a allée"
+          ],
+          "correct": 1,
+          "explanation": "aller uses être; feminine subject → allée."
+        },
+        {
+          "sentence": "Nous ___ nos devoirs. (finir)",
+          "options": [
+            "avons fini",
+            "sommes finis",
+            "avons finé",
+            "êtes fini"
+          ],
+          "correct": 0,
+          "explanation": "finir uses avoir: nous avons fini."
+        },
+        {
+          "sentence": "Ils ___ tard hier soir. (rentrer)",
+          "options": [
+            "ont rentré",
+            "sont rentrés",
+            "sont rentré",
+            "ont rentrés"
+          ],
+          "correct": 1,
+          "explanation": "rentrer uses être when it means “came back”; masculine plural → rentrés."
+        },
+        {
+          "sentence": "Tu ___ le film ? (voir)",
+          "options": [
+            "as vu",
+            "es vu",
+            "as vois",
+            "a vu"
+          ],
+          "correct": 0,
+          "explanation": "voir uses avoir; participle vu."
+        },
+        {
+          "sentence": "Marie ___ à 7 h. (se lever)",
+          "options": [
+            "a levé",
+            "s’est levée",
+            "est levé",
+            "s’a levé"
+          ],
+          "correct": 1,
+          "explanation": "pronominal verbs use être; feminine subject → levée."
+        },
+        {
+          "sentence": "Les enfants ___ beaucoup de questions. (poser)",
+          "options": [
+            "ont posé",
+            "sont posés",
+            "ont posées",
+            "sont posé"
+          ],
+          "correct": 0,
+          "explanation": "poser uses avoir; no agreement with following direct object."
+        },
+        {
+          "sentence": "Elles ___ en France. (naître)",
+          "options": [
+            "ont né",
+            "sont nées",
+            "sont né",
+            "ont nées"
+          ],
+          "correct": 1,
+          "explanation": "naître uses être; feminine plural → nées."
+        },
+        {
+          "sentence": "J’___ un café. (boire)",
+          "options": [
+            "ai bu",
+            "suis bu",
+            "ai boire",
+            "as bu"
+          ],
+          "correct": 0,
+          "explanation": "boire uses avoir; participle bu."
+        },
+        {
+          "sentence": "Vous ___ la vérité. (dire)",
+          "options": [
+            "avez dit",
+            "êtes dit",
+            "avez dis",
+            "avez dire"
+          ],
+          "correct": 0,
+          "explanation": "dire → dit; auxiliary avoir."
+        },
+        {
+          "sentence": "Les lettres que j’ai ___ étaient longues. (écrire)",
+          "options": [
+            "écrit",
+            "écrits",
+            "écrites",
+            "écrite"
+          ],
+          "correct": 2,
+          "explanation": "With avoir, agree with preceding direct object: les lettres → écrites."
+        },
+        {
+          "sentence": "Il n’___ pas compris.",
+          "options": [
+            "a",
+            "est",
+            "as",
+            "ont"
+          ],
+          "correct": 0,
+          "explanation": "Negation wraps the auxiliary: il n’a pas compris."
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Spot and fix the passé composé error",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Elle a allé au magasin.",
+          "correct": "Elle est allée au magasin.",
+          "hint": "aller uses être and agrees with elle.",
+          "errorType": "aller → elle est allée."
+        },
+        {
+          "sentence": "J’ai prendu le bus.",
+          "correct": "J’ai pris le bus.",
+          "hint": "prendre has an irregular participle.",
+          "errorType": "prendre → pris."
+        },
+        {
+          "sentence": "Ils sont arrivé hier.",
+          "correct": "Ils sont arrivés hier.",
+          "hint": "être participle agrees with plural subject.",
+          "errorType": "ils sont arrivés."
+        },
+        {
+          "sentence": "Nous avons finé le projet.",
+          "correct": "Nous avons fini le projet.",
+          "hint": "regular -ir participle ends in -i.",
+          "errorType": "finir → fini."
+        },
+        {
+          "sentence": "Marie s’a levée tôt.",
+          "correct": "Marie s’est levée tôt.",
+          "hint": "pronominal verbs use être.",
+          "errorType": "se lever → s’est levée."
+        },
+        {
+          "sentence": "Tu as fais une erreur.",
+          "correct": "Tu as fait une erreur.",
+          "hint": "faire has an irregular participle.",
+          "errorType": "faire → fait."
+        },
+        {
+          "sentence": "Elles sont parti à midi.",
+          "correct": "Elles sont parties à midi.",
+          "hint": "être participle agrees feminine plural.",
+          "errorType": "elles sont parties."
+        },
+        {
+          "sentence": "Je n’ai mangé pas.",
+          "correct": "Je n’ai pas mangé.",
+          "hint": "pas goes around the auxiliary.",
+          "errorType": "ne ... pas wraps the auxiliary: je n’ai pas mangé."
+        },
+        {
+          "sentence": "Les clés que j’ai trouvé sont ici.",
+          "correct": "Les clés que j’ai trouvées sont ici.",
+          "hint": "preceding direct object with avoir.",
+          "errorType": "les clés → trouvées."
+        },
+        {
+          "sentence": "Nous sommes eu de la chance.",
+          "correct": "Nous avons eu de la chance.",
+          "hint": "avoir uses avoir in passé composé.",
+          "errorType": "avoir → nous avons eu."
+        },
+        {
+          "sentence": "Il a née en avril.",
+          "correct": "Il est né en avril.",
+          "hint": "naître uses être.",
+          "errorType": "naître → il est né."
+        },
+        {
+          "sentence": "Vous avez écrivé un message.",
+          "correct": "Vous avez écrit un message.",
+          "hint": "écrire has an irregular participle.",
+          "errorType": "écrire → écrit."
+        }
+      ]
+    }
+  ]
+}

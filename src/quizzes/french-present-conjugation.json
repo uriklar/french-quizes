@@ -1,0 +1,551 @@
+{
+  "slug": "french-present-conjugation",
+  "title": "French Present Tense Conjugation",
+  "description": "Regular -er/-ir/-re endings, spelling changes, and key irregular verbs",
+  "questionCount": 54,
+  "crashCourse": {
+    "title": "Present tense conjugation",
+    "subtitle": "Build the present tense from regular endings, then memorize the high-frequency irregulars.",
+    "sections": [
+      {
+        "title": "Regular -er verbs",
+        "content": "Drop -er and add: -e, -es, -e, -ons, -ez, -ent.",
+        "tip": "parler → je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent."
+      },
+      {
+        "title": "Regular -ir verbs like finir",
+        "content": "Drop -ir and add: -is, -is, -it, -issons, -issez, -issent.",
+        "tip": "The plural forms have -iss-: nous finissons, vous finissez, ils finissent."
+      },
+      {
+        "title": "Regular -re verbs like vendre",
+        "content": "Drop -re and add: -s, -s, nothing, -ons, -ez, -ent.",
+        "tip": "vendre → je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent."
+      },
+      {
+        "title": "Spelling-change verbs",
+        "content": "-ger keeps e before -ons; -cer uses ç before -ons; acheter/appeler/espérer change spelling before silent endings.",
+        "tip": "nous mangeons, nous commençons, j’achète, j’appelle, j’espère."
+      },
+      {
+        "title": "Irregular essentials",
+        "content": "être, avoir, aller, faire, prendre, venir, pouvoir, vouloir, devoir, dire, voir, savoir are too common to skip.",
+        "tip": "Pay special attention to vous faites, vous dites, ils vont, ils font."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Choose the present-tense form",
+      "instructions": "Pick the correct present-tense conjugation.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "je ___ (parler)",
+          "options": [
+            "parle",
+            "parles",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for je."
+        },
+        {
+          "sentence": "tu ___ (finir)",
+          "options": [
+            "finis",
+            "finit",
+            "finissons"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for tu."
+        },
+        {
+          "sentence": "il/elle/on ___ (vendre)",
+          "options": [
+            "vend",
+            "vends",
+            "vendons"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (parler)",
+          "options": [
+            "parlons",
+            "parle",
+            "parles"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (finir)",
+          "options": [
+            "finissez",
+            "finis",
+            "finit"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (vendre)",
+          "options": [
+            "vendent",
+            "vends",
+            "vend"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "tu ___ (parler)",
+          "options": [
+            "parles",
+            "parle",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for tu."
+        },
+        {
+          "sentence": "il/elle/on ___ (finir)",
+          "options": [
+            "finit",
+            "finis",
+            "finissons"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (vendre)",
+          "options": [
+            "vendons",
+            "vends",
+            "vend"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (parler)",
+          "options": [
+            "parlez",
+            "parle",
+            "parles"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (finir)",
+          "options": [
+            "finissent",
+            "finis",
+            "finit"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "je ___ (attendre)",
+          "options": [
+            "attends",
+            "attend",
+            "attendons"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for je."
+        },
+        {
+          "sentence": "il/elle/on ___ (parler)",
+          "options": [
+            "parle",
+            "parles",
+            "parlons"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (finir)",
+          "options": [
+            "finissons",
+            "finis",
+            "finit"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (vendre)",
+          "options": [
+            "vendez",
+            "vends",
+            "vend"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (parler)",
+          "options": [
+            "parlent",
+            "parle",
+            "parles"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "je ___ (vendre)",
+          "options": [
+            "vends",
+            "vend",
+            "vendons"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for je."
+        },
+        {
+          "sentence": "tu ___ (attendre)",
+          "options": [
+            "attends",
+            "attend",
+            "attendons"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for tu."
+        },
+        {
+          "sentence": "je ___ (finir)",
+          "options": [
+            "finis",
+            "finit",
+            "finissons"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the present ending for je."
+        },
+        {
+          "sentence": "tu ___ (vendre)",
+          "options": [
+            "vends",
+            "vend",
+            "vendons"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the present ending for tu."
+        },
+        {
+          "sentence": "il/elle/on ___ (attendre)",
+          "options": [
+            "attend",
+            "attends",
+            "attendons"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (attendre)",
+          "options": [
+            "attendons",
+            "attends",
+            "attend"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (attendre)",
+          "options": [
+            "attendez",
+            "attends",
+            "attend"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (attendre)",
+          "options": [
+            "attendent",
+            "attends",
+            "attend"
+          ],
+          "correct": 0,
+          "explanation": "attendre: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "je ___ (choisir)",
+          "options": [
+            "choisis",
+            "choisit",
+            "choisissons"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for je."
+        },
+        {
+          "sentence": "tu ___ (choisir)",
+          "options": [
+            "choisis",
+            "choisit",
+            "choisissons"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for tu."
+        },
+        {
+          "sentence": "il/elle/on ___ (choisir)",
+          "options": [
+            "choisit",
+            "choisis",
+            "choisissons"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (choisir)",
+          "options": [
+            "choisissons",
+            "choisis",
+            "choisit"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (choisir)",
+          "options": [
+            "choisissez",
+            "choisis",
+            "choisit"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (choisir)",
+          "options": [
+            "choisissent",
+            "choisis",
+            "choisit"
+          ],
+          "correct": 0,
+          "explanation": "choisir: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "je ___ (regarder)",
+          "options": [
+            "regarde",
+            "regardes",
+            "regardons"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for je."
+        },
+        {
+          "sentence": "tu ___ (regarder)",
+          "options": [
+            "regardes",
+            "regarde",
+            "regardons"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for tu."
+        },
+        {
+          "sentence": "il/elle/on ___ (regarder)",
+          "options": [
+            "regarde",
+            "regardes",
+            "regardons"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for il/elle/on."
+        },
+        {
+          "sentence": "nous ___ (regarder)",
+          "options": [
+            "regardons",
+            "regarde",
+            "regardes"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for nous."
+        },
+        {
+          "sentence": "vous ___ (regarder)",
+          "options": [
+            "regardez",
+            "regarde",
+            "regardes"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for vous."
+        },
+        {
+          "sentence": "ils/elles ___ (regarder)",
+          "options": [
+            "regardent",
+            "regarde",
+            "regardes"
+          ],
+          "correct": 0,
+          "explanation": "regarder: use the present ending for ils/elles."
+        },
+        {
+          "sentence": "nous ___ (manger) au restaurant.",
+          "options": [
+            "mangons",
+            "mangeons",
+            "mangonses",
+            "mangent"
+          ],
+          "correct": 1,
+          "explanation": "-ger keeps e before -ons: nous mangeons."
+        },
+        {
+          "sentence": "nous ___ (commencer) bientôt.",
+          "options": [
+            "commencons",
+            "commençons",
+            "commenceons",
+            "commencent"
+          ],
+          "correct": 1,
+          "explanation": "-cer becomes ç before -ons: nous commençons."
+        },
+        {
+          "sentence": "j’___ (acheter) du pain.",
+          "options": [
+            "achete",
+            "achètes",
+            "achète",
+            "achetons"
+          ],
+          "correct": 2,
+          "explanation": "acheter changes e → è before a silent ending: j’achète."
+        },
+        {
+          "sentence": "elle ___ (appeler) son frère.",
+          "options": [
+            "appele",
+            "appelles",
+            "appelle",
+            "appelons"
+          ],
+          "correct": 2,
+          "explanation": "appeler doubles l before a silent ending: elle appelle."
+        },
+        {
+          "sentence": "tu ___ (préférer) le thé ?",
+          "options": [
+            "préferes",
+            "préfères",
+            "préféres",
+            "préférez"
+          ],
+          "correct": 1,
+          "explanation": "préférer changes é → è before a silent ending: tu préfères."
+        },
+        {
+          "sentence": "ils ___ (payer) par carte.",
+          "options": [
+            "payent",
+            "paient",
+            "payons",
+            "payez"
+          ],
+          "correct": 1,
+          "explanation": "-yer verbs often change y → i before silent endings: ils paient."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Spot and fix the present-tense error",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Vous faisez souvent du sport.",
+          "correct": "Vous faites souvent du sport.",
+          "hint": "faire with vous is irregular.",
+          "errorType": "faire → vous faites, not vous faisez."
+        },
+        {
+          "sentence": "Ils allent au parc.",
+          "correct": "Ils vont au parc.",
+          "hint": "aller is highly irregular.",
+          "errorType": "aller → ils vont."
+        },
+        {
+          "sentence": "Nous mangons à midi.",
+          "correct": "Nous mangeons à midi.",
+          "hint": "-ger verbs keep the soft g.",
+          "errorType": "manger → nous mangeons."
+        },
+        {
+          "sentence": "Je prend le métro.",
+          "correct": "Je prends le métro.",
+          "hint": "prendre keeps -s with je/tu.",
+          "errorType": "prendre → je prends."
+        },
+        {
+          "sentence": "Vous disez la vérité.",
+          "correct": "Vous dites la vérité.",
+          "hint": "dire with vous is irregular.",
+          "errorType": "dire → vous dites."
+        },
+        {
+          "sentence": "Ils finisent leurs devoirs.",
+          "correct": "Ils finissent leurs devoirs.",
+          "hint": "regular -ir plural has -iss-.",
+          "errorType": "finir → ils finissent."
+        },
+        {
+          "sentence": "Nous commencons maintenant.",
+          "correct": "Nous commençons maintenant.",
+          "hint": "-cer verbs need ç before -ons.",
+          "errorType": "commencer → nous commençons."
+        },
+        {
+          "sentence": "Elle peux venir.",
+          "correct": "Elle peut venir.",
+          "hint": "pouvoir: je peux, tu peux, il/elle peut.",
+          "errorType": "pouvoir → elle peut."
+        },
+        {
+          "sentence": "Tu est prêt ?",
+          "correct": "Tu es prêt ?",
+          "hint": "être is irregular.",
+          "errorType": "être → tu es."
+        },
+        {
+          "sentence": "Ils faisent la cuisine.",
+          "correct": "Ils font la cuisine.",
+          "hint": "faire is irregular.",
+          "errorType": "faire → ils font."
+        },
+        {
+          "sentence": "Je vend mon vélo.",
+          "correct": "Je vends mon vélo.",
+          "hint": "regular -re with je takes -s.",
+          "errorType": "vendre → je vends."
+        },
+        {
+          "sentence": "Vous voiez le problème ?",
+          "correct": "Vous voyez le problème ?",
+          "hint": "voir has voy- with nous/vous.",
+          "errorType": "voir → vous voyez."
+        }
+      ]
+    }
+  ]
+}

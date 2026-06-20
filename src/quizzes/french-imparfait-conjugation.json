@@ -1,0 +1,486 @@
+{
+  "slug": "french-imparfait-conjugation",
+  "title": "French Imparfait Conjugation",
+  "description": "Nous-stem formation, imparfait endings, être exception, and spelling traps",
+  "questionCount": 48,
+  "crashCourse": {
+    "title": "Imparfait conjugation",
+    "subtitle": "Almost everything follows one rule: present nous form minus -ons + imparfait endings.",
+    "sections": [
+      {
+        "title": "The rule",
+        "content": "Take the present-tense nous form, drop -ons, add -ais, -ais, -ait, -ions, -iez, -aient.",
+        "tip": "nous parlons → je parlais; nous finissons → tu finissais; nous prenons → il prenait."
+      },
+      {
+        "title": "être exception",
+        "content": "être is the only fully irregular imparfait stem: ét-.",
+        "tip": "j’étais, tu étais, il était, nous étions, vous étiez, ils étaient."
+      },
+      {
+        "title": "-ger / -cer spelling",
+        "content": "-ger keeps e before a-endings; -cer keeps ç before a-endings.",
+        "tip": "je mangeais, nous mangions; je commençais, nous commencions."
+      },
+      {
+        "title": "-ier verbs",
+        "content": "If the stem ends in i, nous/vous have double i.",
+        "tip": "étudier → nous étudiions, vous étudiiez."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Part 1: Choose the imparfait form",
+      "instructions": "Pick the correct imparfait conjugation.",
+      "type": "multiple_choice",
+      "questions": [
+        {
+          "sentence": "je ___ (parler)",
+          "options": [
+            "parlais",
+            "parlait"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + ais."
+        },
+        {
+          "sentence": "tu ___ (finir)",
+          "options": [
+            "finissais",
+            "finissait",
+            "finissions",
+            "finais"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (vendre)",
+          "options": [
+            "vendait",
+            "vendions",
+            "vendiez"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + ait."
+        },
+        {
+          "sentence": "nous ___ (parler)",
+          "options": [
+            "parlions",
+            "parliez",
+            "parlaient"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + ions."
+        },
+        {
+          "sentence": "vous ___ (finir)",
+          "options": [
+            "finissiez",
+            "finissaient",
+            "finissais",
+            "finiez"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (vendre)",
+          "options": [
+            "vendaient",
+            "vendais"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + aient."
+        },
+        {
+          "sentence": "tu ___ (parler)",
+          "options": [
+            "parlais",
+            "parlait",
+            "parlions"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (finir)",
+          "options": [
+            "finissait",
+            "finissions",
+            "finissiez",
+            "finait"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + ait."
+        },
+        {
+          "sentence": "nous ___ (vendre)",
+          "options": [
+            "vendions",
+            "vendiez",
+            "vendaient"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + ions."
+        },
+        {
+          "sentence": "vous ___ (parler)",
+          "options": [
+            "parliez",
+            "parlaient",
+            "parlais"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (finir)",
+          "options": [
+            "finissaient",
+            "finissais",
+            "finaient"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + aient."
+        },
+        {
+          "sentence": "je ___ (prendre)",
+          "options": [
+            "prenais",
+            "prenait",
+            "prendais"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (parler)",
+          "options": [
+            "parlait",
+            "parlions",
+            "parliez"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + ait."
+        },
+        {
+          "sentence": "nous ___ (finir)",
+          "options": [
+            "finissions",
+            "finissiez",
+            "finissaient",
+            "finions"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + ions."
+        },
+        {
+          "sentence": "vous ___ (vendre)",
+          "options": [
+            "vendiez",
+            "vendaient",
+            "vendais"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (parler)",
+          "options": [
+            "parlaient",
+            "parlais"
+          ],
+          "correct": 0,
+          "explanation": "parler: use the imparfait stem parl- + aient."
+        },
+        {
+          "sentence": "je ___ (vendre)",
+          "options": [
+            "vendais",
+            "vendait"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + ais."
+        },
+        {
+          "sentence": "tu ___ (prendre)",
+          "options": [
+            "prenais",
+            "prenait",
+            "prenions",
+            "prendais"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + ais."
+        },
+        {
+          "sentence": "je ___ (finir)",
+          "options": [
+            "finissais",
+            "finissait",
+            "finais"
+          ],
+          "correct": 0,
+          "explanation": "finir: use the imparfait stem finiss- + ais."
+        },
+        {
+          "sentence": "tu ___ (vendre)",
+          "options": [
+            "vendais",
+            "vendait",
+            "vendions"
+          ],
+          "correct": 0,
+          "explanation": "vendre: use the imparfait stem vend- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (prendre)",
+          "options": [
+            "prenait",
+            "prenions",
+            "preniez",
+            "prendait"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + ait."
+        },
+        {
+          "sentence": "nous ___ (prendre)",
+          "options": [
+            "prenions",
+            "preniez",
+            "prenaient",
+            "prendions"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + ions."
+        },
+        {
+          "sentence": "vous ___ (prendre)",
+          "options": [
+            "preniez",
+            "prenaient",
+            "prenais",
+            "prendiez"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (prendre)",
+          "options": [
+            "prenaient",
+            "prenais",
+            "prendaient"
+          ],
+          "correct": 0,
+          "explanation": "prendre: use the imparfait stem pren- + aient."
+        },
+        {
+          "sentence": "je ___ (faire)",
+          "options": [
+            "faisais",
+            "faisait",
+            "faiais"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + ais."
+        },
+        {
+          "sentence": "tu ___ (faire)",
+          "options": [
+            "faisais",
+            "faisait",
+            "faisions",
+            "faiais"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (faire)",
+          "options": [
+            "faisait",
+            "faisions",
+            "faisiez",
+            "faiait"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + ait."
+        },
+        {
+          "sentence": "nous ___ (faire)",
+          "options": [
+            "faisions",
+            "faisiez",
+            "faisaient",
+            "faiions"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + ions."
+        },
+        {
+          "sentence": "vous ___ (faire)",
+          "options": [
+            "faisiez",
+            "faisaient",
+            "faisais",
+            "faiiez"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (faire)",
+          "options": [
+            "faisaient",
+            "faisais",
+            "faiaient"
+          ],
+          "correct": 0,
+          "explanation": "faire: use the imparfait stem fais- + aient."
+        },
+        {
+          "sentence": "je ___ (aller)",
+          "options": [
+            "allais",
+            "allait"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + ais."
+        },
+        {
+          "sentence": "tu ___ (aller)",
+          "options": [
+            "allais",
+            "allait",
+            "allions"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + ais."
+        },
+        {
+          "sentence": "il/elle/on ___ (aller)",
+          "options": [
+            "allait",
+            "allions",
+            "alliez"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + ait."
+        },
+        {
+          "sentence": "nous ___ (aller)",
+          "options": [
+            "allions",
+            "alliez",
+            "allaient"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + ions."
+        },
+        {
+          "sentence": "vous ___ (aller)",
+          "options": [
+            "alliez",
+            "allaient",
+            "allais"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + iez."
+        },
+        {
+          "sentence": "ils/elles ___ (aller)",
+          "options": [
+            "allaient",
+            "allais"
+          ],
+          "correct": 0,
+          "explanation": "aller: use the imparfait stem all- + aient."
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Spot and fix the imparfait error",
+      "instructions": "Type the corrected full sentence.",
+      "type": "correction",
+      "questions": [
+        {
+          "sentence": "Je prendais le métro tous les matins.",
+          "correct": "Je prenais le métro tous les matins.",
+          "hint": "Use the nous stem: nous prenons → pren-.",
+          "errorType": "prendre → je prenais."
+        },
+        {
+          "sentence": "Nous étudions le français hier soir.",
+          "correct": "Nous étudiions le français hier soir.",
+          "hint": "For a past background/habit, use imparfait; étudier has double i with nous/vous.",
+          "errorType": "étudier → nous étudiions."
+        },
+        {
+          "sentence": "Elle mangait souvent chez sa grand-mère.",
+          "correct": "Elle mangeait souvent chez sa grand-mère.",
+          "hint": "-ger keeps e before a-ending.",
+          "errorType": "manger → elle mangeait."
+        },
+        {
+          "sentence": "Tu commencais à huit heures.",
+          "correct": "Tu commençais à huit heures.",
+          "hint": "-cer uses ç before a-ending.",
+          "errorType": "commencer → tu commençais."
+        },
+        {
+          "sentence": "Ils finisaient toujours tôt.",
+          "correct": "Ils finissaient toujours tôt.",
+          "hint": "finir uses nous finissons → finiss-.",
+          "errorType": "finir → ils finissaient."
+        },
+        {
+          "sentence": "J’êtreais fatigué après le travail.",
+          "correct": "J’étais fatigué après le travail.",
+          "hint": "être has irregular stem ét-.",
+          "errorType": "être → j’étais."
+        },
+        {
+          "sentence": "Vous faisez la cuisine quand je suis arrivé.",
+          "correct": "Vous faisiez la cuisine quand je suis arrivé.",
+          "hint": "faire imparfait stem comes from nous faisons → fais-.",
+          "errorType": "faire → vous faisiez."
+        },
+        {
+          "sentence": "Nous mangeais ensemble le dimanche.",
+          "correct": "Nous mangions ensemble le dimanche.",
+          "hint": "nous uses -ions; no e needed before i.",
+          "errorType": "manger → nous mangions."
+        },
+        {
+          "sentence": "Ils ont contents quand ils étaient petits.",
+          "correct": "Ils étaient contents quand ils étaient petits.",
+          "hint": "Use imparfait of être for description/background.",
+          "errorType": "être → ils étaient."
+        },
+        {
+          "sentence": "Je joueraient au foot tous les jours.",
+          "correct": "Je jouais au foot tous les jours.",
+          "hint": "Past habit uses imparfait, not future/conditional-looking form.",
+          "errorType": "jouer → je jouais."
+        },
+        {
+          "sentence": "Nous voyons souvent nos cousins avant.",
+          "correct": "Nous voyions souvent nos cousins avant.",
+          "hint": "voir: nous voyons → voy- + ions.",
+          "errorType": "voir → nous voyions."
+        },
+        {
+          "sentence": "Elle voulaient partir, mais elle ne pouvions pas.",
+          "correct": "Elle voulait partir, mais elle ne pouvait pas.",
+          "hint": "Use the elle ending -ait for both verbs.",
+          "errorType": "vouloir/pouvoir with elle → voulait / pouvait."
+        }
+      ]
+    }
+  ]
+}

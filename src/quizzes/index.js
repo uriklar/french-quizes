@@ -5,6 +5,10 @@ import tcfWritingToolkit from './tcf-writing-toolkit.json';
 import frenchConnectors from './french-connectors.json';
 import frenchArticles from './french-articles.json';
 import frenchCoiYPronouns from './french-coi-y-pronouns.json';
+import frenchPresentConjugation from './french-present-conjugation.json';
+import frenchPasseComposeParticiples from './french-passe-compose-participles.json';
+import frenchFutureConjugation from './french-future-conjugation.json';
+import frenchImparfaitConjugation from './french-imparfait-conjugation.json';
 
 const quizzes = [
   frenchPronouns,
@@ -13,6 +17,10 @@ const quizzes = [
   frenchConnectors,
   frenchArticles,
   frenchCoiYPronouns,
+  frenchPresentConjugation,
+  frenchPasseComposeParticiples,
+  frenchFutureConjugation,
+  frenchImparfaitConjugation,
 ];
 
 export function getAllQuizzes() {
