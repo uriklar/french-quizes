@@ -1,22 +1,30 @@
-import React from 'react';
+import React, { useMemo } from 'react';
+
+function shuffleOptions(options) {
+  return [...options].sort(() => Math.random() - 0.5);
+}
 
 export default function MultipleChoice({ q, onAnswer, answered, userAnswer }) {
+  const shuffledOptions = useMemo(() => shuffleOptions(q.options), [q]);
+  const correctOption = q.options[q.correct];
+  const selectedOption = typeof userAnswer === 'number' ? q.options[userAnswer] : userAnswer;
+
   return (
     <div className="question-block">
       <p className="question-text">{q.sentence.replace('___', '______')}</p>
       {q.context && <p className="context-text">{q.context}</p>}
       <div className="options-row">
-        {q.options.map((opt, i) => {
+        {shuffledOptions.map((opt, i) => {
           let className = 'btn';
           if (answered) {
-            if (i === q.correct) className += ' option-correct';
-            else if (i === userAnswer && i !== q.correct) className += ' option-wrong';
+            if (opt === correctOption) className += ' option-correct';
+            else if (opt === selectedOption && opt !== correctOption) className += ' option-wrong';
           }
           return (
             <button
-              key={i}
+              key={`${opt}-${i}`}
               className={className}
-              onClick={() => !answered && onAnswer(i)}
+              onClick={() => !answered && onAnswer(opt)}
               style={{ cursor: answered ? 'default' : 'pointer' }}
             >
               {opt}

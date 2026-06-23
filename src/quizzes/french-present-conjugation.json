@@ -345,9 +345,9 @@
           "sentence": "tu ___ (regarder)",
           "options": [
             "regardes",
-            "regarde",
-            "regardons",
-            "regardez"
+            "regardais",
+            "regarderas",
+            "regarde"
           ],
           "correct": 0,
           "explanation": "Regular -er endings."
@@ -356,9 +356,9 @@
           "sentence": "il/elle/on ___ (étudier)",
           "options": [
             "étudie",
-            "étudies",
-            "étudions",
-            "étudiez"
+            "étudiait",
+            "étudiera",
+            "étudies"
           ],
           "correct": 0,
           "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
@@ -367,9 +367,9 @@
           "sentence": "nous ___ (manger)",
           "options": [
             "mangeons",
-            "mange",
-            "manges",
-            "mangez"
+            "mangions",
+            "mangerons",
+            "mange"
           ],
           "correct": 0,
           "explanation": "-ger keeps e before -ons: nous mangeons."
@@ -378,9 +378,9 @@
           "sentence": "vous ___ (commencer)",
           "options": [
             "commencez",
-            "commence",
-            "commences",
-            "commençons"
+            "commenciez",
+            "commencerez",
+            "commence"
           ],
           "correct": 0,
           "explanation": "-cer uses ç before -ons: nous commençons."
@@ -433,9 +433,9 @@
           "sentence": "nous ___ (finir)",
           "options": [
             "finissons",
-            "finis",
-            "finit",
-            "finissez"
+            "finirons",
+            "finissions",
+            "finis"
           ],
           "correct": 0,
           "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
@@ -488,9 +488,9 @@
           "sentence": "il/elle/on ___ (vendre)",
           "options": [
             "vend",
-            "vends",
-            "vendons",
-            "vendez"
+            "vendra",
+            "vendait",
+            "vends"
           ],
           "correct": 0,
           "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
@@ -499,9 +499,9 @@
           "sentence": "nous ___ (attendre)",
           "options": [
             "attendons",
+            "attendrons",
             "attends",
-            "attend",
-            "attendez"
+            "attend"
           ],
           "correct": 0,
           "explanation": "Regular -re pattern."
@@ -532,9 +532,9 @@
           "sentence": "je ___ (regarder)",
           "options": [
             "regarde",
-            "regardes",
-            "regardons",
-            "regardez"
+            "regardais",
+            "regarderai",
+            "regardes"
           ],
           "correct": 0,
           "explanation": "Regular -er endings."
@@ -543,9 +543,9 @@
           "sentence": "tu ___ (étudier)",
           "options": [
             "étudies",
-            "étudie",
-            "étudions",
-            "étudiez"
+            "étudiais",
+            "étudieras",
+            "étudie"
           ],
           "correct": 0,
           "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
@@ -554,9 +554,9 @@
           "sentence": "il/elle/on ___ (manger)",
           "options": [
             "mange",
-            "manges",
-            "mangeons",
-            "mangez"
+            "mangait",
+            "mangera",
+            "manges"
           ],
           "correct": 0,
           "explanation": "-ger keeps e before -ons: nous mangeons."
@@ -576,9 +576,9 @@
           "sentence": "vous ___ (acheter)",
           "options": [
             "achetez",
-            "achète",
-            "achètes",
-            "achetons"
+            "achetiez",
+            "acheterez",
+            "achète"
           ],
           "correct": 0,
           "explanation": "acheter changes e → è before silent endings."
@@ -620,9 +620,9 @@
           "sentence": "il/elle/on ___ (finir)",
           "options": [
             "finit",
-            "finis",
-            "finissons",
-            "finissez"
+            "finira",
+            "finissait",
+            "finis"
           ],
           "correct": 0,
           "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
@@ -675,9 +675,9 @@
           "sentence": "tu ___ (vendre)",
           "options": [
             "vends",
-            "vend",
-            "vendons",
-            "vendez"
+            "vendras",
+            "vendais",
+            "vend"
           ],
           "correct": 0,
           "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
@@ -686,9 +686,9 @@
           "sentence": "il/elle/on ___ (attendre)",
           "options": [
             "attend",
+            "attendra",
             "attends",
-            "attendons",
-            "attendez"
+            "attendons"
           ],
           "correct": 0,
           "explanation": "Regular -re pattern."
@@ -719,9 +719,9 @@
           "sentence": "ils/elles ___ (parler)",
           "options": [
             "parlent",
-            "parle",
-            "parles",
-            "parlons"
+            "parleront",
+            "parlaient",
+            "parle"
           ],
           "correct": 0,
           "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
@@ -741,9 +741,9 @@
           "sentence": "tu ___ (manger)",
           "options": [
             "manges",
-            "mange",
-            "mangeons",
-            "mangez"
+            "mangais",
+            "mangeras",
+            "mange"
           ],
           "correct": 0,
           "explanation": "-ger keeps e before -ons: nous mangeons."
@@ -752,9 +752,9 @@
           "sentence": "il/elle/on ___ (commencer)",
           "options": [
             "commence",
-            "commences",
-            "commençons",
-            "commencez"
+            "commencait",
+            "commencera",
+            "commences"
           ],
           "correct": 0,
           "explanation": "-cer uses ç before -ons: nous commençons."
@@ -763,9 +763,9 @@
           "sentence": "nous ___ (acheter)",
           "options": [
             "achetons",
-            "achète",
-            "achètes",
-            "achetez"
+            "achetions",
+            "acheterons",
+            "achète"
           ],
           "correct": 0,
           "explanation": "acheter changes e → è before silent endings."
@@ -774,9 +774,9 @@
           "sentence": "vous ___ (préférer)",
           "options": [
             "préférez",
-            "préfère",
-            "préfères",
-            "préférons"
+            "préfériez",
+            "préférerez",
+            "préfère"
           ],
           "correct": 0,
           "explanation": "préférer changes é → è before silent endings."
@@ -785,9 +785,9 @@
           "sentence": "ils/elles ___ (appeler)",
           "options": [
             "appellent",
-            "appelle",
-            "appelles",
-            "appelons"
+            "appelent",
+            "appelaient",
+            "appeleront"
           ],
           "correct": 0,
           "explanation": "appeler doubles l before silent endings."
@@ -807,9 +807,9 @@
           "sentence": "tu ___ (finir)",
           "options": [
             "finis",
-            "finit",
-            "finissons",
-            "finissez"
+            "finiras",
+            "finissais",
+            "finit"
           ],
           "correct": 0,
           "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
@@ -818,9 +818,9 @@
           "sentence": "il/elle/on ___ (choisir)",
           "options": [
             "choisit",
+            "choisissiez",
             "choisis",
-            "choisissons",
-            "choisissez"
+            "choisissons"
           ],
           "correct": 0,
           "explanation": "Regular 2nd-group -ir pattern."
@@ -862,9 +862,9 @@
           "sentence": "je ___ (vendre)",
           "options": [
             "vends",
-            "vend",
-            "vendons",
-            "vendez"
+            "vendrai",
+            "vendais",
+            "vend"
           ],
           "correct": 0,
           "explanation": "Regular -re: -s, -s, no ending, -ons, -ez, -ent."
@@ -873,9 +873,9 @@
           "sentence": "tu ___ (attendre)",
           "options": [
             "attends",
+            "attendras",
             "attend",
-            "attendons",
-            "attendez"
+            "attendons"
           ],
           "correct": 0,
           "explanation": "Regular -re pattern."
@@ -906,9 +906,9 @@
           "sentence": "vous ___ (parler)",
           "options": [
             "parlez",
-            "parle",
-            "parles",
-            "parlons"
+            "parlerez",
+            "parliez",
+            "parle"
           ],
           "correct": 0,
           "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
@@ -917,9 +917,9 @@
           "sentence": "ils/elles ___ (regarder)",
           "options": [
             "regardent",
-            "regarde",
-            "regardes",
-            "regardons"
+            "regardaient",
+            "regarderont",
+            "regarde"
           ],
           "correct": 0,
           "explanation": "Regular -er endings."
@@ -928,9 +928,9 @@
           "sentence": "je ___ (manger)",
           "options": [
             "mange",
-            "manges",
-            "mangeons",
-            "mangez"
+            "mangais",
+            "mangerai",
+            "manges"
           ],
           "correct": 0,
           "explanation": "-ger keeps e before -ons: nous mangeons."
@@ -939,9 +939,9 @@
           "sentence": "tu ___ (commencer)",
           "options": [
             "commences",
-            "commence",
-            "commençons",
-            "commencez"
+            "commencais",
+            "commenceras",
+            "commence"
           ],
           "correct": 0,
           "explanation": "-cer uses ç before -ons: nous commençons."
@@ -961,9 +961,9 @@
           "sentence": "nous ___ (préférer)",
           "options": [
             "préférons",
-            "préfère",
-            "préfères",
-            "préférez"
+            "préférions",
+            "préférerons",
+            "préfère"
           ],
           "correct": 0,
           "explanation": "préférer changes é → è before silent endings."
@@ -972,9 +972,9 @@
           "sentence": "vous ___ (appeler)",
           "options": [
             "appelez",
-            "appelle",
-            "appelles",
-            "appelons"
+            "appeliez",
+            "appelerez",
+            "appelle"
           ],
           "correct": 0,
           "explanation": "appeler doubles l before silent endings."
@@ -994,9 +994,9 @@
           "sentence": "je ___ (finir)",
           "options": [
             "finis",
-            "finit",
-            "finissons",
-            "finissez"
+            "finirai",
+            "finissais",
+            "finissent"
           ],
           "correct": 0,
           "explanation": "Regular 2nd-group -ir: plural stem has -iss-."
@@ -1093,9 +1093,9 @@
           "sentence": "nous ___ (parler)",
           "options": [
             "parlons",
-            "parle",
-            "parles",
-            "parlez"
+            "parlerons",
+            "parlions",
+            "parle"
           ],
           "correct": 0,
           "explanation": "Regular -er: -e, -es, -e, -ons, -ez, -ent."
@@ -1104,9 +1104,9 @@
           "sentence": "vous ___ (regarder)",
           "options": [
             "regardez",
-            "regarde",
-            "regardes",
-            "regardons"
+            "regardiez",
+            "regarderez",
+            "regarde"
           ],
           "correct": 0,
           "explanation": "Regular -er endings."
@@ -1115,9 +1115,9 @@
           "sentence": "ils/elles ___ (étudier)",
           "options": [
             "étudient",
-            "étudie",
-            "étudies",
-            "étudions"
+            "étudiaient",
+            "étudieront",
+            "étudie"
           ],
           "correct": 0,
           "explanation": "Regular -er; keep the i in nous/vous: nous étudions."
@@ -1126,9 +1126,9 @@
           "sentence": "je ___ (commencer)",
           "options": [
             "commence",
-            "commences",
-            "commençons",
-            "commencez"
+            "commencais",
+            "commencerai",
+            "commences"
           ],
           "correct": 0,
           "explanation": "-cer uses ç before -ons: nous commençons."
@@ -1144,9 +1144,9 @@
           "sentence": "tu ___ (sortir)",
           "options": [
             "sors",
+            "sortais",
             "sort",
-            "sortons",
-            "sortez"
+            "sortons"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1155,9 +1155,9 @@
           "sentence": "il/elle/on ___ (dormir)",
           "options": [
             "dort",
+            "dormait",
             "dors",
-            "dormons",
-            "dormez"
+            "dormons"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1166,9 +1166,9 @@
           "sentence": "nous ___ (servir)",
           "options": [
             "servons",
+            "servions",
             "sers",
-            "sert",
-            "servez"
+            "sert"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1188,9 +1188,9 @@
           "sentence": "ils/elles ___ (ouvrir)",
           "options": [
             "ouvrent",
+            "ouvraient",
             "ouvre",
-            "ouvres",
-            "ouvrons"
+            "ouvres"
           ],
           "correct": 0,
           "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
@@ -1210,9 +1210,9 @@
           "sentence": "tu ___ (venir)",
           "options": [
             "viens",
+            "venais",
             "vient",
-            "venons",
-            "venez"
+            "venons"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1221,9 +1221,9 @@
           "sentence": "il/elle/on ___ (tenir)",
           "options": [
             "tient",
+            "tenait",
             "tiens",
-            "tenons",
-            "tenez"
+            "tenons"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1232,9 +1232,9 @@
           "sentence": "nous ___ (devenir)",
           "options": [
             "devenons",
-            "deviens",
-            "devient",
-            "devenez"
+            "deviendrons",
+            "devenions",
+            "deviens"
           ],
           "correct": 0,
           "explanation": "Compounds of venir follow venir."
@@ -1243,9 +1243,9 @@
           "sentence": "vous ___ (courir)",
           "options": [
             "courez",
-            "cours",
-            "court",
-            "courons"
+            "courrez",
+            "couriez",
+            "cours"
           ],
           "correct": 0,
           "explanation": "courir is irregular: je cours, nous courons."
@@ -1254,9 +1254,9 @@
           "sentence": "ils/elles ___ (mourir)",
           "options": [
             "meurent",
-            "meurs",
-            "meurt",
-            "mourons"
+            "mourront",
+            "mouraient",
+            "meurs"
           ],
           "correct": 0,
           "explanation": "mourir is irregular: je meurs, nous mourons, ils meurent."
@@ -1287,9 +1287,9 @@
           "sentence": "il/elle/on ___ (partir)",
           "options": [
             "part",
+            "partions",
             "pars",
-            "partons",
-            "partez"
+            "partons"
           ],
           "correct": 0,
           "explanation": "3rd-group -ir: partir/sortir/dormir family, not finir-style."
@@ -1331,9 +1331,9 @@
           "sentence": "je ___ (sortir)",
           "options": [
             "sors",
-            "sort",
-            "sortons",
-            "sortez"
+            "sortais",
+            "sortent",
+            "sort"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1342,9 +1342,9 @@
           "sentence": "il/elle/on ___ (sortir)",
           "options": [
             "sort",
+            "sortait",
             "sors",
-            "sortons",
-            "sortez"
+            "sortons"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1353,9 +1353,9 @@
           "sentence": "nous ___ (sortir)",
           "options": [
             "sortons",
+            "sortions",
             "sors",
-            "sort",
-            "sortez"
+            "sort"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1364,9 +1364,9 @@
           "sentence": "vous ___ (sortir)",
           "options": [
             "sortez",
+            "sortiez",
             "sors",
-            "sort",
-            "sortons"
+            "sort"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1375,9 +1375,9 @@
           "sentence": "ils/elles ___ (sortir)",
           "options": [
             "sortent",
+            "sortaient",
             "sors",
-            "sort",
-            "sortons"
+            "sort"
           ],
           "correct": 0,
           "explanation": "sortir follows the partir/dormir family."
@@ -1386,9 +1386,9 @@
           "sentence": "je ___ (dormir)",
           "options": [
             "dors",
+            "dormais",
             "dort",
-            "dormons",
-            "dormez"
+            "dormons"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1397,9 +1397,9 @@
           "sentence": "tu ___ (dormir)",
           "options": [
             "dors",
+            "dormais",
             "dort",
-            "dormons",
-            "dormez"
+            "dormons"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1408,9 +1408,9 @@
           "sentence": "nous ___ (dormir)",
           "options": [
             "dormons",
+            "dormions",
             "dors",
-            "dort",
-            "dormez"
+            "dort"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1419,9 +1419,9 @@
           "sentence": "vous ___ (dormir)",
           "options": [
             "dormez",
+            "dormiez",
             "dors",
-            "dort",
-            "dormons"
+            "dort"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1430,9 +1430,9 @@
           "sentence": "ils/elles ___ (dormir)",
           "options": [
             "dorment",
+            "dormaient",
             "dors",
-            "dort",
-            "dormons"
+            "dort"
           ],
           "correct": 0,
           "explanation": "dormir family: je dors, nous dormons, ils dorment."
@@ -1441,9 +1441,9 @@
           "sentence": "je ___ (servir)",
           "options": [
             "sers",
+            "servais",
             "sert",
-            "servons",
-            "servez"
+            "servons"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1452,9 +1452,9 @@
           "sentence": "tu ___ (servir)",
           "options": [
             "sers",
+            "servais",
             "sert",
-            "servons",
-            "servez"
+            "servons"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1463,9 +1463,9 @@
           "sentence": "il/elle/on ___ (servir)",
           "options": [
             "sert",
+            "servait",
             "sers",
-            "servons",
-            "servez"
+            "servons"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1474,9 +1474,9 @@
           "sentence": "vous ___ (servir)",
           "options": [
             "servez",
+            "serviez",
             "sers",
-            "sert",
-            "servons"
+            "sert"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1485,9 +1485,9 @@
           "sentence": "ils/elles ___ (servir)",
           "options": [
             "servent",
+            "servaient",
             "sers",
-            "sert",
-            "servons"
+            "sert"
           ],
           "correct": 0,
           "explanation": "servir/sentir/mentir pattern."
@@ -1562,9 +1562,9 @@
           "sentence": "tu ___ (ouvrir)",
           "options": [
             "ouvres",
+            "ouvrais",
             "ouvre",
-            "ouvrons",
-            "ouvrez"
+            "ouvrons"
           ],
           "correct": 0,
           "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
@@ -1573,9 +1573,9 @@
           "sentence": "il/elle/on ___ (ouvrir)",
           "options": [
             "ouvre",
+            "ouvrait",
             "ouvres",
-            "ouvrons",
-            "ouvrez"
+            "ouvrons"
           ],
           "correct": 0,
           "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
@@ -1584,9 +1584,9 @@
           "sentence": "nous ___ (ouvrir)",
           "options": [
             "ouvrons",
+            "ouvrions",
             "ouvre",
-            "ouvres",
-            "ouvrez"
+            "ouvres"
           ],
           "correct": 0,
           "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
@@ -1595,9 +1595,9 @@
           "sentence": "vous ___ (ouvrir)",
           "options": [
             "ouvrez",
+            "ouvriez",
             "ouvre",
-            "ouvres",
-            "ouvrons"
+            "ouvres"
           ],
           "correct": 0,
           "explanation": "ouvrir/offrir/couvrir conjugate like -er in the present."
@@ -1727,9 +1727,9 @@
           "sentence": "je ___ (venir)",
           "options": [
             "viens",
+            "venais",
             "vient",
-            "venons",
-            "venez"
+            "venons"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1738,9 +1738,9 @@
           "sentence": "il/elle/on ___ (venir)",
           "options": [
             "vient",
+            "venait",
             "viens",
-            "venons",
-            "venez"
+            "venons"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1749,9 +1749,9 @@
           "sentence": "nous ___ (venir)",
           "options": [
             "venons",
-            "viens",
-            "vient",
-            "venez"
+            "venions",
+            "veniez",
+            "viens"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1760,9 +1760,9 @@
           "sentence": "vous ___ (venir)",
           "options": [
             "venez",
+            "veniez",
             "viens",
-            "vient",
-            "venons"
+            "vient"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1771,9 +1771,9 @@
           "sentence": "ils/elles ___ (venir)",
           "options": [
             "viennent",
+            "venaient",
             "viens",
-            "vient",
-            "venons"
+            "vient"
           ],
           "correct": 0,
           "explanation": "venir/tenir family: je viens, nous venons, ils viennent."
@@ -1782,9 +1782,9 @@
           "sentence": "je ___ (tenir)",
           "options": [
             "tiens",
+            "tenais",
             "tient",
-            "tenons",
-            "tenez"
+            "tenons"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1793,9 +1793,9 @@
           "sentence": "tu ___ (tenir)",
           "options": [
             "tiens",
+            "tenais",
             "tient",
-            "tenons",
-            "tenez"
+            "tenons"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1804,9 +1804,9 @@
           "sentence": "nous ___ (tenir)",
           "options": [
             "tenons",
+            "tenions",
             "tiens",
-            "tient",
-            "tenez"
+            "tient"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1815,9 +1815,9 @@
           "sentence": "vous ___ (tenir)",
           "options": [
             "tenez",
+            "teniez",
             "tiens",
-            "tient",
-            "tenons"
+            "tient"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1826,9 +1826,9 @@
           "sentence": "ils/elles ___ (tenir)",
           "options": [
             "tiennent",
+            "tenaient",
             "tiens",
-            "tient",
-            "tenons"
+            "tient"
           ],
           "correct": 0,
           "explanation": "tenir follows venir."
@@ -1837,9 +1837,9 @@
           "sentence": "je ___ (devenir)",
           "options": [
             "deviens",
-            "devient",
-            "devenons",
-            "devenez"
+            "deviendrai",
+            "devenais",
+            "devient"
           ],
           "correct": 0,
           "explanation": "Compounds of venir follow venir."
@@ -1848,9 +1848,9 @@
           "sentence": "tu ___ (devenir)",
           "options": [
             "deviens",
-            "devient",
-            "devenons",
-            "devenez"
+            "deviendras",
+            "devenais",
+            "devient"
           ],
           "correct": 0,
           "explanation": "Compounds of venir follow venir."
@@ -1859,9 +1859,9 @@
           "sentence": "il/elle/on ___ (devenir)",
           "options": [
             "devient",
-            "deviens",
-            "devenons",
-            "devenez"
+            "deviendra",
+            "devenait",
+            "deviens"
           ],
           "correct": 0,
           "explanation": "Compounds of venir follow venir."
@@ -1877,9 +1877,9 @@
           "sentence": "tu ___ (avoir)",
           "options": [
             "as",
+            "auras",
             "ai",
-            "a",
-            "avons"
+            "a"
           ],
           "correct": 0,
           "explanation": "avoir is fully irregular."
@@ -1888,9 +1888,9 @@
           "sentence": "il/elle/on ___ (aller)",
           "options": [
             "va",
+            "allait",
             "vais",
-            "vas",
-            "allons"
+            "vas"
           ],
           "correct": 0,
           "explanation": "aller is the irregular -er verb."
@@ -1899,9 +1899,9 @@
           "sentence": "nous ___ (faire)",
           "options": [
             "faisons",
+            "faisions",
             "fais",
-            "fait",
-            "faites"
+            "fait"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -1910,9 +1910,9 @@
           "sentence": "vous ___ (prendre)",
           "options": [
             "prenez",
-            "prends",
-            "prend",
-            "prenons"
+            "prendrez",
+            "preniez",
+            "prends"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -1932,9 +1932,9 @@
           "sentence": "je ___ (dire)",
           "options": [
             "dis",
+            "dise",
             "dit",
-            "disons",
-            "dites"
+            "disons"
           ],
           "correct": 0,
           "explanation": "dire: vous dites."
@@ -1943,9 +1943,9 @@
           "sentence": "tu ___ (lire)",
           "options": [
             "lis",
-            "lit",
-            "lisons",
-            "lisez"
+            "lisais",
+            "lises",
+            "lit"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -1954,9 +1954,9 @@
           "sentence": "il/elle/on ___ (écrire)",
           "options": [
             "écrit",
-            "écris",
-            "écrivons",
-            "écrivez"
+            "écrira",
+            "écrivait",
+            "écrivent"
           ],
           "correct": 0,
           "explanation": "écrire: nous écrivons, ils écrivent."
@@ -1976,9 +1976,9 @@
           "sentence": "vous ___ (boire)",
           "options": [
             "buvez",
+            "buviez",
             "bois",
-            "boit",
-            "buvons"
+            "boit"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -1987,9 +1987,9 @@
           "sentence": "ils/elles ___ (croire)",
           "options": [
             "croient",
+            "croyaient",
             "crois",
-            "croit",
-            "croyons"
+            "croit"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -1998,9 +1998,9 @@
           "sentence": "je ___ (recevoir)",
           "options": [
             "reçois",
-            "reçoit",
-            "recevons",
-            "recevez"
+            "recevrai",
+            "recevais",
+            "receviez"
           ],
           "correct": 0,
           "explanation": "recevoir: je reçois, nous recevons, ils reçoivent."
@@ -2009,9 +2009,9 @@
           "sentence": "tu ___ (devoir)",
           "options": [
             "dois",
+            "devais",
             "doit",
-            "devons",
-            "devez"
+            "devons"
           ],
           "correct": 0,
           "explanation": "devoir: je dois, nous devons."
@@ -2020,9 +2020,9 @@
           "sentence": "il/elle/on ___ (pouvoir)",
           "options": [
             "peut",
-            "peux",
-            "pouvons",
-            "pouvez"
+            "pouvait",
+            "puissions",
+            "peux"
           ],
           "correct": 0,
           "explanation": "pouvoir: je peux, nous pouvons."
@@ -2031,9 +2031,9 @@
           "sentence": "nous ___ (vouloir)",
           "options": [
             "voulons",
+            "voulions",
             "veux",
-            "veut",
-            "voulez"
+            "veut"
           ],
           "correct": 0,
           "explanation": "vouloir: je veux, nous voulons."
@@ -2042,9 +2042,9 @@
           "sentence": "vous ___ (savoir)",
           "options": [
             "savez",
+            "saviez",
             "sais",
-            "sait",
-            "savons"
+            "sait"
           ],
           "correct": 0,
           "explanation": "savoir: je sais, nous savons."
@@ -2064,9 +2064,9 @@
           "sentence": "tu ___ (être)",
           "options": [
             "es",
+            "seras",
             "suis",
-            "est",
-            "sommes"
+            "est"
           ],
           "correct": 0,
           "explanation": "être is fully irregular."
@@ -2075,9 +2075,9 @@
           "sentence": "il/elle/on ___ (être)",
           "options": [
             "est",
-            "suis",
-            "es",
-            "sommes"
+            "sera",
+            "soyons",
+            "suis"
           ],
           "correct": 0,
           "explanation": "être is fully irregular."
@@ -2086,9 +2086,9 @@
           "sentence": "nous ___ (être)",
           "options": [
             "sommes",
+            "serons",
             "suis",
-            "es",
-            "est"
+            "es"
           ],
           "correct": 0,
           "explanation": "être is fully irregular."
@@ -2097,9 +2097,9 @@
           "sentence": "vous ___ (être)",
           "options": [
             "êtes",
+            "serez",
             "suis",
-            "es",
-            "est"
+            "es"
           ],
           "correct": 0,
           "explanation": "être is fully irregular."
@@ -2108,9 +2108,9 @@
           "sentence": "ils/elles ___ (être)",
           "options": [
             "sont",
+            "seront",
             "suis",
-            "es",
-            "est"
+            "es"
           ],
           "correct": 0,
           "explanation": "être is fully irregular."
@@ -2130,9 +2130,9 @@
           "sentence": "il/elle/on ___ (avoir)",
           "options": [
             "a",
+            "aura",
             "ai",
-            "as",
-            "avons"
+            "as"
           ],
           "correct": 0,
           "explanation": "avoir is fully irregular."
@@ -2141,9 +2141,9 @@
           "sentence": "nous ___ (avoir)",
           "options": [
             "avons",
+            "aurons",
             "ai",
-            "as",
-            "a"
+            "as"
           ],
           "correct": 0,
           "explanation": "avoir is fully irregular."
@@ -2152,9 +2152,9 @@
           "sentence": "vous ___ (avoir)",
           "options": [
             "avez",
+            "aurez",
             "ai",
-            "as",
-            "a"
+            "as"
           ],
           "correct": 0,
           "explanation": "avoir is fully irregular."
@@ -2163,9 +2163,9 @@
           "sentence": "ils/elles ___ (avoir)",
           "options": [
             "ont",
+            "auront",
             "ai",
-            "as",
-            "a"
+            "as"
           ],
           "correct": 0,
           "explanation": "avoir is fully irregular."
@@ -2185,9 +2185,9 @@
           "sentence": "tu ___ (aller)",
           "options": [
             "vas",
+            "allais",
             "vais",
-            "va",
-            "allons"
+            "va"
           ],
           "correct": 0,
           "explanation": "aller is the irregular -er verb."
@@ -2196,9 +2196,9 @@
           "sentence": "nous ___ (aller)",
           "options": [
             "allons",
-            "vais",
-            "vas",
-            "va"
+            "allions",
+            "allerons",
+            "vais"
           ],
           "correct": 0,
           "explanation": "aller is the irregular -er verb."
@@ -2207,9 +2207,9 @@
           "sentence": "vous ___ (aller)",
           "options": [
             "allez",
-            "vais",
-            "vas",
-            "va"
+            "alliez",
+            "allerez",
+            "vais"
           ],
           "correct": 0,
           "explanation": "aller is the irregular -er verb."
@@ -2218,9 +2218,9 @@
           "sentence": "ils/elles ___ (aller)",
           "options": [
             "vont",
+            "allaient",
             "vais",
-            "vas",
-            "va"
+            "vas"
           ],
           "correct": 0,
           "explanation": "aller is the irregular -er verb."
@@ -2229,9 +2229,9 @@
           "sentence": "je ___ (faire)",
           "options": [
             "fais",
+            "faisais",
             "fait",
-            "faisons",
-            "faites"
+            "faisons"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -2240,9 +2240,9 @@
           "sentence": "tu ___ (faire)",
           "options": [
             "fais",
+            "faisais",
             "fait",
-            "faisons",
-            "faites"
+            "faisons"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -2251,9 +2251,9 @@
           "sentence": "il/elle/on ___ (faire)",
           "options": [
             "fait",
-            "fais",
-            "faisons",
-            "faites"
+            "faisait",
+            "fassiez",
+            "fais"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -2262,9 +2262,9 @@
           "sentence": "vous ___ (faire)",
           "options": [
             "faites",
+            "faisiez",
             "fais",
-            "fait",
-            "faisons"
+            "fait"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -2273,9 +2273,9 @@
           "sentence": "ils/elles ___ (faire)",
           "options": [
             "font",
+            "faisaient",
             "fais",
-            "fait",
-            "faisons"
+            "fait"
           ],
           "correct": 0,
           "explanation": "faire: vous faites, ils font."
@@ -2284,9 +2284,9 @@
           "sentence": "je ___ (prendre)",
           "options": [
             "prends",
-            "prend",
-            "prenons",
-            "prenez"
+            "prendrai",
+            "prenais",
+            "prend"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -2295,9 +2295,9 @@
           "sentence": "tu ___ (prendre)",
           "options": [
             "prends",
-            "prend",
-            "prenons",
-            "prenez"
+            "prendras",
+            "prenais",
+            "prennes"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -2306,9 +2306,9 @@
           "sentence": "il/elle/on ___ (prendre)",
           "options": [
             "prend",
-            "prends",
-            "prenons",
-            "prenez"
+            "prendra",
+            "prenait",
+            "prennent"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -2317,9 +2317,9 @@
           "sentence": "nous ___ (prendre)",
           "options": [
             "prenons",
-            "prends",
-            "prend",
-            "prenez"
+            "prendrons",
+            "prenions",
+            "prends"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -2328,9 +2328,9 @@
           "sentence": "ils/elles ___ (prendre)",
           "options": [
             "prennent",
-            "prends",
-            "prend",
-            "prenons"
+            "prendront",
+            "prenaient",
+            "prends"
           ],
           "correct": 0,
           "explanation": "prendre family: je prends, nous prenons, ils prennent."
@@ -2339,9 +2339,9 @@
           "sentence": "je ___ (comprendre)",
           "options": [
             "comprends",
+            "comprennes",
             "comprend",
-            "comprenons",
-            "comprenez"
+            "comprenons"
           ],
           "correct": 0,
           "explanation": "comprendre follows prendre."
@@ -2394,9 +2394,9 @@
           "sentence": "je ___ (mettre)",
           "options": [
             "mets",
-            "met",
-            "mettons",
-            "mettez"
+            "mettrai",
+            "mettais",
+            "mettions"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2405,9 +2405,9 @@
           "sentence": "tu ___ (mettre)",
           "options": [
             "mets",
-            "met",
-            "mettons",
-            "mettez"
+            "mettras",
+            "mettais",
+            "met"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2416,9 +2416,9 @@
           "sentence": "il/elle/on ___ (mettre)",
           "options": [
             "met",
-            "mets",
-            "mettons",
-            "mettez"
+            "mettra",
+            "mettait",
+            "mets"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2427,9 +2427,9 @@
           "sentence": "nous ___ (mettre)",
           "options": [
             "mettons",
-            "mets",
-            "met",
-            "mettez"
+            "mettrons",
+            "mettions",
+            "mets"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2438,9 +2438,9 @@
           "sentence": "vous ___ (mettre)",
           "options": [
             "mettez",
-            "mets",
-            "met",
-            "mettons"
+            "mettrez",
+            "mettiez",
+            "mets"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2449,9 +2449,9 @@
           "sentence": "ils/elles ___ (mettre)",
           "options": [
             "mettent",
-            "mets",
-            "met",
-            "mettons"
+            "mettront",
+            "mettaient",
+            "mets"
           ],
           "correct": 0,
           "explanation": "mettre: je mets, nous mettons, ils mettent."
@@ -2471,9 +2471,9 @@
           "sentence": "il/elle/on ___ (dire)",
           "options": [
             "dit",
+            "dise",
             "dis",
-            "disons",
-            "dites"
+            "disons"
           ],
           "correct": 0,
           "explanation": "dire: vous dites."
@@ -2515,9 +2515,9 @@
           "sentence": "je ___ (lire)",
           "options": [
             "lis",
-            "lit",
-            "lisons",
-            "lisez"
+            "lisais",
+            "lises",
+            "lit"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -2526,9 +2526,9 @@
           "sentence": "il/elle/on ___ (lire)",
           "options": [
             "lit",
+            "lisait",
             "lis",
-            "lisons",
-            "lisez"
+            "lisons"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -2537,9 +2537,9 @@
           "sentence": "nous ___ (lire)",
           "options": [
             "lisons",
+            "lisions",
             "lis",
-            "lit",
-            "lisez"
+            "lit"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -2548,9 +2548,9 @@
           "sentence": "vous ___ (lire)",
           "options": [
             "lisez",
+            "lisiez",
             "lis",
-            "lit",
-            "lisons"
+            "lit"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -2559,9 +2559,9 @@
           "sentence": "ils/elles ___ (lire)",
           "options": [
             "lisent",
+            "lisaient",
             "lis",
-            "lit",
-            "lisons"
+            "lit"
           ],
           "correct": 0,
           "explanation": "lire: je lis, nous lisons."
@@ -2581,9 +2581,9 @@
           "sentence": "tu ___ (écrire)",
           "options": [
             "écris",
-            "écrit",
-            "écrivons",
-            "écrivez"
+            "écriras",
+            "écrivais",
+            "écrit"
           ],
           "correct": 0,
           "explanation": "écrire: nous écrivons, ils écrivent."
@@ -2592,9 +2592,9 @@
           "sentence": "nous ___ (écrire)",
           "options": [
             "écrivons",
-            "écris",
-            "écrit",
-            "écrivez"
+            "écrirons",
+            "écrivions",
+            "écris"
           ],
           "correct": 0,
           "explanation": "écrire: nous écrivons, ils écrivent."
@@ -2603,9 +2603,9 @@
           "sentence": "vous ___ (écrire)",
           "options": [
             "écrivez",
-            "écris",
-            "écrit",
-            "écrivons"
+            "écrirez",
+            "écriviez",
+            "écris"
           ],
           "correct": 0,
           "explanation": "écrire: nous écrivons, ils écrivent."
@@ -2614,9 +2614,9 @@
           "sentence": "ils/elles ___ (écrire)",
           "options": [
             "écrivent",
-            "écris",
-            "écrit",
-            "écrivons"
+            "écriront",
+            "écrivaient",
+            "écris"
           ],
           "correct": 0,
           "explanation": "écrire: nous écrivons, ils écrivent."
@@ -2680,9 +2680,9 @@
           "sentence": "je ___ (boire)",
           "options": [
             "bois",
-            "boit",
-            "buvons",
-            "buvez"
+            "buvais",
+            "buvions",
+            "boit"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -2691,9 +2691,9 @@
           "sentence": "tu ___ (boire)",
           "options": [
             "bois",
+            "buvais",
             "boit",
-            "buvons",
-            "buvez"
+            "buvons"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -2702,9 +2702,9 @@
           "sentence": "il/elle/on ___ (boire)",
           "options": [
             "boit",
+            "buvait",
             "bois",
-            "buvons",
-            "buvez"
+            "buvons"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -2713,9 +2713,9 @@
           "sentence": "nous ___ (boire)",
           "options": [
             "buvons",
+            "buvions",
             "bois",
-            "boit",
-            "buvez"
+            "boit"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -2724,9 +2724,9 @@
           "sentence": "ils/elles ___ (boire)",
           "options": [
             "boivent",
+            "buvaient",
             "bois",
-            "boit",
-            "buvons"
+            "boit"
           ],
           "correct": 0,
           "explanation": "boire: nous buvons, ils boivent."
@@ -2735,9 +2735,9 @@
           "sentence": "je ___ (croire)",
           "options": [
             "crois",
+            "croyais",
             "croit",
-            "croyons",
-            "croyez"
+            "croyons"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -2746,9 +2746,9 @@
           "sentence": "tu ___ (croire)",
           "options": [
             "crois",
+            "croyais",
             "croit",
-            "croyons",
-            "croyez"
+            "croyons"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -2757,9 +2757,9 @@
           "sentence": "il/elle/on ___ (croire)",
           "options": [
             "croit",
+            "croyait",
             "crois",
-            "croyons",
-            "croyez"
+            "croyons"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -2768,9 +2768,9 @@
           "sentence": "nous ___ (croire)",
           "options": [
             "croyons",
+            "croyions",
             "crois",
-            "croit",
-            "croyez"
+            "croit"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -2779,9 +2779,9 @@
           "sentence": "vous ___ (croire)",
           "options": [
             "croyez",
+            "croyiez",
             "crois",
-            "croit",
-            "croyons"
+            "croit"
           ],
           "correct": 0,
           "explanation": "croire: nous croyons, ils croient."
@@ -2790,9 +2790,9 @@
           "sentence": "je ___ (connaître)",
           "options": [
             "connais",
+            "connaissais",
             "connaît",
-            "connaissons",
-            "connaissez"
+            "connaissons"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2801,9 +2801,9 @@
           "sentence": "tu ___ (connaître)",
           "options": [
             "connais",
+            "connaissais",
             "connaît",
-            "connaissons",
-            "connaissez"
+            "connaissons"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2812,9 +2812,9 @@
           "sentence": "il/elle/on ___ (connaître)",
           "options": [
             "connaît",
-            "connais",
-            "connaissons",
-            "connaissez"
+            "connaissait",
+            "connaisse",
+            "connais"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2823,9 +2823,9 @@
           "sentence": "nous ___ (connaître)",
           "options": [
             "connaissons",
+            "connaissions",
             "connais",
-            "connaît",
-            "connaissez"
+            "connaît"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2834,9 +2834,9 @@
           "sentence": "vous ___ (connaître)",
           "options": [
             "connaissez",
+            "connaissiez",
             "connais",
-            "connaît",
-            "connaissons"
+            "connaît"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2845,9 +2845,9 @@
           "sentence": "ils/elles ___ (connaître)",
           "options": [
             "connaissent",
+            "connaissaient",
             "connais",
-            "connaît",
-            "connaissons"
+            "connaît"
           ],
           "correct": 0,
           "explanation": "connaître: je connais, il connaît."
@@ -2856,9 +2856,9 @@
           "sentence": "tu ___ (recevoir)",
           "options": [
             "reçois",
-            "reçoit",
-            "recevons",
-            "recevez"
+            "recevras",
+            "recevais",
+            "reçoit"
           ],
           "correct": 0,
           "explanation": "recevoir: je reçois, nous recevons, ils reçoivent."
