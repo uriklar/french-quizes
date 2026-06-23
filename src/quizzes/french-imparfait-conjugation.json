@@ -44,9 +44,9 @@
           "sentence": "je ___ (parler)",
           "options": [
             "parlais",
-            "parlait",
-            "parlions",
-            "parliez"
+            "parlerai",
+            "parle",
+            "parlait"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ais."
@@ -55,9 +55,9 @@
           "sentence": "tu ___ (finir)",
           "options": [
             "finissais",
-            "finissait",
-            "finissions",
-            "finais"
+            "finiras",
+            "finis",
+            "finissait"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + ais."
@@ -66,9 +66,9 @@
           "sentence": "il/elle/on ___ (vendre)",
           "options": [
             "vendait",
-            "vendais",
-            "vendaient",
-            "vendions"
+            "vendra",
+            "vend",
+            "vendais"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ait."
@@ -77,9 +77,9 @@
           "sentence": "nous ___ (parler)",
           "options": [
             "parlions",
-            "parlais",
-            "parliez",
-            "parlaient"
+            "parlerons",
+            "parlons",
+            "parlais"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ions."
@@ -88,9 +88,9 @@
           "sentence": "vous ___ (finir)",
           "options": [
             "finissiez",
+            "finirez",
             "finissaient",
-            "finissais",
-            "finiez"
+            "finissais"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + iez."
@@ -99,9 +99,9 @@
           "sentence": "ils/elles ___ (vendre)",
           "options": [
             "vendaient",
+            "vendront",
             "vendait",
-            "vendais",
-            "vendions"
+            "vendais"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + aient."
@@ -110,9 +110,9 @@
           "sentence": "tu ___ (parler)",
           "options": [
             "parlais",
-            "parlait",
-            "parlions",
-            "parliez"
+            "parleras",
+            "parles",
+            "parlait"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ais."
@@ -121,9 +121,9 @@
           "sentence": "il/elle/on ___ (finir)",
           "options": [
             "finissait",
-            "finissions",
-            "finissiez",
-            "finait"
+            "finira",
+            "finit",
+            "finissions"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + ait."
@@ -132,9 +132,9 @@
           "sentence": "nous ___ (vendre)",
           "options": [
             "vendions",
+            "vendrons",
             "vendais",
-            "vendiez",
-            "vendaient"
+            "vendiez"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ions."
@@ -143,9 +143,9 @@
           "sentence": "vous ___ (parler)",
           "options": [
             "parliez",
-            "parlions",
-            "parlais",
-            "parlaient"
+            "parlerez",
+            "parlez",
+            "parlions"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + iez."
@@ -154,9 +154,9 @@
           "sentence": "ils/elles ___ (finir)",
           "options": [
             "finissaient",
+            "finiront",
             "finissait",
-            "finissais",
-            "finissions"
+            "finissais"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + aient."
@@ -165,9 +165,9 @@
           "sentence": "je ___ (prendre)",
           "options": [
             "prenais",
-            "prenait",
-            "prenions",
-            "preniez"
+            "prendrai",
+            "prends",
+            "prenait"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + ais."
@@ -176,9 +176,9 @@
           "sentence": "il/elle/on ___ (parler)",
           "options": [
             "parlait",
-            "parlais",
-            "parlaient",
-            "parlions"
+            "parlera",
+            "parle",
+            "parlais"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + ait."
@@ -187,9 +187,9 @@
           "sentence": "nous ___ (finir)",
           "options": [
             "finissions",
-            "finissiez",
-            "finissaient",
-            "finions"
+            "finirons",
+            "finissons",
+            "finissiez"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + ions."
@@ -198,9 +198,9 @@
           "sentence": "vous ___ (vendre)",
           "options": [
             "vendiez",
+            "vendrez",
             "vendions",
-            "vendais",
-            "vendaient"
+            "vendais"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + iez."
@@ -209,9 +209,9 @@
           "sentence": "ils/elles ___ (parler)",
           "options": [
             "parlaient",
-            "parlait",
-            "parlais",
-            "parlions"
+            "parleront",
+            "parlent",
+            "parlait"
           ],
           "correct": 0,
           "explanation": "parler: use the imparfait stem parl- + aient."
@@ -220,9 +220,9 @@
           "sentence": "je ___ (vendre)",
           "options": [
             "vendais",
-            "vendait",
-            "vendions",
-            "vendiez"
+            "vendrai",
+            "vends",
+            "vendait"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ais."
@@ -231,9 +231,9 @@
           "sentence": "tu ___ (prendre)",
           "options": [
             "prenais",
-            "prenait",
-            "prenions",
-            "prendais"
+            "prendras",
+            "prends",
+            "prennes"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + ais."
@@ -242,9 +242,9 @@
           "sentence": "je ___ (finir)",
           "options": [
             "finissais",
-            "finissait",
-            "finissions",
-            "finissiez"
+            "finirai",
+            "finis",
+            "finissent"
           ],
           "correct": 0,
           "explanation": "finir: use the imparfait stem finiss- + ais."
@@ -253,9 +253,9 @@
           "sentence": "tu ___ (vendre)",
           "options": [
             "vendais",
-            "vendait",
-            "vendions",
-            "vendiez"
+            "vendras",
+            "vends",
+            "vendait"
           ],
           "correct": 0,
           "explanation": "vendre: use the imparfait stem vend- + ais."
@@ -264,9 +264,9 @@
           "sentence": "il/elle/on ___ (prendre)",
           "options": [
             "prenait",
-            "prenions",
-            "preniez",
-            "prendait"
+            "prendra",
+            "prend",
+            "prennent"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + ait."
@@ -275,9 +275,9 @@
           "sentence": "nous ___ (prendre)",
           "options": [
             "prenions",
-            "preniez",
-            "prenaient",
-            "prendions"
+            "prendrons",
+            "prenons",
+            "preniez"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + ions."
@@ -286,9 +286,9 @@
           "sentence": "vous ___ (prendre)",
           "options": [
             "preniez",
-            "prenaient",
-            "prenais",
-            "prendiez"
+            "prendrez",
+            "prenez",
+            "prenaient"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + iez."
@@ -297,9 +297,9 @@
           "sentence": "ils/elles ___ (prendre)",
           "options": [
             "prenaient",
-            "prenait",
-            "prenais",
-            "prenions"
+            "prendront",
+            "prennent",
+            "prenait"
           ],
           "correct": 0,
           "explanation": "prendre: use the imparfait stem pren- + aient."
@@ -308,9 +308,9 @@
           "sentence": "je ___ (faire)",
           "options": [
             "faisais",
+            "fais",
             "faisait",
-            "faisions",
-            "faisiez"
+            "faisions"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + ais."
@@ -319,9 +319,9 @@
           "sentence": "tu ___ (faire)",
           "options": [
             "faisais",
+            "fais",
             "faisait",
-            "faisions",
-            "faiais"
+            "faisions"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + ais."
@@ -330,9 +330,9 @@
           "sentence": "il/elle/on ___ (faire)",
           "options": [
             "faisait",
-            "faisions",
-            "faisiez",
-            "faiait"
+            "fait",
+            "fassiez",
+            "faisions"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + ait."
@@ -341,9 +341,9 @@
           "sentence": "nous ___ (faire)",
           "options": [
             "faisions",
+            "faisons",
             "faisiez",
-            "faisaient",
-            "faiions"
+            "faisaient"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + ions."
@@ -352,9 +352,9 @@
           "sentence": "vous ___ (faire)",
           "options": [
             "faisiez",
+            "faites",
             "faisaient",
-            "faisais",
-            "faiiez"
+            "faisais"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + iez."
@@ -363,9 +363,9 @@
           "sentence": "ils/elles ___ (faire)",
           "options": [
             "faisaient",
+            "font",
             "faisait",
-            "faisais",
-            "faisions"
+            "faisais"
           ],
           "correct": 0,
           "explanation": "faire: use the imparfait stem fais- + aient."
@@ -374,9 +374,9 @@
           "sentence": "je ___ (aller)",
           "options": [
             "allais",
-            "allait",
             "allions",
-            "alliez"
+            "alle",
+            "allerai"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ais."
@@ -385,9 +385,9 @@
           "sentence": "tu ___ (aller)",
           "options": [
             "allais",
-            "allait",
-            "allions",
-            "alliez"
+            "vas",
+            "alles",
+            "alleras"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ais."
@@ -396,9 +396,9 @@
           "sentence": "il/elle/on ___ (aller)",
           "options": [
             "allait",
-            "allais",
-            "allaient",
-            "allions"
+            "va",
+            "alle",
+            "allera"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ait."
@@ -407,9 +407,9 @@
           "sentence": "nous ___ (aller)",
           "options": [
             "allions",
-            "allais",
-            "alliez",
-            "allaient"
+            "allons",
+            "allerons",
+            "allais"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + ions."
@@ -418,9 +418,9 @@
           "sentence": "vous ___ (aller)",
           "options": [
             "alliez",
-            "allions",
-            "allais",
-            "allaient"
+            "allez",
+            "allerez",
+            "allions"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + iez."
@@ -429,9 +429,9 @@
           "sentence": "ils/elles ___ (aller)",
           "options": [
             "allaient",
-            "allait",
-            "allais",
-            "allions"
+            "vont",
+            "allent",
+            "alleront"
           ],
           "correct": 0,
           "explanation": "aller: use the imparfait stem all- + aient."
@@ -440,9 +440,9 @@
           "sentence": "je ___ (boire)",
           "options": [
             "buvais",
-            "buvait",
+            "bois",
             "buvions",
-            "buviez"
+            "buvait"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + ais."
@@ -451,9 +451,9 @@
           "sentence": "tu ___ (boire)",
           "options": [
             "buvais",
+            "bois",
             "buvait",
-            "buvions",
-            "buviez"
+            "buvions"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + ais."
@@ -462,9 +462,9 @@
           "sentence": "il/elle/on ___ (boire)",
           "options": [
             "buvait",
+            "boit",
             "buvions",
-            "boiait",
-            "buvais"
+            "boiait"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + ait."
@@ -473,9 +473,9 @@
           "sentence": "nous ___ (boire)",
           "options": [
             "buvions",
+            "buvons",
             "buviez",
-            "boiions",
-            "buvais"
+            "boiions"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + ions."
@@ -484,9 +484,9 @@
           "sentence": "vous ___ (boire)",
           "options": [
             "buviez",
+            "buvez",
             "buvaient",
-            "boiiez",
-            "buvais"
+            "boiiez"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + iez."
@@ -495,9 +495,9 @@
           "sentence": "ils/elles ___ (boire)",
           "options": [
             "buvaient",
+            "boivent",
             "buvait",
-            "buvais",
-            "buvions"
+            "buvais"
           ],
           "correct": 0,
           "explanation": "boire: imparfait stem buv- + aient."
@@ -506,9 +506,9 @@
           "sentence": "je ___ (croire)",
           "options": [
             "croyais",
+            "crois",
             "croyait",
-            "croyions",
-            "croyiez"
+            "croyions"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + ais."
@@ -517,9 +517,9 @@
           "sentence": "tu ___ (croire)",
           "options": [
             "croyais",
+            "crois",
             "croyait",
-            "croyions",
-            "croyiez"
+            "croyions"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + ais."
@@ -528,9 +528,9 @@
           "sentence": "il/elle/on ___ (croire)",
           "options": [
             "croyait",
+            "croit",
             "croyions",
-            "croiait",
-            "croyais"
+            "croiait"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + ait."
@@ -539,9 +539,9 @@
           "sentence": "nous ___ (croire)",
           "options": [
             "croyions",
+            "croyons",
             "croyiez",
-            "croiions",
-            "croyais"
+            "croiions"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + ions."
@@ -550,9 +550,9 @@
           "sentence": "vous ___ (croire)",
           "options": [
             "croyiez",
+            "croyez",
             "croyaient",
-            "croiiez",
-            "croyais"
+            "croiiez"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + iez."
@@ -561,9 +561,9 @@
           "sentence": "ils/elles ___ (croire)",
           "options": [
             "croyaient",
+            "croient",
             "croyait",
-            "croyais",
-            "croyions"
+            "croyais"
           ],
           "correct": 0,
           "explanation": "croire: imparfait stem croy- + aient."
@@ -572,8 +572,8 @@
           "sentence": "je ___ (recevoir)",
           "options": [
             "recevais",
-            "recevait",
-            "recevions",
+            "recevrai",
+            "reçois",
             "receviez"
           ],
           "correct": 0,
@@ -583,9 +583,9 @@
           "sentence": "tu ___ (recevoir)",
           "options": [
             "recevais",
-            "recevait",
-            "recevions",
-            "receviez"
+            "recevras",
+            "reçois",
+            "recevait"
           ],
           "correct": 0,
           "explanation": "recevoir: imparfait stem recev- + ais."
@@ -594,9 +594,9 @@
           "sentence": "il/elle/on ___ (recevoir)",
           "options": [
             "recevait",
-            "recevais",
-            "recevaient",
-            "recevions"
+            "recevra",
+            "reçoivent",
+            "recevais"
           ],
           "correct": 0,
           "explanation": "recevoir: imparfait stem recev- + ait."
@@ -605,9 +605,9 @@
           "sentence": "nous ___ (recevoir)",
           "options": [
             "recevions",
+            "recevrons",
             "recevais",
-            "receviez",
-            "recevaient"
+            "receviez"
           ],
           "correct": 0,
           "explanation": "recevoir: imparfait stem recev- + ions."
@@ -616,9 +616,9 @@
           "sentence": "vous ___ (recevoir)",
           "options": [
             "receviez",
+            "recevrez",
             "recevions",
-            "recevais",
-            "recevaient"
+            "recevais"
           ],
           "correct": 0,
           "explanation": "recevoir: imparfait stem recev- + iez."
@@ -627,9 +627,9 @@
           "sentence": "ils/elles ___ (recevoir)",
           "options": [
             "recevaient",
+            "recevront",
             "recevait",
-            "recevais",
-            "recevions"
+            "recevais"
           ],
           "correct": 0,
           "explanation": "recevoir: imparfait stem recev- + aient."
@@ -649,9 +649,9 @@
           "sentence": "tu ___ (devoir)",
           "options": [
             "devais",
+            "dois",
             "devait",
-            "devions",
-            "deviez"
+            "devions"
           ],
           "correct": 0,
           "explanation": "devoir: imparfait stem dev- + ais."
@@ -704,9 +704,9 @@
           "sentence": "je ___ (pouvoir)",
           "options": [
             "pouvais",
+            "puissiez",
             "pouvait",
-            "pouvions",
-            "pouviez"
+            "pouvions"
           ],
           "correct": 0,
           "explanation": "pouvoir: imparfait stem pouv- + ais."
@@ -726,9 +726,9 @@
           "sentence": "il/elle/on ___ (pouvoir)",
           "options": [
             "pouvait",
-            "pouvais",
-            "pouvaient",
-            "pouvions"
+            "peut",
+            "puissions",
+            "pouvais"
           ],
           "correct": 0,
           "explanation": "pouvoir: imparfait stem pouv- + ait."
@@ -770,9 +770,9 @@
           "sentence": "je ___ (savoir)",
           "options": [
             "savais",
+            "sachent",
             "savait",
-            "savions",
-            "saviez"
+            "savions"
           ],
           "correct": 0,
           "explanation": "savoir: imparfait stem sav- + ais."
@@ -814,9 +814,9 @@
           "sentence": "vous ___ (savoir)",
           "options": [
             "saviez",
+            "savez",
             "savions",
-            "savais",
-            "savaient"
+            "savais"
           ],
           "correct": 0,
           "explanation": "savoir: imparfait stem sav- + iez."
@@ -869,9 +869,9 @@
           "sentence": "nous ___ (vouloir)",
           "options": [
             "voulions",
+            "voulons",
             "voulais",
-            "vouliez",
-            "voulaient"
+            "vouliez"
           ],
           "correct": 0,
           "explanation": "vouloir: imparfait stem voul- + ions."
@@ -902,9 +902,9 @@
           "sentence": "je ___ (tenir)",
           "options": [
             "tenais",
+            "tiens",
             "tenait",
-            "tenions",
-            "teniez"
+            "tenions"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + ais."
@@ -913,9 +913,9 @@
           "sentence": "tu ___ (tenir)",
           "options": [
             "tenais",
+            "tiens",
             "tenait",
-            "tenions",
-            "teniez"
+            "tenions"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + ais."
@@ -924,9 +924,9 @@
           "sentence": "il/elle/on ___ (tenir)",
           "options": [
             "tenait",
+            "tient",
             "tenais",
-            "tenaient",
-            "tenions"
+            "tenaient"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + ait."
@@ -935,9 +935,9 @@
           "sentence": "nous ___ (tenir)",
           "options": [
             "tenions",
+            "tenons",
             "tenais",
-            "teniez",
-            "tenaient"
+            "teniez"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + ions."
@@ -946,9 +946,9 @@
           "sentence": "vous ___ (tenir)",
           "options": [
             "teniez",
+            "tenez",
             "tenions",
-            "tenais",
-            "tenaient"
+            "tenais"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + iez."
@@ -957,9 +957,9 @@
           "sentence": "ils/elles ___ (tenir)",
           "options": [
             "tenaient",
+            "tiennent",
             "tenait",
-            "tenais",
-            "tenions"
+            "tenais"
           ],
           "correct": 0,
           "explanation": "tenir: imparfait stem ten- + aient."
@@ -968,9 +968,9 @@
           "sentence": "je ___ (venir)",
           "options": [
             "venais",
+            "viens",
             "venait",
-            "venions",
-            "veniez"
+            "venions"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + ais."
@@ -979,9 +979,9 @@
           "sentence": "tu ___ (venir)",
           "options": [
             "venais",
+            "viens",
             "venait",
-            "venions",
-            "veniez"
+            "venions"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + ais."
@@ -990,9 +990,9 @@
           "sentence": "il/elle/on ___ (venir)",
           "options": [
             "venait",
+            "vient",
             "venais",
-            "venaient",
-            "venions"
+            "venaient"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + ait."
@@ -1001,9 +1001,9 @@
           "sentence": "nous ___ (venir)",
           "options": [
             "venions",
-            "venais",
+            "venons",
             "veniez",
-            "venaient"
+            "venais"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + ions."
@@ -1012,9 +1012,9 @@
           "sentence": "vous ___ (venir)",
           "options": [
             "veniez",
+            "venez",
             "venions",
-            "venais",
-            "venaient"
+            "venais"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + iez."
@@ -1023,9 +1023,9 @@
           "sentence": "ils/elles ___ (venir)",
           "options": [
             "venaient",
+            "viennent",
             "venait",
-            "venais",
-            "venions"
+            "venais"
           ],
           "correct": 0,
           "explanation": "venir: imparfait stem ven- + aient."
@@ -1034,9 +1034,9 @@
           "sentence": "je ___ (devenir)",
           "options": [
             "devenais",
-            "devenait",
-            "devenions",
-            "deveniez"
+            "deviendrai",
+            "deviens",
+            "devenait"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + ais."
@@ -1045,9 +1045,9 @@
           "sentence": "tu ___ (devenir)",
           "options": [
             "devenais",
-            "devenait",
-            "devenions",
-            "deveniez"
+            "deviendras",
+            "deviens",
+            "devenait"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + ais."
@@ -1056,9 +1056,9 @@
           "sentence": "il/elle/on ___ (devenir)",
           "options": [
             "devenait",
-            "devenais",
-            "devenaient",
-            "devenions"
+            "deviendra",
+            "devient",
+            "devenais"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + ait."
@@ -1067,9 +1067,9 @@
           "sentence": "nous ___ (devenir)",
           "options": [
             "devenions",
-            "devenais",
-            "deveniez",
-            "devenaient"
+            "deviendrons",
+            "devenons",
+            "devenais"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + ions."
@@ -1078,9 +1078,9 @@
           "sentence": "vous ___ (devenir)",
           "options": [
             "deveniez",
+            "deviendrez",
             "devenions",
-            "devenais",
-            "devenaient"
+            "devenais"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + iez."
@@ -1089,9 +1089,9 @@
           "sentence": "ils/elles ___ (devenir)",
           "options": [
             "devenaient",
+            "deviendront",
             "devenait",
-            "devenais",
-            "devenions"
+            "devenais"
           ],
           "correct": 0,
           "explanation": "devenir: imparfait stem deven- + aient."
@@ -1100,9 +1100,9 @@
           "sentence": "je ___ (sortir)",
           "options": [
             "sortais",
-            "sortait",
-            "sortions",
-            "sortiez"
+            "sors",
+            "sortent",
+            "sortait"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + ais."
@@ -1111,9 +1111,9 @@
           "sentence": "tu ___ (sortir)",
           "options": [
             "sortais",
+            "sors",
             "sortait",
-            "sortions",
-            "sortiez"
+            "sortions"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + ais."
@@ -1122,9 +1122,9 @@
           "sentence": "il/elle/on ___ (sortir)",
           "options": [
             "sortait",
+            "sort",
             "sortais",
-            "sortaient",
-            "sortions"
+            "sortaient"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + ait."
@@ -1133,9 +1133,9 @@
           "sentence": "nous ___ (sortir)",
           "options": [
             "sortions",
+            "sortons",
             "sortais",
-            "sortiez",
-            "sortaient"
+            "sortiez"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + ions."
@@ -1144,9 +1144,9 @@
           "sentence": "vous ___ (sortir)",
           "options": [
             "sortiez",
+            "sortez",
             "sortions",
-            "sortais",
-            "sortaient"
+            "sortais"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + iez."
@@ -1155,9 +1155,9 @@
           "sentence": "ils/elles ___ (sortir)",
           "options": [
             "sortaient",
+            "sortent",
             "sortait",
-            "sortais",
-            "sortions"
+            "sortais"
           ],
           "correct": 0,
           "explanation": "sortir: imparfait stem sort- + aient."
@@ -1166,9 +1166,9 @@
           "sentence": "je ___ (dormir)",
           "options": [
             "dormais",
+            "dors",
             "dormait",
-            "dormions",
-            "dormiez"
+            "dormions"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + ais."
@@ -1177,9 +1177,9 @@
           "sentence": "tu ___ (dormir)",
           "options": [
             "dormais",
+            "dors",
             "dormait",
-            "dormions",
-            "dormiez"
+            "dormions"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + ais."
@@ -1188,9 +1188,9 @@
           "sentence": "il/elle/on ___ (dormir)",
           "options": [
             "dormait",
+            "dort",
             "dormais",
-            "dormaient",
-            "dormions"
+            "dormaient"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + ait."
@@ -1199,9 +1199,9 @@
           "sentence": "nous ___ (dormir)",
           "options": [
             "dormions",
+            "dormons",
             "dormais",
-            "dormiez",
-            "dormaient"
+            "dormiez"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + ions."
@@ -1210,9 +1210,9 @@
           "sentence": "vous ___ (dormir)",
           "options": [
             "dormiez",
+            "dormez",
             "dormions",
-            "dormais",
-            "dormaient"
+            "dormais"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + iez."
@@ -1221,9 +1221,9 @@
           "sentence": "ils/elles ___ (dormir)",
           "options": [
             "dormaient",
+            "dorment",
             "dormait",
-            "dormais",
-            "dormions"
+            "dormais"
           ],
           "correct": 0,
           "explanation": "dormir: imparfait stem dorm- + aient."
@@ -1232,9 +1232,9 @@
           "sentence": "je ___ (servir)",
           "options": [
             "servais",
+            "sers",
             "servait",
-            "servions",
-            "serviez"
+            "servions"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + ais."
@@ -1243,9 +1243,9 @@
           "sentence": "tu ___ (servir)",
           "options": [
             "servais",
+            "sers",
             "servait",
-            "servions",
-            "serviez"
+            "servions"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + ais."
@@ -1254,9 +1254,9 @@
           "sentence": "il/elle/on ___ (servir)",
           "options": [
             "servait",
+            "sert",
             "servais",
-            "servaient",
-            "servions"
+            "servaient"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + ait."
@@ -1265,9 +1265,9 @@
           "sentence": "nous ___ (servir)",
           "options": [
             "servions",
+            "servons",
             "servais",
-            "serviez",
-            "servaient"
+            "serviez"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + ions."
@@ -1276,9 +1276,9 @@
           "sentence": "vous ___ (servir)",
           "options": [
             "serviez",
+            "servez",
             "servions",
-            "servais",
-            "servaient"
+            "servais"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + iez."
@@ -1287,9 +1287,9 @@
           "sentence": "ils/elles ___ (servir)",
           "options": [
             "servaient",
+            "servent",
             "servait",
-            "servais",
-            "servions"
+            "servais"
           ],
           "correct": 0,
           "explanation": "servir: imparfait stem serv- + aient."
@@ -1309,9 +1309,9 @@
           "sentence": "tu ___ (ouvrir)",
           "options": [
             "ouvrais",
+            "ouvres",
             "ouvrait",
-            "ouvrions",
-            "ouvriez"
+            "ouvrions"
           ],
           "correct": 0,
           "explanation": "ouvrir: imparfait stem ouvr- + ais."
@@ -1320,9 +1320,9 @@
           "sentence": "il/elle/on ___ (ouvrir)",
           "options": [
             "ouvrait",
+            "ouvre",
             "ouvrais",
-            "ouvraient",
-            "ouvrions"
+            "ouvraient"
           ],
           "correct": 0,
           "explanation": "ouvrir: imparfait stem ouvr- + ait."
@@ -1331,9 +1331,9 @@
           "sentence": "nous ___ (ouvrir)",
           "options": [
             "ouvrions",
+            "ouvrons",
             "ouvrais",
-            "ouvriez",
-            "ouvraient"
+            "ouvriez"
           ],
           "correct": 0,
           "explanation": "ouvrir: imparfait stem ouvr- + ions."
@@ -1342,9 +1342,9 @@
           "sentence": "vous ___ (ouvrir)",
           "options": [
             "ouvriez",
+            "ouvrez",
             "ouvrions",
-            "ouvrais",
-            "ouvraient"
+            "ouvrais"
           ],
           "correct": 0,
           "explanation": "ouvrir: imparfait stem ouvr- + iez."
@@ -1353,9 +1353,9 @@
           "sentence": "ils/elles ___ (ouvrir)",
           "options": [
             "ouvraient",
+            "ouvrent",
             "ouvrait",
-            "ouvrais",
-            "ouvrions"
+            "ouvrais"
           ],
           "correct": 0,
           "explanation": "ouvrir: imparfait stem ouvr- + aient."
@@ -1364,9 +1364,9 @@
           "sentence": "je ___ (courir)",
           "options": [
             "courais",
-            "courait",
-            "courions",
-            "couriez"
+            "courrai",
+            "courent",
+            "courait"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + ais."
@@ -1375,9 +1375,9 @@
           "sentence": "tu ___ (courir)",
           "options": [
             "courais",
+            "courras",
             "courait",
-            "courions",
-            "couriez"
+            "courions"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + ais."
@@ -1386,9 +1386,9 @@
           "sentence": "il/elle/on ___ (courir)",
           "options": [
             "courait",
+            "courra",
             "courais",
-            "couraient",
-            "courions"
+            "couraient"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + ait."
@@ -1397,9 +1397,9 @@
           "sentence": "nous ___ (courir)",
           "options": [
             "courions",
+            "courrons",
             "courais",
-            "couriez",
-            "couraient"
+            "couriez"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + ions."
@@ -1408,9 +1408,9 @@
           "sentence": "vous ___ (courir)",
           "options": [
             "couriez",
-            "courions",
-            "courais",
-            "couraient"
+            "courrez",
+            "courez",
+            "courions"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + iez."
@@ -1419,9 +1419,9 @@
           "sentence": "ils/elles ___ (courir)",
           "options": [
             "couraient",
+            "courront",
             "courait",
-            "courais",
-            "courions"
+            "courais"
           ],
           "correct": 0,
           "explanation": "courir: imparfait stem cour- + aient."
@@ -1430,9 +1430,9 @@
           "sentence": "je ___ (mourir)",
           "options": [
             "mourais",
+            "mourrai",
             "mourait",
-            "mourions",
-            "mouriez"
+            "mourions"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + ais."
@@ -1441,9 +1441,9 @@
           "sentence": "tu ___ (mourir)",
           "options": [
             "mourais",
+            "mourras",
             "mourait",
-            "mourions",
-            "mouriez"
+            "mourions"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + ais."
@@ -1452,9 +1452,9 @@
           "sentence": "il/elle/on ___ (mourir)",
           "options": [
             "mourait",
+            "mourra",
             "mourais",
-            "mouraient",
-            "mourions"
+            "mouraient"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + ait."
@@ -1463,9 +1463,9 @@
           "sentence": "nous ___ (mourir)",
           "options": [
             "mourions",
+            "mourrons",
             "mourais",
-            "mouriez",
-            "mouraient"
+            "mouriez"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + ions."
@@ -1474,9 +1474,9 @@
           "sentence": "vous ___ (mourir)",
           "options": [
             "mouriez",
+            "mourrez",
             "mourions",
-            "mourais",
-            "mouraient"
+            "mourais"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + iez."
@@ -1485,9 +1485,9 @@
           "sentence": "ils/elles ___ (mourir)",
           "options": [
             "mouraient",
-            "mourait",
-            "mourais",
-            "mourions"
+            "mourront",
+            "meurent",
+            "mourait"
           ],
           "correct": 0,
           "explanation": "mourir: imparfait stem mour- + aient."
@@ -1562,9 +1562,9 @@
           "sentence": "je ___ (mettre)",
           "options": [
             "mettais",
-            "mettait",
-            "mettions",
-            "mettiez"
+            "mettrai",
+            "mets",
+            "mettions"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + ais."
@@ -1573,9 +1573,9 @@
           "sentence": "tu ___ (mettre)",
           "options": [
             "mettais",
-            "mettait",
-            "mettions",
-            "mettiez"
+            "mettras",
+            "mets",
+            "mettait"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + ais."
@@ -1584,9 +1584,9 @@
           "sentence": "il/elle/on ___ (mettre)",
           "options": [
             "mettait",
-            "mettais",
-            "mettaient",
-            "mettions"
+            "mettra",
+            "met",
+            "mettais"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + ait."
@@ -1595,9 +1595,9 @@
           "sentence": "nous ___ (mettre)",
           "options": [
             "mettions",
-            "mettais",
-            "mettiez",
-            "mettaient"
+            "mettrons",
+            "mettons",
+            "mettais"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + ions."
@@ -1606,9 +1606,9 @@
           "sentence": "vous ___ (mettre)",
           "options": [
             "mettiez",
-            "mettions",
-            "mettais",
-            "mettaient"
+            "mettrez",
+            "mettez",
+            "mettions"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + iez."
@@ -1617,9 +1617,9 @@
           "sentence": "ils/elles ___ (mettre)",
           "options": [
             "mettaient",
-            "mettait",
-            "mettais",
-            "mettions"
+            "mettront",
+            "mettent",
+            "mettait"
           ],
           "correct": 0,
           "explanation": "mettre: imparfait stem mett- + aient."
@@ -1639,9 +1639,9 @@
           "sentence": "tu ___ (écrire)",
           "options": [
             "écrivais",
-            "écrivait",
-            "écrivions",
-            "écriviez"
+            "écriras",
+            "écris",
+            "écrivait"
           ],
           "correct": 0,
           "explanation": "écrire: imparfait stem écriv- + ais."
@@ -1650,9 +1650,9 @@
           "sentence": "il/elle/on ___ (écrire)",
           "options": [
             "écrivait",
-            "écrivions",
-            "écriait",
-            "écrivais"
+            "écrira",
+            "écrit",
+            "écrivent"
           ],
           "correct": 0,
           "explanation": "écrire: imparfait stem écriv- + ait."
@@ -1661,9 +1661,9 @@
           "sentence": "nous ___ (écrire)",
           "options": [
             "écrivions",
-            "écriviez",
-            "écriions",
-            "écrivais"
+            "écrirons",
+            "écrivons",
+            "écriviez"
           ],
           "correct": 0,
           "explanation": "écrire: imparfait stem écriv- + ions."
@@ -1672,9 +1672,9 @@
           "sentence": "vous ___ (écrire)",
           "options": [
             "écriviez",
-            "écrivaient",
-            "écriiez",
-            "écrivais"
+            "écrirez",
+            "écrivez",
+            "écrivaient"
           ],
           "correct": 0,
           "explanation": "écrire: imparfait stem écriv- + iez."
@@ -1683,9 +1683,9 @@
           "sentence": "ils/elles ___ (écrire)",
           "options": [
             "écrivaient",
-            "écrivait",
-            "écrivais",
-            "écrivions"
+            "écriront",
+            "écrivent",
+            "écrivait"
           ],
           "correct": 0,
           "explanation": "écrire: imparfait stem écriv- + aient."
@@ -1694,9 +1694,9 @@
           "sentence": "je ___ (lire)",
           "options": [
             "lisais",
-            "lisait",
-            "lisions",
-            "lisiez"
+            "lis",
+            "lises",
+            "lisait"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + ais."
@@ -1705,9 +1705,9 @@
           "sentence": "tu ___ (lire)",
           "options": [
             "lisais",
-            "lisait",
-            "lisions",
-            "lisiez"
+            "lis",
+            "lises",
+            "lisait"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + ais."
@@ -1716,9 +1716,9 @@
           "sentence": "il/elle/on ___ (lire)",
           "options": [
             "lisait",
+            "lit",
             "lisions",
-            "liait",
-            "lisais"
+            "liait"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + ait."
@@ -1727,9 +1727,9 @@
           "sentence": "nous ___ (lire)",
           "options": [
             "lisions",
+            "lisons",
             "lisiez",
-            "liions",
-            "lisais"
+            "liions"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + ions."
@@ -1738,9 +1738,9 @@
           "sentence": "vous ___ (lire)",
           "options": [
             "lisiez",
+            "lisez",
             "lisaient",
-            "liiez",
-            "lisais"
+            "liiez"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + iez."
@@ -1749,9 +1749,9 @@
           "sentence": "ils/elles ___ (lire)",
           "options": [
             "lisaient",
+            "lisent",
             "lisait",
-            "lisais",
-            "lisions"
+            "lisais"
           ],
           "correct": 0,
           "explanation": "lire: imparfait stem lis- + aient."
@@ -1760,9 +1760,9 @@
           "sentence": "je ___ (connaître)",
           "options": [
             "connaissais",
+            "connais",
             "connaissait",
-            "connaissions",
-            "connaissiez"
+            "connaissions"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + ais."
@@ -1771,9 +1771,9 @@
           "sentence": "tu ___ (connaître)",
           "options": [
             "connaissais",
+            "connais",
             "connaissait",
-            "connaissions",
-            "connaissiez"
+            "connaissions"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + ais."
@@ -1782,9 +1782,9 @@
           "sentence": "il/elle/on ___ (connaître)",
           "options": [
             "connaissait",
-            "connaissions",
-            "connaîtait",
-            "connaissais"
+            "connaît",
+            "connaisse",
+            "connaissions"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + ait."
@@ -1793,9 +1793,9 @@
           "sentence": "nous ___ (connaître)",
           "options": [
             "connaissions",
+            "connaissons",
             "connaissiez",
-            "connaîtions",
-            "connaissais"
+            "connaîtions"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + ions."
@@ -1804,9 +1804,9 @@
           "sentence": "vous ___ (connaître)",
           "options": [
             "connaissiez",
+            "connaissez",
             "connaissaient",
-            "connaîtiez",
-            "connaissais"
+            "connaîtiez"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + iez."
@@ -1815,9 +1815,9 @@
           "sentence": "ils/elles ___ (connaître)",
           "options": [
             "connaissaient",
+            "connaissent",
             "connaissait",
-            "connaissais",
-            "connaissions"
+            "connaissais"
           ],
           "correct": 0,
           "explanation": "connaître: imparfait stem connaiss- + aient."
@@ -1914,9 +1914,9 @@
           "sentence": "il/elle/on ___ (traduire)",
           "options": [
             "traduisait",
+            "traduisiez",
             "traduisions",
-            "traduiait",
-            "traduisais"
+            "traduiait"
           ],
           "correct": 0,
           "explanation": "traduire: imparfait stem traduis- + ait."
@@ -1958,8 +1958,8 @@
           "sentence": "je ___ (résoudre)",
           "options": [
             "résolvais",
-            "résolvait",
             "résolvions",
+            "résolvait",
             "résolviez"
           ],
           "correct": 0,
@@ -1980,9 +1980,9 @@
           "sentence": "il/elle/on ___ (résoudre)",
           "options": [
             "résolvait",
+            "résolve",
             "résolvions",
-            "résoudait",
-            "résolvais"
+            "résoudait"
           ],
           "correct": 0,
           "explanation": "résoudre: imparfait stem résolv- + ait."

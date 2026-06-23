@@ -44,9 +44,9 @@
           "sentence": "je ___ (parler)",
           "options": [
             "parlerai",
-            "parleras",
-            "parlera",
-            "parlai"
+            "parlais",
+            "parle",
+            "parleras"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + ai."
@@ -55,9 +55,9 @@
           "sentence": "tu ___ (finir)",
           "options": [
             "finiras",
-            "finira",
-            "finirons",
-            "finas"
+            "finissais",
+            "finis",
+            "finira"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + as."
@@ -66,9 +66,9 @@
           "sentence": "il/elle/on ___ (vendre)",
           "options": [
             "vendra",
-            "vendrons",
-            "vendrez",
-            "vendrea"
+            "vendait",
+            "vend",
+            "vendrons"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + a."
@@ -77,9 +77,9 @@
           "sentence": "nous ___ (parler)",
           "options": [
             "parlerons",
-            "parlerez",
-            "parleront",
-            "parlons"
+            "parlions",
+            "parlons",
+            "parlerez"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + ons."
@@ -88,9 +88,9 @@
           "sentence": "vous ___ (finir)",
           "options": [
             "finirez",
+            "finissiez",
             "finiront",
-            "finirai",
-            "finez"
+            "finirai"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + ez."
@@ -99,9 +99,9 @@
           "sentence": "ils/elles ___ (vendre)",
           "options": [
             "vendront",
+            "vendaient",
             "vendrai",
-            "vendras",
-            "vendreont"
+            "vendras"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + ont."
@@ -110,9 +110,9 @@
           "sentence": "tu ___ (parler)",
           "options": [
             "parleras",
-            "parlera",
-            "parlerons",
-            "parlas"
+            "parlais",
+            "parles",
+            "parlera"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + as."
@@ -121,9 +121,9 @@
           "sentence": "il/elle/on ___ (finir)",
           "options": [
             "finira",
-            "finirons",
-            "finirez",
-            "fina"
+            "finissait",
+            "finit",
+            "finirons"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + a."
@@ -132,9 +132,9 @@
           "sentence": "nous ___ (vendre)",
           "options": [
             "vendrons",
+            "vendions",
             "vendrez",
-            "vendront",
-            "vendreons"
+            "vendront"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + ons."
@@ -143,9 +143,9 @@
           "sentence": "vous ___ (parler)",
           "options": [
             "parlerez",
-            "parleront",
-            "parlerai",
-            "parlez"
+            "parliez",
+            "parlez",
+            "parleront"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + ez."
@@ -154,9 +154,9 @@
           "sentence": "ils/elles ___ (finir)",
           "options": [
             "finiront",
+            "finissaient",
             "finirai",
-            "finiras",
-            "finont"
+            "finiras"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + ont."
@@ -176,9 +176,9 @@
           "sentence": "il/elle/on ___ (parler)",
           "options": [
             "parlera",
-            "parlerons",
-            "parlerez",
-            "parla"
+            "parlait",
+            "parle",
+            "parlerons"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + a."
@@ -187,9 +187,9 @@
           "sentence": "nous ___ (finir)",
           "options": [
             "finirons",
-            "finirez",
-            "finiront",
-            "finons"
+            "finissions",
+            "finissons",
+            "finirez"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + ons."
@@ -198,9 +198,9 @@
           "sentence": "vous ___ (vendre)",
           "options": [
             "vendrez",
+            "vendiez",
             "vendront",
-            "vendrai",
-            "vendreez"
+            "vendrai"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + ez."
@@ -209,9 +209,9 @@
           "sentence": "ils/elles ___ (parler)",
           "options": [
             "parleront",
-            "parlerai",
-            "parleras",
-            "parlont"
+            "parlaient",
+            "parlent",
+            "parlerai"
           ],
           "correct": 0,
           "explanation": "parler in the futur simple: stem parler- + ont."
@@ -220,9 +220,9 @@
           "sentence": "je ___ (vendre)",
           "options": [
             "vendrai",
-            "vendras",
-            "vendra",
-            "vendreai"
+            "vendais",
+            "vends",
+            "vendras"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + ai."
@@ -231,9 +231,9 @@
           "sentence": "tu ___ (attendre)",
           "options": [
             "attendras",
+            "attends",
             "attendra",
-            "attendrons",
-            "attendreas"
+            "attendrons"
           ],
           "correct": 0,
           "explanation": "attendre in the futur simple: stem attendr- + as."
@@ -242,9 +242,9 @@
           "sentence": "je ___ (finir)",
           "options": [
             "finirai",
-            "finiras",
-            "finira",
-            "finai"
+            "finissais",
+            "finis",
+            "finissent"
           ],
           "correct": 0,
           "explanation": "finir in the futur simple: stem finir- + ai."
@@ -253,9 +253,9 @@
           "sentence": "tu ___ (vendre)",
           "options": [
             "vendras",
-            "vendra",
-            "vendrons",
-            "vendreas"
+            "vendais",
+            "vends",
+            "vendra"
           ],
           "correct": 0,
           "explanation": "vendre in the futur simple: stem vendr- + as."
@@ -264,9 +264,9 @@
           "sentence": "il/elle/on ___ (attendre)",
           "options": [
             "attendra",
+            "attend",
             "attendrons",
-            "attendrez",
-            "attendrea"
+            "attendrez"
           ],
           "correct": 0,
           "explanation": "attendre in the futur simple: stem attendr- + a."
@@ -275,9 +275,9 @@
           "sentence": "nous ___ (attendre)",
           "options": [
             "attendrons",
+            "attendons",
             "attendrez",
-            "attendront",
-            "attendreons"
+            "attendront"
           ],
           "correct": 0,
           "explanation": "attendre in the futur simple: stem attendr- + ons."
@@ -308,9 +308,9 @@
           "sentence": "je ___ (être)",
           "options": [
             "serai",
+            "soyez",
             "seras",
-            "sera",
-            "êtreai"
+            "sera"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + ai."
@@ -319,9 +319,9 @@
           "sentence": "tu ___ (être)",
           "options": [
             "seras",
+            "es",
             "sera",
-            "serons",
-            "êtreas"
+            "serons"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + as."
@@ -330,9 +330,9 @@
           "sentence": "il/elle/on ___ (être)",
           "options": [
             "sera",
-            "serons",
-            "serez",
-            "êtrea"
+            "est",
+            "soyons",
+            "serons"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + a."
@@ -341,9 +341,9 @@
           "sentence": "nous ___ (être)",
           "options": [
             "serons",
+            "sommes",
             "serez",
-            "seront",
-            "êtreons"
+            "seront"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + ons."
@@ -352,9 +352,9 @@
           "sentence": "vous ___ (être)",
           "options": [
             "serez",
+            "êtes",
             "seront",
-            "serai",
-            "êtreez"
+            "serai"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + ez."
@@ -363,9 +363,9 @@
           "sentence": "ils/elles ___ (être)",
           "options": [
             "seront",
+            "sont",
             "serai",
-            "seras",
-            "êtreont"
+            "seras"
           ],
           "correct": 0,
           "explanation": "être in the futur simple: stem ser- + ont."
@@ -374,9 +374,9 @@
           "sentence": "je ___ (avoir)",
           "options": [
             "aurai",
+            "ait",
             "auras",
-            "aura",
-            "avoai"
+            "aura"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + ai."
@@ -385,9 +385,9 @@
           "sentence": "tu ___ (avoir)",
           "options": [
             "auras",
+            "as",
             "aura",
-            "aurons",
-            "avoas"
+            "aurons"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + as."
@@ -396,9 +396,9 @@
           "sentence": "il/elle/on ___ (avoir)",
           "options": [
             "aura",
+            "a",
             "aurons",
-            "aurez",
-            "avoa"
+            "aurez"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + a."
@@ -407,9 +407,9 @@
           "sentence": "nous ___ (avoir)",
           "options": [
             "aurons",
+            "avons",
             "aurez",
-            "auront",
-            "avoons"
+            "auront"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + ons."
@@ -418,9 +418,9 @@
           "sentence": "vous ___ (avoir)",
           "options": [
             "aurez",
+            "avez",
             "auront",
-            "aurai",
-            "avoez"
+            "aurai"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + ez."
@@ -429,9 +429,9 @@
           "sentence": "ils/elles ___ (avoir)",
           "options": [
             "auront",
+            "ont",
             "aurai",
-            "auras",
-            "avoont"
+            "auras"
           ],
           "correct": 0,
           "explanation": "avoir in the futur simple: stem aur- + ont."
@@ -506,9 +506,9 @@
           "sentence": "je ___ (devenir)",
           "options": [
             "deviendrai",
-            "devenirai",
-            "deviendras",
-            "deviendai"
+            "devenais",
+            "deviens",
+            "devenirai"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + ai."
@@ -517,9 +517,9 @@
           "sentence": "tu ___ (devenir)",
           "options": [
             "deviendras",
-            "deveniras",
-            "deviendra",
-            "deviendas"
+            "devenais",
+            "deviens",
+            "deveniras"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + as."
@@ -528,9 +528,9 @@
           "sentence": "il/elle/on ___ (devenir)",
           "options": [
             "deviendra",
-            "devenira",
-            "deviendrons",
-            "devienda"
+            "devenait",
+            "devient",
+            "devenira"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + a."
@@ -539,9 +539,9 @@
           "sentence": "nous ___ (devenir)",
           "options": [
             "deviendrons",
-            "devenirons",
-            "deviendrez",
-            "deviendons"
+            "devenions",
+            "devenons",
+            "devenirons"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + ons."
@@ -550,9 +550,9 @@
           "sentence": "vous ___ (devenir)",
           "options": [
             "deviendrez",
+            "deveniez",
             "devenirez",
-            "deviendront",
-            "deviendez"
+            "deviendront"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + ez."
@@ -561,9 +561,9 @@
           "sentence": "ils/elles ___ (devenir)",
           "options": [
             "deviendront",
+            "devenaient",
             "deveniront",
-            "deviendrai",
-            "deviendont"
+            "deviendrai"
           ],
           "correct": 0,
           "explanation": "devenir: future stem deviendr- + ont."
@@ -638,9 +638,9 @@
           "sentence": "je ___ (recevoir)",
           "options": [
             "recevrai",
-            "recevoirai",
-            "recevras",
-            "recevai"
+            "recevais",
+            "reçois",
+            "receviez"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + ai."
@@ -649,9 +649,9 @@
           "sentence": "tu ___ (recevoir)",
           "options": [
             "recevras",
-            "recevoiras",
-            "recevra",
-            "recevas"
+            "recevais",
+            "reçois",
+            "recevoiras"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + as."
@@ -660,9 +660,9 @@
           "sentence": "il/elle/on ___ (recevoir)",
           "options": [
             "recevra",
-            "recevoira",
-            "recevrons",
-            "receva"
+            "recevait",
+            "reçoivent",
+            "recevoira"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + a."
@@ -671,9 +671,9 @@
           "sentence": "nous ___ (recevoir)",
           "options": [
             "recevrons",
+            "recevions",
             "recevoirons",
-            "recevrez",
-            "recevons"
+            "recevrez"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + ons."
@@ -682,9 +682,9 @@
           "sentence": "vous ___ (recevoir)",
           "options": [
             "recevrez",
+            "receviez",
             "recevoirez",
-            "recevront",
-            "recevez"
+            "recevront"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + ez."
@@ -693,9 +693,9 @@
           "sentence": "ils/elles ___ (recevoir)",
           "options": [
             "recevront",
+            "recevaient",
             "recevoiront",
-            "recevrai",
-            "recevont"
+            "recevrai"
           ],
           "correct": 0,
           "explanation": "recevoir: future stem recevr- + ont."
@@ -770,9 +770,9 @@
           "sentence": "je ___ (courir)",
           "options": [
             "courrai",
-            "courirai",
-            "courras",
-            "courai"
+            "courais",
+            "courent",
+            "courirai"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + ai."
@@ -781,9 +781,9 @@
           "sentence": "tu ___ (courir)",
           "options": [
             "courras",
+            "courais",
             "couriras",
-            "courra",
-            "couras"
+            "courra"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + as."
@@ -792,9 +792,9 @@
           "sentence": "il/elle/on ___ (courir)",
           "options": [
             "courra",
+            "courait",
             "courira",
-            "courrons",
-            "coura"
+            "courrons"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + a."
@@ -803,9 +803,9 @@
           "sentence": "nous ___ (courir)",
           "options": [
             "courrons",
+            "courions",
             "courirons",
-            "courrez",
-            "courons"
+            "courrez"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + ons."
@@ -814,9 +814,9 @@
           "sentence": "vous ___ (courir)",
           "options": [
             "courrez",
-            "courirez",
-            "courront",
-            "courez"
+            "couriez",
+            "courez",
+            "courirez"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + ez."
@@ -825,9 +825,9 @@
           "sentence": "ils/elles ___ (courir)",
           "options": [
             "courront",
+            "couraient",
             "couriront",
-            "courrai",
-            "couront"
+            "courrai"
           ],
           "correct": 0,
           "explanation": "courir: future stem courr- + ont."
@@ -836,9 +836,9 @@
           "sentence": "je ___ (mourir)",
           "options": [
             "mourrai",
+            "mourais",
             "mourirai",
-            "mourras",
-            "mourai"
+            "mourras"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + ai."
@@ -847,9 +847,9 @@
           "sentence": "tu ___ (mourir)",
           "options": [
             "mourras",
+            "mourais",
             "mouriras",
-            "mourra",
-            "mouras"
+            "mourra"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + as."
@@ -858,9 +858,9 @@
           "sentence": "il/elle/on ___ (mourir)",
           "options": [
             "mourra",
+            "mourait",
             "mourira",
-            "mourrons",
-            "moura"
+            "mourrons"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + a."
@@ -869,9 +869,9 @@
           "sentence": "nous ___ (mourir)",
           "options": [
             "mourrons",
+            "mourions",
             "mourirons",
-            "mourrez",
-            "mourons"
+            "mourrez"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + ons."
@@ -880,9 +880,9 @@
           "sentence": "vous ___ (mourir)",
           "options": [
             "mourrez",
+            "mouriez",
             "mourirez",
-            "mourront",
-            "mourez"
+            "mourront"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + ez."
@@ -891,9 +891,9 @@
           "sentence": "ils/elles ___ (mourir)",
           "options": [
             "mourront",
-            "mouriront",
-            "mourrai",
-            "mouront"
+            "mouraient",
+            "meurent",
+            "mouriront"
           ],
           "correct": 0,
           "explanation": "mourir: future stem mourr- + ont."
@@ -924,9 +924,9 @@
           "sentence": "il/elle/on ___ (envoyer)",
           "options": [
             "enverra",
+            "envoie",
             "envoyera",
-            "enverrons",
-            "envera"
+            "enverrons"
           ],
           "correct": 0,
           "explanation": "envoyer: future stem enverr- + a."
@@ -1045,9 +1045,9 @@
           "sentence": "il/elle/on ___ (pleuvoir)",
           "options": [
             "pleuvra",
+            "pleuve",
             "pleuvoira",
-            "pleuvrons",
-            "pleuva"
+            "pleuvrons"
           ],
           "correct": 0,
           "explanation": "pleuvoir: future stem pleuvr- + a."
@@ -1452,9 +1452,9 @@
           "sentence": "je ___ (mettre)",
           "options": [
             "mettrai",
-            "mettreai",
-            "mettras",
-            "mettai"
+            "mettais",
+            "mets",
+            "mettions"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + ai."
@@ -1463,9 +1463,9 @@
           "sentence": "tu ___ (mettre)",
           "options": [
             "mettras",
-            "mettreas",
-            "mettra",
-            "mettas"
+            "mettais",
+            "mets",
+            "mettreas"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + as."
@@ -1474,9 +1474,9 @@
           "sentence": "il/elle/on ___ (mettre)",
           "options": [
             "mettra",
-            "mettrea",
-            "mettrons",
-            "metta"
+            "mettait",
+            "met",
+            "mettrea"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + a."
@@ -1485,9 +1485,9 @@
           "sentence": "nous ___ (mettre)",
           "options": [
             "mettrons",
-            "mettreons",
-            "mettrez",
-            "mettons"
+            "mettions",
+            "mettons",
+            "mettreons"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + ons."
@@ -1496,9 +1496,9 @@
           "sentence": "vous ___ (mettre)",
           "options": [
             "mettrez",
-            "mettreez",
-            "mettront",
-            "mettez"
+            "mettiez",
+            "mettez",
+            "mettreez"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + ez."
@@ -1507,9 +1507,9 @@
           "sentence": "ils/elles ___ (mettre)",
           "options": [
             "mettront",
-            "mettreont",
-            "mettrai",
-            "mettont"
+            "mettaient",
+            "mettent",
+            "mettreont"
           ],
           "correct": 0,
           "explanation": "mettre: future stem mettr- + ont."
@@ -1518,9 +1518,9 @@
           "sentence": "je ___ (prendre)",
           "options": [
             "prendrai",
-            "prendreai",
-            "prendras",
-            "prendai"
+            "prenais",
+            "prends",
+            "prendreai"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + ai."
@@ -1529,9 +1529,9 @@
           "sentence": "tu ___ (prendre)",
           "options": [
             "prendras",
-            "prendreas",
-            "prendra",
-            "prendas"
+            "prenais",
+            "prends",
+            "prennes"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + as."
@@ -1540,9 +1540,9 @@
           "sentence": "il/elle/on ___ (prendre)",
           "options": [
             "prendra",
-            "prendrea",
-            "prendrons",
-            "prenda"
+            "prenait",
+            "prend",
+            "prennent"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + a."
@@ -1551,9 +1551,9 @@
           "sentence": "nous ___ (prendre)",
           "options": [
             "prendrons",
-            "prendreons",
-            "prendrez",
-            "prendons"
+            "prenions",
+            "prenons",
+            "prendreons"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + ons."
@@ -1562,9 +1562,9 @@
           "sentence": "vous ___ (prendre)",
           "options": [
             "prendrez",
-            "prendreez",
-            "prendront",
-            "prendez"
+            "preniez",
+            "prenez",
+            "prendreez"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + ez."
@@ -1573,9 +1573,9 @@
           "sentence": "ils/elles ___ (prendre)",
           "options": [
             "prendront",
-            "prendreont",
-            "prendrai",
-            "prendont"
+            "prenaient",
+            "prennent",
+            "prendreont"
           ],
           "correct": 0,
           "explanation": "prendre: future stem prendr- + ont."
@@ -1595,9 +1595,9 @@
           "sentence": "tu ___ (écrire)",
           "options": [
             "écriras",
-            "écrireas",
-            "écrira",
-            "écrias"
+            "écrivais",
+            "écris",
+            "écrireas"
           ],
           "correct": 0,
           "explanation": "écrire: future stem écrir- + as."
@@ -1606,9 +1606,9 @@
           "sentence": "il/elle/on ___ (écrire)",
           "options": [
             "écrira",
-            "écrirea",
-            "écrirons",
-            "écria"
+            "écrivait",
+            "écrit",
+            "écrivent"
           ],
           "correct": 0,
           "explanation": "écrire: future stem écrir- + a."
@@ -1617,9 +1617,9 @@
           "sentence": "nous ___ (écrire)",
           "options": [
             "écrirons",
-            "écrireons",
-            "écrirez",
-            "écrions"
+            "écrivions",
+            "écrivons",
+            "écrireons"
           ],
           "correct": 0,
           "explanation": "écrire: future stem écrir- + ons."
@@ -1628,9 +1628,9 @@
           "sentence": "vous ___ (écrire)",
           "options": [
             "écrirez",
-            "écrireez",
-            "écriront",
-            "écriez"
+            "écriviez",
+            "écrivez",
+            "écrireez"
           ],
           "correct": 0,
           "explanation": "écrire: future stem écrir- + ez."
@@ -1639,9 +1639,9 @@
           "sentence": "ils/elles ___ (écrire)",
           "options": [
             "écriront",
-            "écrireont",
-            "écrirai",
-            "écriont"
+            "écrivaient",
+            "écrivent",
+            "écrireont"
           ],
           "correct": 0,
           "explanation": "écrire: future stem écrir- + ont."

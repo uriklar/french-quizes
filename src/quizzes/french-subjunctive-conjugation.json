@@ -49,9 +49,9 @@
           "sentence": "Il faut que je ___ plus souvent. (parler)",
           "options": [
             "parle",
-            "parles",
+            "parlerai",
             "parlais",
-            "parlerai"
+            "parles"
           ],
           "correct": 0,
           "explanation": "Subjunctive of parler: que je parle."
@@ -62,7 +62,7 @@
             "arrives",
             "arrive",
             "arrivais",
-            "arriveras"
+            "arriverai"
           ],
           "correct": 0,
           "explanation": "Subjunctive tu ending: -es → que tu arrives."
@@ -81,32 +81,32 @@
         {
           "sentence": "Nous sommes contents que vous ___ avec nous. (venir)",
           "options": [
-            "venez",
             "veniez",
             "venions",
-            "viennez"
+            "venons",
+            "venez"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "venir has ven- for nous/vous: que vous veniez."
         },
         {
           "sentence": "Je doute qu’ils ___ la réponse. (savoir)",
           "options": [
-            "savent",
             "sachent",
-            "sauront",
-            "savaient"
+            "savais",
+            "savent",
+            "sauront"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "savoir is irregular: qu’ils sachent."
         },
         {
           "sentence": "Il faut que nous ___ maintenant. (partir)",
           "options": [
             "partions",
+            "part",
             "partons",
-            "partirons",
-            "partent"
+            "partirons"
           ],
           "correct": 0,
           "explanation": "Regular subjunctive nous ending: -ions → que nous partions."
@@ -115,9 +115,9 @@
           "sentence": "Elle préfère que je ___ ici. (rester)",
           "options": [
             "reste",
-            "restes",
             "restais",
-            "resterai"
+            "resterai",
+            "restes"
           ],
           "correct": 0,
           "explanation": "Subjunctive after préférer que: que je reste."
@@ -125,12 +125,12 @@
         {
           "sentence": "Il est possible qu’il ___ demain. (pleuvoir)",
           "options": [
-            "pleut",
             "pleuve",
             "pleuvra",
+            "pleut",
             "pleuvait"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "pleuvoir is impersonal and irregular: qu’il pleuve."
         },
         {
@@ -147,45 +147,45 @@
         {
           "sentence": "Il faut que vous ___ attention. (faire)",
           "options": [
-            "faites",
             "fassiez",
-            "faisiez",
-            "fassent"
+            "faisait",
+            "fait",
+            "faites"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "faire is irregular: que vous fassiez."
         },
         {
           "sentence": "Je veux qu’elle ___ heureuse. (être)",
           "options": [
-            "est",
             "soit",
-            "sera",
-            "sois"
+            "serai",
+            "est",
+            "sera"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "être is irregular: qu’elle soit."
         },
         {
           "sentence": "Il faut que j’___ du courage. (avoir)",
           "options": [
-            "ai",
             "aie",
             "aurai",
+            "ai",
             "avais"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "avoir is irregular: que j’aie."
         },
         {
           "sentence": "Je préfère que nous ___ ensemble. (aller)",
           "options": [
-            "allons",
             "allions",
-            "aillions",
-            "aille"
+            "allais",
+            "alle",
+            "allerai"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "aller has all- for nous/vous: que nous allions."
         },
         {
@@ -202,98 +202,98 @@
         {
           "sentence": "Je crains qu’elle ___ malade. (être)",
           "options": [
-            "est",
             "soit",
-            "sera",
-            "était"
+            "serai",
+            "est",
+            "sera"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "Fear/emotion trigger subjunctive: qu’elle soit."
         },
         {
           "sentence": "Il faut que tu ___ ce livre. (lire)",
           "options": [
-            "lis",
             "lises",
-            "liras",
-            "lisais"
+            "lisais",
+            "lis",
+            "liras"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "lire: que tu lises."
         },
         {
           "sentence": "Je souhaite que vous ___ réussir. (pouvoir)",
           "options": [
-            "pouvez",
             "puissiez",
-            "pourrez",
-            "pouviez"
+            "pouvais",
+            "pouvez",
+            "pourrez"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "pouvoir is irregular: que vous puissiez."
         },
         {
           "sentence": "Il est dommage que nous ne ___ pas venir. (pouvoir)",
           "options": [
-            "pouvons",
             "puissions",
-            "pourrons",
-            "pouvions"
+            "pouvait",
+            "peut",
+            "pouvons"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "Subjunctive after il est dommage que: que nous puissions."
         },
         {
           "sentence": "Elle veut que je ___ plus prudent. (être)",
           "options": [
-            "suis",
             "sois",
             "serai",
+            "suis",
             "étais"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "être: que je sois."
         },
         {
           "sentence": "Il faut que vous ___ la priorité. (choisir)",
           "options": [
-            "choisissez",
             "choisissiez",
-            "choisirez",
-            "choisissent"
+            "choisit",
+            "choisissez",
+            "choisirez"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "choisir: que vous choisissiez."
         },
         {
           "sentence": "Je doute qu’il ___ raison. (avoir)",
           "options": [
-            "a",
             "ait",
-            "aura",
-            "avait"
+            "aurai",
+            "a",
+            "aura"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "avoir: qu’il ait."
         },
         {
           "sentence": "Il est possible que nous ___ en retard. (être)",
           "options": [
-            "sommes",
             "soyons",
-            "serons",
-            "étions"
+            "sera",
+            "est",
+            "sommes"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "être: que nous soyons."
         },
         {
           "sentence": "Je veux qu’ils ___ plus tôt. (finir)",
           "options": [
             "finissent",
-            "finissentent",
-            "finiront",
-            "finissaient"
+            "finirai",
+            "finissais",
+            "finis"
           ],
           "correct": 0,
           "explanation": "finir: qu’ils finissent."
@@ -301,31 +301,31 @@
         {
           "sentence": "Il faut que tu ___ tes clés. (prendre)",
           "options": [
-            "prends",
             "prennes",
             "prendras",
-            "prenais"
+            "prenais",
+            "prends"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "prendre: que tu prennes."
         },
         {
           "sentence": "Je suis heureux que vous ___ là. (être)",
           "options": [
-            "êtes",
             "soyez",
-            "serez",
-            "étiez"
+            "serai",
+            "êtes",
+            "serez"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "être: que vous soyez."
         },
         {
           "sentence": "Il faut qu’elle ___ son travail. (envoyer)",
           "options": [
             "envoie",
-            "envoiee",
             "enverra",
+            "envoiee",
             "envoyait"
           ],
           "correct": 0,
@@ -334,43 +334,43 @@
         {
           "sentence": "Je veux que nous ___ ce problème. (résoudre)",
           "options": [
-            "résolvons",
             "résolvions",
-            "résoudrons",
-            "résolvent"
+            "résolvais",
+            "résolvons",
+            "résoudrons"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "résoudre: que nous résolvions."
         },
         {
           "sentence": "Il est essentiel que chacun ___ son rôle. (connaître)",
           "options": [
-            "connaît",
             "connaisse",
-            "connaîtra",
-            "connaissait"
+            "connaissait",
+            "connaît",
+            "connaîtra"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "connaître: que chacun connaisse."
         },
         {
           "sentence": "Je préfère que tu ne ___ rien. (dire)",
           "options": [
-            "dis",
             "dise",
+            "dis",
             "diras",
             "disais"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "dire: que tu dises."
         },
         {
           "sentence": "Il faut qu’ils ___ le train. (prendre)",
           "options": [
             "prennent",
-            "prends",
-            "prendront",
-            "prenaient"
+            "prendra",
+            "prenait",
+            "prend"
           ],
           "correct": 0,
           "explanation": "prendre: qu’ils prennent."
@@ -378,31 +378,31 @@
         {
           "sentence": "Je souhaite qu’elle ___ ses examens. (réussir)",
           "options": [
-            "réussit",
             "réussisse",
+            "réussit",
             "réussira",
             "réussissait"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "réussir: qu’elle réussisse."
         },
         {
           "sentence": "Il est urgent que nous ___ une solution. (trouver)",
           "options": [
-            "trouvons",
             "trouvions",
-            "trouverons",
-            "trouvaient"
+            "trouve",
+            "trouvait",
+            "trouvera"
           ],
-          "correct": 1,
+          "correct": 0,
           "explanation": "trouver: que nous trouvions."
         },
         {
           "sentence": "Il faut que je ___ plus d’eau. (boire)",
           "options": [
             "boive",
-            "bois",
             "buvais",
+            "bois",
             "boirai"
           ],
           "correct": 0,
@@ -412,9 +412,9 @@
           "sentence": "Je veux que nous ___ moins de café. (boire)",
           "options": [
             "buvions",
-            "boivions",
-            "buvons",
-            "boirons"
+            "buvais",
+            "bois",
+            "boivions"
           ],
           "correct": 0,
           "explanation": "boire uses buv- for nous/vous: que nous buvions."
@@ -423,9 +423,9 @@
           "sentence": "Il est possible qu’ils ___ bientôt. (recevoir)",
           "options": [
             "reçoivent",
-            "reçevissent",
-            "recevront",
-            "reçoivents"
+            "recevra",
+            "recevait",
+            "reçevissent"
           ],
           "correct": 0,
           "explanation": "recevoir: qu’ils reçoivent."
@@ -434,9 +434,9 @@
           "sentence": "Je doute que vous ___ le message. (recevoir)",
           "options": [
             "receviez",
-            "reçoiviez",
-            "recevez",
-            "recevrez"
+            "recevrai",
+            "recevais",
+            "reçois"
           ],
           "correct": 0,
           "explanation": "recevoir uses recev- for vous: que vous receviez."
@@ -445,9 +445,9 @@
           "sentence": "Il faut qu’elle ___ la règle. (connaître)",
           "options": [
             "connaisse",
+            "connaissait",
             "connaît",
-            "connaitra",
-            "connaissait"
+            "connaitra"
           ],
           "correct": 0,
           "explanation": "connaître: qu’elle connaisse."
@@ -456,9 +456,9 @@
           "sentence": "Je souhaite que tu ___ ce texte. (lire)",
           "options": [
             "lises",
+            "lisais",
             "lis",
-            "liras",
-            "lisais"
+            "liras"
           ],
           "correct": 0,
           "explanation": "lire: que tu lises."
@@ -467,9 +467,9 @@
           "sentence": "Il faut qu’ils ___ clairement. (écrire)",
           "options": [
             "écrivent",
-            "écrivissent",
-            "écriront",
-            "écriventent"
+            "écrira",
+            "écrivait",
+            "écrit"
           ],
           "correct": 0,
           "explanation": "écrire: qu’ils écrivent."
@@ -478,9 +478,9 @@
           "sentence": "Je veux que nous ___ une réponse. (mettre)",
           "options": [
             "mettions",
-            "mettons",
-            "mettionss",
-            "mettrons"
+            "mettrai",
+            "mettais",
+            "mets"
           ],
           "correct": 0,
           "explanation": "mettre: que nous mettions."
@@ -489,9 +489,9 @@
           "sentence": "Il est important que vous ___ cette phrase. (traduire)",
           "options": [
             "traduisiez",
+            "traduisait",
             "traduisez",
-            "traduiriez",
-            "traduisissez"
+            "traduiriez"
           ],
           "correct": 0,
           "explanation": "traduire: que vous traduisiez."
@@ -511,9 +511,9 @@
           "sentence": "Il faut que je ___ mes clés. (retrouver)",
           "options": [
             "retrouve",
-            "retrouves",
+            "retrouvais",
             "retrouverai",
-            "retrouvais"
+            "retrouves"
           ],
           "correct": 0,
           "explanation": "retrouver: que je retrouve."
@@ -522,9 +522,9 @@
           "sentence": "Je suis content qu’elles ___ ensemble. (sortir)",
           "options": [
             "sortent",
-            "sortissent",
-            "sortiront",
-            "sortaient"
+            "sortais",
+            "sors",
+            "sortissent"
           ],
           "correct": 0,
           "explanation": "sortir: qu’elles sortent."
@@ -544,9 +544,9 @@
           "sentence": "Il faut que nous ___ à huit heures. (partir)",
           "options": [
             "partions",
+            "part",
             "partons",
-            "partirons",
-            "partissions"
+            "partirons"
           ],
           "correct": 0,
           "explanation": "partir: que nous partions."
@@ -555,9 +555,9 @@
           "sentence": "Je doute qu’ils ___ vite. (courir)",
           "options": [
             "courent",
-            "courissent",
-            "courront",
-            "couraient"
+            "courrai",
+            "courais",
+            "courissent"
           ],
           "correct": 0,
           "explanation": "courir: qu’ils courent."
@@ -566,9 +566,9 @@
           "sentence": "Il est possible qu’elle ___ à ce problème. (résoudre)",
           "options": [
             "résolve",
+            "résolvait",
             "résout",
-            "résoudra",
-            "résolvait"
+            "résoudra"
           ],
           "correct": 0,
           "explanation": "résoudre: qu’elle résolve."

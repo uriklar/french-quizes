@@ -92,7 +92,9 @@ export default function Quiz() {
       sec.questions.forEach((q, qi) => {
         const a = answers[sectionKey(si, qi)];
         if (a === undefined) return;
-        if (sec.type === 'multiple_choice' || sec.type === 'categorize') {
+        if (sec.type === 'multiple_choice') {
+          if (a === q.correct || a === q.options[q.correct]) correct++;
+        } else if (sec.type === 'categorize') {
           if (a === q.correct) correct++;
         } else if (sec.type === 'translate') {
           if (checkMatch(a, q.correct, q.alternates)) correct++;
